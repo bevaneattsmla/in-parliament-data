@@ -1,6 +1,6 @@
 {
   "generated": "2026-06-25",
-  "version": 2,
+  "version": 3,
   "note": "Card pool for the IN-PARLIAMENT wall and shadow pages. Edited by hand or by the card runbook. Validate before commit.",
   "cards": [
     "cards-2025.json",
