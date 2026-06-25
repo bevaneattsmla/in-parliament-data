@@ -1,5 +1,23 @@
 [
  {
+  "id": "2026-06-18_LA_040",
+  "kind": "qwn",
+  "type": "QUESTION WITHOUT NOTICE",
+  "date": "18 June 2026",
+  "iso": "2026-06-18",
+  "loc": "WARREN–BLACKWOOD",
+  "topics": ["AGED CARE", "HEALTH", "REGIONAL WA"],
+  "title": "$100 MILLION SCHEME, ITS OWN DEADLINE MISSED",
+  "summary": "Bevan asked the Minister for Aged Care and Seniors about the government's $100 million Aged Care Low Interest Loan Scheme, noting its own commitment that funding agreements would be announced and finalised by May 2026. He asked why that deadline had been missed, when the successful applicants and the total value of funding would be announced, and how many extra aged-care beds the program would deliver and when those beds would open. In a supplementary he asked whether the minister would commit additional funds if demand for the scheme exceeds the money available, so that worthy projects are not left behind. The minister said the assessments were in their final stages and an announcement would come soon, but did not give a date, a funding figure, or a number of beds, and did not commit additional funds.",
+  "status": "No clear answer",
+  "thread": "",
+  "portfolios": ["aged-care"],
+  "quote": "If demand for the scheme exceeds available funding, will the minister commit additional funds to ensure worthy projects are not left behind?",
+  "outcome": "The minister, Simone McGurk, said the government is closely engaged with the aged-care sector, pointed to praise from the national Ageing Australia chief executive and to planning reforms, and said the loan scheme assessments were in their final stages with an announcement coming soon. She did not give a date, a total funding figure, or a number of beds, and did not commit additional funds if demand exceeds the money available.",
+  "watch": "https://youtu.be/Nf4sTBjDE4U",
+  "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-18/40?sid=d2daa92063264420a7&talkerIndex=0#366f6218140b487da11a469a90892944"
+},
+ {
   "id": "2026-05-21_EST-B_012_t09",
   "kind": "est",
   "type": "ESTIMATES",
