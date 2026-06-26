@@ -1,10 +1,11 @@
 {
-  "generated": "2026-06-25",
-  "version": 6,
-  "note": "Card pool for the IN-PARLIAMENT wall and shadow pages. Edited by hand or by the card runbook. Validate before commit.",
+  "generated": "2026-06-26",
+  "version": 7,
+  "note": "Data pool for the IN-PARLIAMENT wall, shadow pages, and the Questions on Notice page. Edited by hand or by the runbooks. Validate before commit. Single shared version: bump it by one on ANY data change (cards, threads, or qon) so the loader re-fetches.",
   "cards": [
     "cards-2025.json",
     "cards-2026.json"
   ],
-  "threads": "threads.json"
+  "threads": "threads.json",
+  "qon": "qon.json"
 }
