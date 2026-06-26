@@ -1,11 +1,16 @@
 {
   "generated": "2026-06-26",
   "version": 7,
-  "note": "Data pool for the IN-PARLIAMENT wall, shadow pages, and the Questions on Notice page. Single shared version: bump it by one on ANY data change so the loader re-fetches.",
+  "note": "Data pool for the IN-PARLIAMENT wall, shadow pages, and the Questions on Notice tracker.",
   "cards": [
     "cards-2025.json",
     "cards-2026.json"
   ],
   "threads": "threads.json",
-  "qon": "qon.json"
+  "qon": "qon.json",
+  "la": 1,
+  "la_files": [
+    "la-lookup.json",
+    "members-la.json"
+  ]
 }
