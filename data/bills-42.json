@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "wa42_land-forces-special-powers",
+    "shortTitle": "Land Forces Event (Special Powers) Bill",
+    "fullTitle": "Land Forces Event (Special Powers) Bill 2026",
+    "billNo": "Bill 77",
+    "originHouse": "LA",
+    "portfolio": "Police",
+    "topics": ["Community Safety"],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": { "position": "", "rationale": "" },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AEA659CCB5D329F848258E180008F7BB",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-06-26",
+    "lastChecked": "2026-06-26"
+  }
+]
