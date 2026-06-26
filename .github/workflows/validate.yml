@@ -1,18 +1,20 @@
-name: Validate cards
+name: Validate cards and bills
 
-# Runs the card gate automatically on every push and pull request.
-# If the data has a duplicate id, a bad status, a broken shape, or an em-dash,
-# this fails and the change is blocked. No one can publish a broken card.
+# Runs the card and bill gates automatically on every push and pull request.
+# If the data has a duplicate id, a bad status or stage, a broken shape, or an
+# em-dash, this fails and the change is blocked. No one can publish broken data.
 
 on:
   push:
     paths:
       - 'data/**'
       - 'validate-cards.js'
+      - 'validate-bills.js'
   pull_request:
     paths:
       - 'data/**'
       - 'validate-cards.js'
+      - 'validate-bills.js'
 
 jobs:
   validate:
@@ -24,3 +26,5 @@ jobs:
           node-version: '20'
       - name: Run the card validator
         run: node validate-cards.js
+      - name: Run the bill validator
+        run: node validate-bills.js
