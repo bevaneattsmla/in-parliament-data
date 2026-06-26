@@ -1,0 +1,423 @@
+{
+ "meta": {
+  "updated": "2026-06-26",
+  "source": "WA Parliament, Current Legislative Assembly members by electorate (saved page)",
+  "note": "district names must match la-lookup.json exactly. Emails are taken from Parliament's published contact details, not constructed. Some are electorate-office mailboxes by design.",
+  "count": 59
+ },
+ "members": [
+  {
+   "district": "Albany",
+   "name": "Scott Leary",
+   "party": "The Nationals WA",
+   "email": "scott.leary@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Leary,+Scott?opendocument"
+  },
+  {
+   "district": "Armadale",
+   "name": "Tony Buti",
+   "party": "WA Labor",
+   "email": "armadale@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Buti,+Antonio+(Tony)?opendocument"
+  },
+  {
+   "district": "Balcatta",
+   "name": "David Michael",
+   "party": "WA Labor",
+   "email": "David.Michael@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Michael,+David?opendocument"
+  },
+  {
+   "district": "Baldivis",
+   "name": "Reece Whitby",
+   "party": "WA Labor",
+   "email": "Baldivis@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Whitby,+Reece?opendocument"
+  },
+  {
+   "district": "Bassendean",
+   "name": "Dave Kelly",
+   "party": "WA Labor",
+   "email": "Dave.Kelly@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Kelly,+David+(Dave)?opendocument"
+  },
+  {
+   "district": "Bateman",
+   "name": "Kim Giddens",
+   "party": "WA Labor",
+   "email": "Kim.Giddens@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Giddens,+Kim?opendocument"
+  },
+  {
+   "district": "Belmont",
+   "name": "Cassie Rowe",
+   "party": "WA Labor",
+   "email": "cassie.rowe@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Rowe,+Cassandra+(Cassie)?opendocument"
+  },
+  {
+   "district": "Bibra Lake",
+   "name": "Sook Yee Lai",
+   "party": "WA Labor",
+   "email": "sookyee.lai@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Lai,+Sook+Yee+(Sook%20Yee)?opendocument"
+  },
+  {
+   "district": "Bicton",
+   "name": "Lisa O'Malley",
+   "party": "WA Labor",
+   "email": "bicton@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/O'Malley,+Lisa?opendocument"
+  },
+  {
+   "district": "Bunbury",
+   "name": "Don Punch",
+   "party": "WA Labor",
+   "email": "Bunbury@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Punch,+Donald+(Don)?opendocument"
+  },
+  {
+   "district": "Butler",
+   "name": "Lorna Clarke",
+   "party": "WA Labor",
+   "email": "lorna.clarke@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Clarke,+Lorna?opendocument"
+  },
+  {
+   "district": "Cannington",
+   "name": "Ron Sao",
+   "party": "WA Labor",
+   "email": "cannington@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Sao,+Ronald+(Ron)?opendocument"
+  },
+  {
+   "district": "Carine",
+   "name": "Liam Staltari",
+   "party": "Liberal Party",
+   "email": "liam.staltari@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Staltari,+Liam?opendocument"
+  },
+  {
+   "district": "Central Wheatbelt",
+   "name": "Lachlan Hunter",
+   "party": "The Nationals WA",
+   "email": "Lachlan.Hunter@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Hunter,+Lachlan?opendocument"
+  },
+  {
+   "district": "Churchlands",
+   "name": "Basil Zempilas",
+   "party": "Liberal Party",
+   "email": "basil.zempilas@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Zempilas,+Basil?opendocument"
+  },
+  {
+   "district": "Cockburn",
+   "name": "David Scaife",
+   "party": "WA Labor",
+   "email": "David.Scaife@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Scaife,+David?opendocument"
+  },
+  {
+   "district": "Collie-Preston",
+   "name": "Jodie Hanns",
+   "party": "WA Labor",
+   "email": "Jodie.Hanns@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Hanns,+Jodie?opendocument"
+  },
+  {
+   "district": "Cottesloe",
+   "name": "Sandra Brewer",
+   "party": "Liberal Party",
+   "email": "sandra.brewer@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Brewer,+Sandra?opendocument"
+  },
+  {
+   "district": "Darling Range",
+   "name": "Hugh Jones",
+   "party": "WA Labor",
+   "email": "hugh.jones@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Jones,+Hugh?opendocument"
+  },
+  {
+   "district": "Dawesville",
+   "name": "Lisa Munday",
+   "party": "WA Labor",
+   "email": "lisa.munday@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Munday,+Lisa?opendocument"
+  },
+  {
+   "district": "Forrestfield",
+   "name": "Stephen Price",
+   "party": "WA Labor",
+   "email": "stephen.price.mla@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Price,+Stephen?opendocument"
+  },
+  {
+   "district": "Fremantle",
+   "name": "Simone McGurk",
+   "party": "WA Labor",
+   "email": "fremantle@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/McGurk,+Simone?opendocument"
+  },
+  {
+   "district": "Geraldton",
+   "name": "Kirrilee Warr",
+   "party": "The Nationals WA",
+   "email": "kirrilee.warr@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Warr,+Kirrilee?opendocument"
+  },
+  {
+   "district": "Girrawheen",
+   "name": "Meredith Hammat",
+   "party": "WA Labor",
+   "email": "Meredith.Hammat@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Hammat,+Meredith?opendocument"
+  },
+  {
+   "district": "Hillarys",
+   "name": "Caitlin Collins",
+   "party": "WA Labor",
+   "email": "Caitlin.Collins@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Collins,+Caitlin?opendocument"
+  },
+  {
+   "district": "Jandakot",
+   "name": "Stephen Pratt",
+   "party": "WA Labor",
+   "email": "Stephen.Pratt@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Pratt,+Stephen?opendocument"
+  },
+  {
+   "district": "Joondalup",
+   "name": "Emily Hamilton",
+   "party": "WA Labor",
+   "email": "emily.hamilton@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Hamilton,+Emily?opendocument"
+  },
+  {
+   "district": "Kalamunda",
+   "name": "Adam Hort",
+   "party": "Liberal Party",
+   "email": "adam.hort@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Hort,+Adam+(Adam)?opendocument"
+  },
+  {
+   "district": "Kalgoorlie",
+   "name": "Ali Kent",
+   "party": "WA Labor",
+   "email": "ali.kent@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Kent,+Alison+(Ali)?opendocument"
+  },
+  {
+   "district": "Kimberley",
+   "name": "Divina D'Anna",
+   "party": "WA Labor",
+   "email": "Divina.DAnna@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/D'Anna,+Divina?opendocument"
+  },
+  {
+   "district": "Kingsley",
+   "name": "Jessica Stojkovski",
+   "party": "WA Labor",
+   "email": "jessica.stojkovski@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Stojkovski,+Jessica?opendocument"
+  },
+  {
+   "district": "Kwinana",
+   "name": "Roger Cook",
+   "party": "WA Labor",
+   "email": "kwinana@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Cook,+Roger?opendocument"
+  },
+  {
+   "district": "Landsdale",
+   "name": "Daniel Pastorelli",
+   "party": "WA Labor",
+   "email": "daniel.pastorelli@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Pastorelli,+Daniel?opendocument"
+  },
+  {
+   "district": "Mandurah",
+   "name": "Rhys Williams",
+   "party": "WA Labor",
+   "email": "rhys.williams@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Williams,+Rhys+(Rhys)?opendocument"
+  },
+  {
+   "district": "Maylands",
+   "name": "Dan Bull",
+   "party": "WA Labor",
+   "email": "dan.bull@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Bull,+Daniel+(Dan)?opendocument"
+  },
+  {
+   "district": "Mid-West",
+   "name": "Shane Love",
+   "party": "The Nationals WA",
+   "email": "Mid-West@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Love,+Ronald+(Shane)?opendocument"
+  },
+  {
+   "district": "Midland",
+   "name": "Steve Catania",
+   "party": "WA Labor",
+   "email": "midland@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Catania,+Steve?opendocument"
+  },
+  {
+   "district": "Mindarie",
+   "name": "Mark Folkard",
+   "party": "WA Labor",
+   "email": "mark.folkard@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Folkard,+Mark?opendocument"
+  },
+  {
+   "district": "Morley",
+   "name": "Amber-Jade Sanderson",
+   "party": "WA Labor",
+   "email": "amber.jade.sanderson@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Sanderson,+Amber-Jade?opendocument"
+  },
+  {
+   "district": "Mount Lawley",
+   "name": "Frank Paolino",
+   "party": "WA Labor",
+   "email": "frank.paolino@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Paolino,+Frank?opendocument"
+  },
+  {
+   "district": "Murray-Wellington",
+   "name": "David Bolt",
+   "party": "Liberal Party",
+   "email": "David.bolt@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Bolt,+David?opendocument"
+  },
+  {
+   "district": "Nedlands",
+   "name": "Jonathan Huston",
+   "party": "Independent",
+   "email": "jonathan.huston@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Huston,+Jonathan?opendocument"
+  },
+  {
+   "district": "Oakford",
+   "name": "Yaz Mubarakai",
+   "party": "WA Labor",
+   "email": "yaz.mubarakai@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Mubarakai,+Shahyaz+(Yaz)?opendocument"
+  },
+  {
+   "district": "Perth",
+   "name": "John Carey",
+   "party": "WA Labor",
+   "email": "john.carey@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Carey,+John?opendocument"
+  },
+  {
+   "district": "Pilbara",
+   "name": "Kevin Michel",
+   "party": "WA Labor",
+   "email": "kevin.michel@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Michel,+Kevin?opendocument"
+  },
+  {
+   "district": "Riverton",
+   "name": "Jags Krishnan",
+   "party": "WA Labor",
+   "email": "Jags.Krishnan@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Krishnan,+Jagadish+(Jags)?opendocument"
+  },
+  {
+   "district": "Rockingham",
+   "name": "Magenta Marshall",
+   "party": "WA Labor",
+   "email": "magenta.marshall@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Marshall,+Magenta?opendocument"
+  },
+  {
+   "district": "Roe",
+   "name": "Peter Rundle",
+   "party": "The Nationals WA",
+   "email": "peter.rundle@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Rundle,+Peter?opendocument"
+  },
+  {
+   "district": "Scarborough",
+   "name": "Stuart Aubrey",
+   "party": "WA Labor",
+   "email": "stuart.aubrey@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Aubrey,+Stuart?opendocument"
+  },
+  {
+   "district": "Secret Harbour",
+   "name": "Paul Papalia",
+   "party": "WA Labor",
+   "email": "paul.papalia@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Papalia,+Paul?opendocument"
+  },
+  {
+   "district": "South Perth",
+   "name": "Geoff Baker",
+   "party": "WA Labor",
+   "email": "geoff.baker@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Baker,+Geoffrey+(Geoff)?opendocument"
+  },
+  {
+   "district": "Southern River",
+   "name": "Terry Healy",
+   "party": "WA Labor",
+   "email": "terry.healy@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Healy,+Terence+(Terry)?opendocument"
+  },
+  {
+   "district": "Swan Hills",
+   "name": "Michelle Maynard",
+   "party": "WA Labor",
+   "email": "michelle.maynard@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Maynard,+Michelle?opendocument"
+  },
+  {
+   "district": "Thornlie",
+   "name": "Colleen Egan",
+   "party": "WA Labor",
+   "email": "colleen.egan@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Egan,+Colleen?opendocument"
+  },
+  {
+   "district": "Vasse",
+   "name": "Libby Mettam",
+   "party": "Liberal Party",
+   "email": "libby.mettam@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Mettam,+Elizabeth+(Libby)?opendocument"
+  },
+  {
+   "district": "Victoria Park",
+   "name": "Hannah Beazley",
+   "party": "WA Labor",
+   "email": "Hannah.Beazley@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Beazley,+Hannah?opendocument"
+  },
+  {
+   "district": "Wanneroo",
+   "name": "Sabine Winton",
+   "party": "WA Labor",
+   "email": "sabine.winton.mla@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Winton,+Sabine?opendocument"
+  },
+  {
+   "district": "Warren-Blackwood",
+   "name": "Bevan Eatts",
+   "party": "The Nationals WA",
+   "email": "bevan.eatts@mp.wa.gov.au",
+   "url": "https://www.bevaneatts.com.au/raise-it-with-bevan"
+  },
+  {
+   "district": "West Swan",
+   "name": "Rita Saffioti",
+   "party": "WA Labor",
+   "email": "westswan@mp.wa.gov.au",
+   "url": "https://www.parliament.wa.gov.au/Parliament/Memblist.nsf/WAllMembersFlat2/Saffioti,+Rita?opendocument"
+  }
+ ]
+}

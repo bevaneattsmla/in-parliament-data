@@ -1,0 +1,10635 @@
+{
+ "meta": {
+  "generated": "2026-06-26",
+  "source": "WA Electoral Boundaries: Enrolment Statistics by District LG Locality Postcode SA1",
+  "note": "Postcode and suburb to Legislative Assembly district. A postcode or suburb may map to more than one district; all are listed. Nothing here is invented; rebuild from the WAEC file at the next redistribution.",
+  "districts": 59,
+  "postcodes": 382,
+  "localities": 1604
+ },
+ "byPostcode": {
+  "0872": {
+   "GIBSON DESERT NORTH": [
+    "Kimberley"
+   ],
+   "KANPA": [
+    "Kalgoorlie"
+   ],
+   "NGAANYATJARRA-GILES": [
+    "Kalgoorlie"
+   ],
+   "PATJARR": [
+    "Kalgoorlie"
+   ],
+   "TJIRRKARLI": [
+    "Kalgoorlie"
+   ]
+  },
+  "6000": {
+   "PERTH": [
+    "Perth"
+   ]
+  },
+  "6003": {
+   "HIGHGATE": [
+    "Perth"
+   ],
+   "NORTHBRIDGE": [
+    "Perth"
+   ]
+  },
+  "6004": {
+   "EAST PERTH": [
+    "Mount Lawley",
+    "Perth"
+   ]
+  },
+  "6005": {
+   "KINGS PARK": [
+    "Perth"
+   ],
+   "WEST PERTH": [
+    "Nedlands",
+    "Perth"
+   ]
+  },
+  "6006": {
+   "NORTH PERTH": [
+    "Mount Lawley",
+    "Perth"
+   ]
+  },
+  "6007": {
+   "LEEDERVILLE": [
+    "Perth"
+   ],
+   "WEST LEEDERVILLE": [
+    "Churchlands",
+    "Nedlands"
+   ]
+  },
+  "6008": {
+   "DAGLISH": [
+    "Nedlands"
+   ],
+   "SHENTON PARK": [
+    "Nedlands"
+   ],
+   "SUBIACO": [
+    "Nedlands"
+   ]
+  },
+  "6009": {
+   "CRAWLEY": [
+    "Nedlands"
+   ],
+   "DALKEITH": [
+    "Cottesloe",
+    "Nedlands"
+   ],
+   "NEDLANDS": [
+    "Nedlands"
+   ]
+  },
+  "6010": {
+   "CLAREMONT": [
+    "Cottesloe",
+    "Nedlands"
+   ],
+   "KARRAKATTA": [
+    "Nedlands"
+   ],
+   "MT CLAREMONT": [
+    "Cottesloe",
+    "Nedlands"
+   ],
+   "SWANBOURNE": [
+    "Cottesloe"
+   ]
+  },
+  "6011": {
+   "COTTESLOE": [
+    "Cottesloe"
+   ],
+   "PEPPERMINT GROVE": [
+    "Cottesloe"
+   ]
+  },
+  "6012": {
+   "MOSMAN PARK": [
+    "Cottesloe"
+   ]
+  },
+  "6014": {
+   "FLOREAT": [
+    "Churchlands",
+    "Nedlands"
+   ],
+   "JOLIMONT": [
+    "Nedlands"
+   ],
+   "WEMBLEY": [
+    "Churchlands",
+    "Nedlands"
+   ]
+  },
+  "6015": {
+   "CITY BEACH": [
+    "Churchlands",
+    "Cottesloe"
+   ]
+  },
+  "6016": {
+   "GLENDALOUGH": [
+    "Churchlands"
+   ],
+   "MT HAWTHORN": [
+    "Perth"
+   ]
+  },
+  "6017": {
+   "OSBORNE PARK": [
+    "Balcatta",
+    "Churchlands",
+    "Perth"
+   ]
+  },
+  "6018": {
+   "CHURCHLANDS": [
+    "Churchlands"
+   ],
+   "DOUBLEVIEW": [
+    "Churchlands",
+    "Scarborough"
+   ],
+   "GWELUP": [
+    "Carine",
+    "Scarborough"
+   ],
+   "INNALOO": [
+    "Churchlands",
+    "Scarborough"
+   ],
+   "KARRINYUP": [
+    "Carine",
+    "Scarborough"
+   ],
+   "WOODLANDS": [
+    "Churchlands",
+    "Scarborough"
+   ]
+  },
+  "6019": {
+   "SCARBOROUGH": [
+    "Churchlands",
+    "Scarborough"
+   ],
+   "WEMBLEY DOWNS": [
+    "Churchlands"
+   ]
+  },
+  "6020": {
+   "CARINE": [
+    "Carine"
+   ],
+   "MARMION": [
+    "Carine"
+   ],
+   "NORTH BEACH": [
+    "Carine"
+   ],
+   "SORRENTO": [
+    "Carine"
+   ],
+   "WATERMANS BAY": [
+    "Carine"
+   ]
+  },
+  "6021": {
+   "BALCATTA": [
+    "Balcatta"
+   ],
+   "STIRLING": [
+    "Balcatta"
+   ]
+  },
+  "6022": {
+   "HAMERSLEY": [
+    "Kingsley"
+   ]
+  },
+  "6023": {
+   "DUNCRAIG": [
+    "Carine"
+   ]
+  },
+  "6024": {
+   "GREENWOOD": [
+    "Kingsley"
+   ],
+   "WARWICK": [
+    "Kingsley"
+   ]
+  },
+  "6025": {
+   "CRAIGIE": [
+    "Hillarys"
+   ],
+   "HILLARYS": [
+    "Hillarys"
+   ],
+   "KALLAROO": [
+    "Hillarys"
+   ],
+   "PADBURY": [
+    "Carine",
+    "Hillarys"
+   ]
+  },
+  "6026": {
+   "KINGSLEY": [
+    "Kingsley"
+   ],
+   "WOODVALE": [
+    "Kingsley"
+   ]
+  },
+  "6027": {
+   "BELDON": [
+    "Hillarys"
+   ],
+   "CONNOLLY": [
+    "Joondalup"
+   ],
+   "EDGEWATER": [
+    "Joondalup"
+   ],
+   "HEATHRIDGE": [
+    "Joondalup"
+   ],
+   "JOONDALUP": [
+    "Joondalup"
+   ],
+   "MULLALOO": [
+    "Hillarys"
+   ],
+   "OCEAN REEF": [
+    "Hillarys",
+    "Joondalup"
+   ]
+  },
+  "6028": {
+   "BURNS BEACH": [
+    "Joondalup"
+   ],
+   "CURRAMBINE": [
+    "Joondalup"
+   ],
+   "ILUKA": [
+    "Joondalup"
+   ],
+   "KINROSS": [
+    "Mindarie"
+   ]
+  },
+  "6029": {
+   "TRIGG": [
+    "Carine",
+    "Scarborough"
+   ]
+  },
+  "6030": {
+   "CLARKSON": [
+    "Mindarie"
+   ],
+   "MERRIWA": [
+    "Mindarie"
+   ],
+   "MINDARIE": [
+    "Mindarie"
+   ],
+   "QUINNS ROCKS": [
+    "Mindarie"
+   ],
+   "RIDGEWOOD": [
+    "Butler",
+    "Mindarie"
+   ]
+  },
+  "6031": {
+   "BANKSIA GROVE": [
+    "Wanneroo"
+   ],
+   "CARRAMAR": [
+    "Wanneroo"
+   ],
+   "NEERABUP": [
+    "Mindarie",
+    "Wanneroo"
+   ]
+  },
+  "6032": {
+   "NOWERGUP": [
+    "Wanneroo"
+   ]
+  },
+  "6033": {
+   "CARABOODA": [
+    "Butler",
+    "Wanneroo"
+   ]
+  },
+  "6034": {
+   "EGLINTON": [
+    "Butler"
+   ]
+  },
+  "6035": {
+   "YANCHEP": [
+    "Butler"
+   ]
+  },
+  "6036": {
+   "BUTLER": [
+    "Butler"
+   ],
+   "JINDALEE": [
+    "Butler"
+   ]
+  },
+  "6037": {
+   "TWO ROCKS": [
+    "Butler"
+   ]
+  },
+  "6038": {
+   "ALKIMOS": [
+    "Butler"
+   ]
+  },
+  "6041": {
+   "CARABAN": [
+    "Mid-West"
+   ],
+   "GABBADAH": [
+    "Mid-West"
+   ],
+   "GUILDERTON": [
+    "Mid-West"
+   ],
+   "WILBINGA": [
+    "Mid-West"
+   ],
+   "WOODRIDGE": [
+    "Mid-West"
+   ]
+  },
+  "6042": {
+   "SEABIRD": [
+    "Mid-West"
+   ]
+  },
+  "6043": {
+   "BRETON BAY": [
+    "Mid-West"
+   ],
+   "LEDGE POINT": [
+    "Mid-West"
+   ]
+  },
+  "6044": {
+   "KARAKIN": [
+    "Mid-West"
+   ],
+   "LANCELIN": [
+    "Mid-West"
+   ],
+   "NILGEN": [
+    "Mid-West"
+   ],
+   "WEDGE ISLAND": [
+    "Mid-West"
+   ]
+  },
+  "6050": {
+   "COOLBINIA": [
+    "Mount Lawley",
+    "Perth"
+   ],
+   "MENORA": [
+    "Mount Lawley"
+   ],
+   "MT LAWLEY": [
+    "Mount Lawley",
+    "Perth"
+   ]
+  },
+  "6051": {
+   "MAYLANDS": [
+    "Maylands",
+    "Mount Lawley"
+   ]
+  },
+  "6052": {
+   "BEDFORD": [
+    "Maylands"
+   ],
+   "INGLEWOOD": [
+    "Maylands",
+    "Mount Lawley"
+   ]
+  },
+  "6053": {
+   "BAYSWATER": [
+    "Bassendean",
+    "Maylands"
+   ]
+  },
+  "6054": {
+   "ASHFIELD": [
+    "Bassendean"
+   ],
+   "BASSENDEAN": [
+    "Bassendean"
+   ],
+   "EDEN HILL": [
+    "Bassendean"
+   ],
+   "KIARA": [
+    "Bassendean"
+   ],
+   "LOCKRIDGE": [
+    "Bassendean"
+   ]
+  },
+  "6055": {
+   "BRABHAM": [
+    "West Swan"
+   ],
+   "BUSHMEAD": [
+    "Forrestfield"
+   ],
+   "CAVERSHAM": [
+    "Midland"
+   ],
+   "DAYTON": [
+    "West Swan"
+   ],
+   "GUILDFORD": [
+    "Midland"
+   ],
+   "HAZELMERE": [
+    "Belmont",
+    "Forrestfield"
+   ],
+   "HENLEY BROOK": [
+    "West Swan"
+   ],
+   "SOUTH GUILDFORD": [
+    "Belmont"
+   ],
+   "WEST SWAN": [
+    "Midland",
+    "West Swan"
+   ]
+  },
+  "6056": {
+   "BASKERVILLE": [
+    "Swan Hills"
+   ],
+   "BELLEVUE": [
+    "Midland"
+   ],
+   "BOYA": [
+    "Midland"
+   ],
+   "GREENMOUNT": [
+    "Midland"
+   ],
+   "HELENA VALLEY": [
+    "Forrestfield",
+    "Midland"
+   ],
+   "HERNE HILL": [
+    "Swan Hills"
+   ],
+   "JANE BROOK": [
+    "Midland"
+   ],
+   "KOONGAMIA": [
+    "Midland"
+   ],
+   "MIDDLE SWAN": [
+    "Midland",
+    "Swan Hills"
+   ],
+   "MIDLAND": [
+    "Midland"
+   ],
+   "MIDVALE": [
+    "Midland"
+   ],
+   "MILLENDON": [
+    "Swan Hills"
+   ],
+   "RED HILL": [
+    "Midland"
+   ],
+   "STRATTON": [
+    "Midland"
+   ],
+   "SWAN VIEW": [
+    "Midland"
+   ],
+   "VIVEASH": [
+    "Midland"
+   ],
+   "WOODBRIDGE": [
+    "Midland"
+   ]
+  },
+  "6057": {
+   "HIGH WYCOMBE": [
+    "Forrestfield"
+   ],
+   "MAIDA VALE": [
+    "Forrestfield",
+    "Kalamunda"
+   ]
+  },
+  "6058": {
+   "FORRESTFIELD": [
+    "Forrestfield"
+   ]
+  },
+  "6059": {
+   "DIANELLA": [
+    "Morley",
+    "Mount Lawley"
+   ]
+  },
+  "6060": {
+   "JOONDANNA": [
+    "Balcatta"
+   ],
+   "TUART HILL": [
+    "Balcatta"
+   ],
+   "YOKINE": [
+    "Mount Lawley"
+   ]
+  },
+  "6061": {
+   "BALGA": [
+    "Girrawheen"
+   ],
+   "MIRRABOOKA": [
+    "Girrawheen",
+    "Morley"
+   ],
+   "NOLLAMARA": [
+    "Morley"
+   ],
+   "WESTMINSTER": [
+    "Balcatta"
+   ]
+  },
+  "6062": {
+   "EMBLETON": [
+    "Bassendean",
+    "Maylands"
+   ],
+   "MORLEY": [
+    "Bassendean",
+    "Maylands",
+    "Morley",
+    "Mount Lawley"
+   ],
+   "NORANDA": [
+    "Morley"
+   ]
+  },
+  "6063": {
+   "BEECHBORO": [
+    "Bassendean"
+   ],
+   "BENNETT SPRINGS": [
+    "Bassendean",
+    "West Swan"
+   ]
+  },
+  "6064": {
+   "ALEXANDER HEIGHTS": [
+    "Girrawheen"
+   ],
+   "GIRRAWHEEN": [
+    "Girrawheen"
+   ],
+   "KOONDOOLA": [
+    "Girrawheen"
+   ],
+   "MARANGAROO": [
+    "Girrawheen",
+    "Landsdale"
+   ]
+  },
+  "6065": {
+   "ASHBY": [
+    "Wanneroo"
+   ],
+   "DARCH": [
+    "Landsdale"
+   ],
+   "HOCKING": [
+    "Landsdale"
+   ],
+   "LANDSDALE": [
+    "Landsdale"
+   ],
+   "MADELEY": [
+    "Landsdale"
+   ],
+   "PEARSALL": [
+    "Landsdale"
+   ],
+   "SINAGRA": [
+    "Wanneroo"
+   ],
+   "TAPPING": [
+    "Wanneroo"
+   ],
+   "WANGARA": [
+    "Landsdale"
+   ],
+   "WANNEROO": [
+    "Landsdale",
+    "Wanneroo"
+   ]
+  },
+  "6066": {
+   "BALLAJURA": [
+    "West Swan"
+   ]
+  },
+  "6067": {
+   "CULLACABARDEE": [
+    "West Swan"
+   ]
+  },
+  "6068": {
+   "WHITEMAN": [
+    "West Swan"
+   ]
+  },
+  "6069": {
+   "AVELEY": [
+    "Swan Hills"
+   ],
+   "BELHUS": [
+    "Swan Hills"
+   ],
+   "BRIGADOON": [
+    "Swan Hills"
+   ],
+   "ELLENBROOK": [
+    "Swan Hills",
+    "West Swan"
+   ],
+   "THE VINES": [
+    "Swan Hills"
+   ],
+   "UPPER SWAN": [
+    "Swan Hills"
+   ]
+  },
+  "6070": {
+   "DARLINGTON": [
+    "Forrestfield",
+    "Kalamunda"
+   ]
+  },
+  "6071": {
+   "GLEN FORREST": [
+    "Kalamunda"
+   ],
+   "HOVEA": [
+    "Kalamunda"
+   ]
+  },
+  "6072": {
+   "MAHOGANY CREEK": [
+    "Kalamunda"
+   ]
+  },
+  "6073": {
+   "MUNDARING": [
+    "Kalamunda"
+   ]
+  },
+  "6074": {
+   "SAWYERS VALLEY": [
+    "Kalamunda"
+   ]
+  },
+  "6076": {
+   "BICKLEY": [
+    "Kalamunda"
+   ],
+   "CARMEL": [
+    "Kalamunda"
+   ],
+   "GOOSEBERRY HILL": [
+    "Forrestfield",
+    "Kalamunda"
+   ],
+   "HACKETTS GULLY": [
+    "Kalamunda"
+   ],
+   "KALAMUNDA": [
+    "Forrestfield",
+    "Kalamunda"
+   ],
+   "LESMURDIE": [
+    "Kalamunda"
+   ],
+   "PAULLS VALLEY": [
+    "Kalamunda"
+   ],
+   "PICKERING BROOK": [
+    "Kalamunda"
+   ],
+   "PIESSE BROOK": [
+    "Kalamunda"
+   ],
+   "WALLISTON": [
+    "Kalamunda"
+   ]
+  },
+  "6077": {
+   "GNANGARA": [
+    "Landsdale"
+   ],
+   "JANDABUP": [
+    "Landsdale"
+   ]
+  },
+  "6078": {
+   "MARIGINIUP": [
+    "Wanneroo"
+   ],
+   "PINJAR": [
+    "Wanneroo"
+   ]
+  },
+  "6079": {
+   "LEXIA": [
+    "West Swan"
+   ],
+   "MELALEUCA": [
+    "Swan Hills"
+   ]
+  },
+  "6081": {
+   "PARKERVILLE": [
+    "Kalamunda"
+   ],
+   "STONEVILLE": [
+    "Kalamunda"
+   ]
+  },
+  "6082": {
+   "BAILUP": [
+    "Kalamunda"
+   ],
+   "MT HELENA": [
+    "Kalamunda"
+   ]
+  },
+  "6083": {
+   "GIDGEGANNUP": [
+    "Swan Hills"
+   ],
+   "MORANGUP": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6084": {
+   "AVON VALLEY NATIONAL PARK": [
+    "Swan Hills"
+   ],
+   "BULLSBROOK": [
+    "Swan Hills"
+   ],
+   "CHITTERING": [
+    "Mid-West"
+   ],
+   "LOWER CHITTERING": [
+    "Mid-West"
+   ]
+  },
+  "6090": {
+   "MALAGA": [
+    "West Swan"
+   ]
+  },
+  "6100": {
+   "BURSWOOD": [
+    "Victoria Park"
+   ],
+   "LATHLAIN": [
+    "Victoria Park"
+   ],
+   "VICTORIA PARK": [
+    "South Perth",
+    "Victoria Park"
+   ]
+  },
+  "6101": {
+   "CARLISLE": [
+    "Victoria Park"
+   ],
+   "EAST VICTORIA PARK": [
+    "Victoria Park"
+   ]
+  },
+  "6102": {
+   "BENTLEY": [
+    "Cannington",
+    "Victoria Park"
+   ],
+   "ST JAMES": [
+    "Victoria Park"
+   ]
+  },
+  "6103": {
+   "RIVERVALE": [
+    "Belmont"
+   ]
+  },
+  "6104": {
+   "ASCOT": [
+    "Belmont"
+   ],
+   "BELMONT": [
+    "Belmont"
+   ],
+   "REDCLIFFE": [
+    "Belmont"
+   ]
+  },
+  "6105": {
+   "CLOVERDALE": [
+    "Belmont"
+   ],
+   "KEWDALE": [
+    "Belmont",
+    "Forrestfield"
+   ]
+  },
+  "6106": {
+   "WELSHPOOL": [
+    "Belmont",
+    "Cannington",
+    "Victoria Park"
+   ]
+  },
+  "6107": {
+   "BECKENHAM": [
+    "Cannington"
+   ],
+   "CANNINGTON": [
+    "Cannington"
+   ],
+   "EAST CANNINGTON": [
+    "Cannington"
+   ],
+   "KENWICK": [
+    "Cannington"
+   ],
+   "QUEENS PARK": [
+    "Cannington"
+   ],
+   "WATTLE GROVE": [
+    "Cannington",
+    "Forrestfield"
+   ],
+   "WILSON": [
+    "Cannington",
+    "Victoria Park"
+   ]
+  },
+  "6108": {
+   "THORNLIE": [
+    "Cannington",
+    "Thornlie"
+   ]
+  },
+  "6109": {
+   "MADDINGTON": [
+    "Thornlie"
+   ],
+   "ORANGE GROVE": [
+    "Thornlie"
+   ]
+  },
+  "6110": {
+   "GOSNELLS": [
+    "Southern River",
+    "Thornlie"
+   ],
+   "HUNTINGDALE": [
+    "Southern River"
+   ],
+   "MARTIN": [
+    "Thornlie"
+   ],
+   "SOUTHERN RIVER": [
+    "Southern River"
+   ]
+  },
+  "6111": {
+   "ASHENDON": [
+    "Darling Range"
+   ],
+   "CAMILLO": [
+    "Armadale"
+   ],
+   "CANNING MILLS": [
+    "Kalamunda"
+   ],
+   "CHAMPION LAKES": [
+    "Armadale"
+   ],
+   "KARRAGULLEN": [
+    "Darling Range"
+   ],
+   "KELMSCOTT": [
+    "Armadale"
+   ],
+   "ROLEYSTONE": [
+    "Darling Range"
+   ]
+  },
+  "6112": {
+   "ARMADALE": [
+    "Armadale"
+   ],
+   "BEDFORDALE": [
+    "Darling Range"
+   ],
+   "BROOKDALE": [
+    "Oakford"
+   ],
+   "DOOBARDA": [
+    "Oakford"
+   ],
+   "FORRESTDALE": [
+    "Oakford"
+   ],
+   "HARRISDALE": [
+    "Jandakot",
+    "Oakford"
+   ],
+   "HAYNES": [
+    "Oakford"
+   ],
+   "HILBERT": [
+    "Oakford"
+   ],
+   "MT NASURA": [
+    "Armadale"
+   ],
+   "MT RICHON": [
+    "Armadale",
+    "Darling Range"
+   ],
+   "PIARA WATERS": [
+    "Oakford"
+   ],
+   "SEVILLE GROVE": [
+    "Armadale"
+   ],
+   "WUNGONG": [
+    "Darling Range"
+   ]
+  },
+  "6121": {
+   "OAKFORD": [
+    "Oakford"
+   ],
+   "OLDBURY": [
+    "Darling Range"
+   ]
+  },
+  "6122": {
+   "BYFORD": [
+    "Darling Range"
+   ],
+   "CARDUP": [
+    "Darling Range"
+   ],
+   "DARLING DOWNS": [
+    "Darling Range",
+    "Oakford"
+   ],
+   "KARRAKUP": [
+    "Darling Range"
+   ]
+  },
+  "6123": {
+   "MUNDIJONG": [
+    "Darling Range"
+   ],
+   "WHITBY": [
+    "Darling Range"
+   ]
+  },
+  "6124": {
+   "JARRAHDALE": [
+    "Darling Range"
+   ]
+  },
+  "6125": {
+   "HOPELAND": [
+    "Darling Range"
+   ],
+   "MARDELLA": [
+    "Darling Range"
+   ],
+   "SERPENTINE": [
+    "Darling Range"
+   ]
+  },
+  "6126": {
+   "KEYSBROOK": [
+    "Darling Range",
+    "Murray-Wellington"
+   ]
+  },
+  "6147": {
+   "LANGFORD": [
+    "Cannington"
+   ],
+   "LYNWOOD": [
+    "Cannington"
+   ],
+   "PARKWOOD": [
+    "Riverton"
+   ]
+  },
+  "6148": {
+   "FERNDALE": [
+    "Cannington"
+   ],
+   "RIVERTON": [
+    "Riverton"
+   ],
+   "ROSSMOYNE": [
+    "Riverton"
+   ],
+   "SHELLEY": [
+    "Riverton"
+   ]
+  },
+  "6149": {
+   "BULL CREEK": [
+    "Riverton"
+   ],
+   "LEEMING": [
+    "Jandakot"
+   ]
+  },
+  "6150": {
+   "BATEMAN": [
+    "Bateman"
+   ],
+   "MURDOCH": [
+    "Bateman",
+    "Bibra Lake"
+   ],
+   "WINTHROP": [
+    "Bateman"
+   ]
+  },
+  "6151": {
+   "KENSINGTON": [
+    "South Perth",
+    "Victoria Park"
+   ],
+   "SOUTH PERTH": [
+    "South Perth"
+   ]
+  },
+  "6152": {
+   "COMO": [
+    "South Perth"
+   ],
+   "KARAWARA": [
+    "South Perth"
+   ],
+   "MANNING": [
+    "South Perth"
+   ],
+   "SALTER POINT": [
+    "South Perth"
+   ],
+   "WATERFORD": [
+    "South Perth"
+   ]
+  },
+  "6153": {
+   "APPLECROSS": [
+    "Bateman"
+   ],
+   "ARDROSS": [
+    "Bateman"
+   ],
+   "BRENTWOOD": [
+    "Bateman",
+    "Riverton"
+   ],
+   "MT PLEASANT": [
+    "Bateman",
+    "Riverton"
+   ]
+  },
+  "6154": {
+   "ALFRED COVE": [
+    "Bateman",
+    "Bicton"
+   ],
+   "BOORAGOON": [
+    "Bateman"
+   ],
+   "MYAREE": [
+    "Bateman",
+    "Bicton"
+   ]
+  },
+  "6155": {
+   "CANNING VALE": [
+    "Jandakot",
+    "Southern River"
+   ],
+   "WILLETTON": [
+    "Riverton"
+   ]
+  },
+  "6156": {
+   "ATTADALE": [
+    "Bicton"
+   ],
+   "MELVILLE": [
+    "Bicton"
+   ],
+   "WILLAGEE": [
+    "Bicton"
+   ]
+  },
+  "6157": {
+   "BICTON": [
+    "Bicton"
+   ],
+   "PALMYRA": [
+    "Bicton"
+   ]
+  },
+  "6158": {
+   "EAST FREMANTLE": [
+    "Bicton",
+    "Fremantle"
+   ]
+  },
+  "6159": {
+   "NORTH FREMANTLE": [
+    "Cottesloe"
+   ]
+  },
+  "6160": {
+   "FREMANTLE": [
+    "Fremantle"
+   ]
+  },
+  "6161": {
+   "ROTTNEST ISLAND": [
+    "Fremantle"
+   ]
+  },
+  "6162": {
+   "BEACONSFIELD": [
+    "Fremantle"
+   ],
+   "SOUTH FREMANTLE": [
+    "Fremantle"
+   ],
+   "WHITE GUM VALLEY": [
+    "Fremantle"
+   ]
+  },
+  "6163": {
+   "BIBRA LAKE": [
+    "Bibra Lake"
+   ],
+   "COOLBELLUP": [
+    "Bibra Lake"
+   ],
+   "HAMILTON HILL": [
+    "Bibra Lake",
+    "Fremantle"
+   ],
+   "HILTON": [
+    "Fremantle"
+   ],
+   "KARDINYA": [
+    "Bateman",
+    "Bibra Lake",
+    "Bicton"
+   ],
+   "NORTH COOGEE": [
+    "Fremantle"
+   ],
+   "NORTH LAKE": [
+    "Bibra Lake"
+   ],
+   "O'CONNOR": [
+    "Bicton"
+   ],
+   "SAMSON": [
+    "Bibra Lake"
+   ],
+   "SPEARWOOD": [
+    "Bibra Lake",
+    "Fremantle"
+   ]
+  },
+  "6164": {
+   "ATWELL": [
+    "Jandakot"
+   ],
+   "AUBIN GROVE": [
+    "Oakford"
+   ],
+   "BANJUP": [
+    "Jandakot",
+    "Oakford"
+   ],
+   "BEELIAR": [
+    "Cockburn"
+   ],
+   "COCKBURN CENTRAL": [
+    "Cockburn"
+   ],
+   "HAMMOND PARK": [
+    "Cockburn"
+   ],
+   "JANDAKOT": [
+    "Jandakot"
+   ],
+   "SOUTH LAKE": [
+    "Bibra Lake"
+   ],
+   "SUCCESS": [
+    "Cockburn"
+   ],
+   "TREEBY": [
+    "Jandakot"
+   ],
+   "YANGEBUP": [
+    "Cockburn"
+   ]
+  },
+  "6165": {
+   "HOPE VALLEY": [
+    "Kwinana"
+   ],
+   "NAVAL BASE": [
+    "Kwinana"
+   ]
+  },
+  "6166": {
+   "COOGEE": [
+    "Cockburn",
+    "Fremantle"
+   ],
+   "HENDERSON": [
+    "Cockburn"
+   ],
+   "LAKE COOGEE": [
+    "Cockburn"
+   ],
+   "MUNSTER": [
+    "Cockburn"
+   ],
+   "WATTLEUP": [
+    "Cockburn"
+   ]
+  },
+  "6167": {
+   "ANKETELL": [
+    "Oakford"
+   ],
+   "BERTRAM": [
+    "Kwinana"
+   ],
+   "CALISTA": [
+    "Kwinana"
+   ],
+   "CASUARINA": [
+    "Oakford"
+   ],
+   "KWINANA BEACH": [
+    "Kwinana"
+   ],
+   "KWINANA TOWN CENTRE": [
+    "Kwinana"
+   ],
+   "MANDOGALUP": [
+    "Kwinana"
+   ],
+   "MEDINA": [
+    "Kwinana"
+   ],
+   "ORELIA": [
+    "Kwinana"
+   ],
+   "PARMELIA": [
+    "Kwinana"
+   ],
+   "THE SPECTACLES": [
+    "Kwinana"
+   ],
+   "WANDI": [
+    "Oakford"
+   ]
+  },
+  "6168": {
+   "COOLOONGUP": [
+    "Baldivis",
+    "Rockingham"
+   ],
+   "EAST ROCKINGHAM": [
+    "Rockingham"
+   ],
+   "GARDEN ISLAND": [
+    "Rockingham"
+   ],
+   "HILLMAN": [
+    "Rockingham"
+   ],
+   "PERON": [
+    "Rockingham"
+   ],
+   "ROCKINGHAM": [
+    "Rockingham"
+   ]
+  },
+  "6169": {
+   "SAFETY BAY": [
+    "Rockingham"
+   ],
+   "SHOALWATER": [
+    "Rockingham"
+   ],
+   "WAIKIKI": [
+    "Baldivis",
+    "Rockingham"
+   ],
+   "WARNBRO": [
+    "Baldivis",
+    "Secret Harbour"
+   ]
+  },
+  "6170": {
+   "LEDA": [
+    "Kwinana"
+   ],
+   "WELLARD": [
+    "Darling Range",
+    "Kwinana"
+   ]
+  },
+  "6171": {
+   "BALDIVIS": [
+    "Baldivis",
+    "Darling Range",
+    "Kwinana"
+   ]
+  },
+  "6172": {
+   "PORT KENNEDY": [
+    "Baldivis",
+    "Secret Harbour"
+   ]
+  },
+  "6173": {
+   "SECRET HARBOUR": [
+    "Secret Harbour"
+   ]
+  },
+  "6174": {
+   "GOLDEN BAY": [
+    "Secret Harbour"
+   ]
+  },
+  "6175": {
+   "SINGLETON": [
+    "Secret Harbour"
+   ]
+  },
+  "6176": {
+   "KARNUP": [
+    "Secret Harbour"
+   ]
+  },
+  "6180": {
+   "LAKELANDS": [
+    "Secret Harbour"
+   ],
+   "PARKLANDS": [
+    "Mandurah"
+   ]
+  },
+  "6181": {
+   "STAKE HILL": [
+    "Murray-Wellington"
+   ]
+  },
+  "6207": {
+   "MYARA": [
+    "Murray-Wellington"
+   ],
+   "NAMBEELUP": [
+    "Murray-Wellington"
+   ],
+   "NORTH DANDALUP": [
+    "Murray-Wellington"
+   ],
+   "WHITTAKER": [
+    "Murray-Wellington"
+   ]
+  },
+  "6208": {
+   "BLYTHEWOOD": [
+    "Murray-Wellington"
+   ],
+   "FAIRBRIDGE": [
+    "Murray-Wellington"
+   ],
+   "MEELON": [
+    "Murray-Wellington"
+   ],
+   "NIRIMBA": [
+    "Murray-Wellington"
+   ],
+   "NORTH YUNDERUP": [
+    "Murray-Wellington"
+   ],
+   "OAKLEY": [
+    "Murray-Wellington"
+   ],
+   "PINJARRA": [
+    "Murray-Wellington"
+   ],
+   "POINT GREY": [
+    "Murray-Wellington"
+   ],
+   "RAVENSWOOD": [
+    "Murray-Wellington"
+   ],
+   "SOUTH YUNDERUP": [
+    "Murray-Wellington"
+   ],
+   "WEST PINJARRA": [
+    "Murray-Wellington"
+   ]
+  },
+  "6209": {
+   "BARRAGUP": [
+    "Murray-Wellington"
+   ],
+   "FURNISSDALE": [
+    "Murray-Wellington"
+   ]
+  },
+  "6210": {
+   "COODANUP": [
+    "Mandurah"
+   ],
+   "DUDLEY PARK": [
+    "Mandurah"
+   ],
+   "ERSKINE": [
+    "Dawesville"
+   ],
+   "FALCON": [
+    "Dawesville"
+   ],
+   "GREENFIELDS": [
+    "Mandurah"
+   ],
+   "HALLS HEAD": [
+    "Dawesville"
+   ],
+   "MADORA BAY": [
+    "Secret Harbour"
+   ],
+   "MANDURAH": [
+    "Mandurah"
+   ],
+   "MEADOW SPRINGS": [
+    "Mandurah"
+   ],
+   "SAN REMO": [
+    "Mandurah"
+   ],
+   "SILVER SANDS": [
+    "Mandurah"
+   ],
+   "WANNANUP": [
+    "Dawesville"
+   ]
+  },
+  "6211": {
+   "BOUVARD": [
+    "Dawesville"
+   ],
+   "DAWESVILLE": [
+    "Dawesville"
+   ],
+   "HERRON": [
+    "Dawesville"
+   ]
+  },
+  "6213": {
+   "DWELLINGUP": [
+    "Murray-Wellington"
+   ],
+   "HOLYOAKE": [
+    "Murray-Wellington"
+   ],
+   "INGLEHOPE": [
+    "Murray-Wellington"
+   ],
+   "MARRINUP": [
+    "Murray-Wellington"
+   ],
+   "TEESDALE": [
+    "Murray-Wellington"
+   ]
+  },
+  "6214": {
+   "BIRCHMONT": [
+    "Murray-Wellington"
+   ],
+   "COOLUP": [
+    "Murray-Wellington"
+   ],
+   "WEST COOLUP": [
+    "Murray-Wellington"
+   ]
+  },
+  "6215": {
+   "HAMEL": [
+    "Murray-Wellington"
+   ],
+   "LAKE CLIFTON": [
+    "Murray-Wellington"
+   ],
+   "NANGA BROOK": [
+    "Murray-Wellington"
+   ],
+   "PRESTON BEACH": [
+    "Murray-Wellington"
+   ],
+   "WAGERUP": [
+    "Murray-Wellington"
+   ],
+   "WAROONA": [
+    "Murray-Wellington"
+   ]
+  },
+  "6218": {
+   "YARLOOP": [
+    "Murray-Wellington"
+   ]
+  },
+  "6219": {
+   "COOKERNUP": [
+    "Murray-Wellington"
+   ]
+  },
+  "6220": {
+   "HARVEY": [
+    "Murray-Wellington"
+   ],
+   "HOFFMAN": [
+    "Murray-Wellington"
+   ],
+   "MYALUP": [
+    "Murray-Wellington"
+   ],
+   "UDUC": [
+    "Murray-Wellington"
+   ],
+   "WARAWARRUP": [
+    "Murray-Wellington"
+   ]
+  },
+  "6221": {
+   "MORNINGTON": [
+    "Murray-Wellington"
+   ],
+   "WOKALUP": [
+    "Murray-Wellington"
+   ]
+  },
+  "6223": {
+   "BENGER": [
+    "Murray-Wellington"
+   ]
+  },
+  "6224": {
+   "BEELA": [
+    "Murray-Wellington"
+   ],
+   "BRUNSWICK": [
+    "Murray-Wellington"
+   ]
+  },
+  "6225": {
+   "ALLANSON": [
+    "Collie-Preston"
+   ],
+   "BOWELLING": [
+    "Roe"
+   ],
+   "BUCKINGHAM": [
+    "Collie-Preston"
+   ],
+   "CARDIFF": [
+    "Collie-Preston"
+   ],
+   "COLLIE": [
+    "Collie-Preston"
+   ],
+   "COLLIE BURN": [
+    "Collie-Preston"
+   ],
+   "HARRIS RIVER": [
+    "Collie-Preston"
+   ],
+   "LYALLS MILL": [
+    "Collie-Preston"
+   ],
+   "MCALINDEN": [
+    "Warren-Blackwood"
+   ],
+   "MUJA": [
+    "Collie-Preston"
+   ],
+   "MUMBALLUP": [
+    "Collie-Preston"
+   ],
+   "MUNGALUP": [
+    "Collie-Preston"
+   ],
+   "NOGGERUP": [
+    "Collie-Preston"
+   ],
+   "PALMER": [
+    "Collie-Preston"
+   ],
+   "PRESTON SETTLEMENT": [
+    "Collie-Preston"
+   ],
+   "WORSLEY": [
+    "Collie-Preston"
+   ],
+   "YOURDAMUNG LAKE": [
+    "Collie-Preston"
+   ]
+  },
+  "6226": {
+   "ROELANDS": [
+    "Murray-Wellington"
+   ]
+  },
+  "6227": {
+   "BUREKUP": [
+    "Collie-Preston"
+   ]
+  },
+  "6228": {
+   "WATERLOO": [
+    "Collie-Preston"
+   ]
+  },
+  "6229": {
+   "PICTON": [
+    "Bunbury"
+   ],
+   "PICTON EAST": [
+    "Collie-Preston"
+   ]
+  },
+  "6230": {
+   "BUNBURY": [
+    "Bunbury"
+   ],
+   "CAREY PARK": [
+    "Bunbury"
+   ],
+   "COLLEGE GROVE": [
+    "Bunbury"
+   ],
+   "DALYELLUP": [
+    "Bunbury"
+   ],
+   "DAVENPORT": [
+    "Bunbury"
+   ],
+   "EAST BUNBURY": [
+    "Bunbury"
+   ],
+   "GELORUP": [
+    "Bunbury",
+    "Collie-Preston"
+   ],
+   "GLEN IRIS": [
+    "Bunbury"
+   ],
+   "PELICAN POINT": [
+    "Bunbury"
+   ],
+   "SOUTH BUNBURY": [
+    "Bunbury"
+   ],
+   "USHER": [
+    "Bunbury"
+   ],
+   "WITHERS": [
+    "Bunbury"
+   ]
+  },
+  "6232": {
+   "EATON": [
+    "Collie-Preston"
+   ],
+   "MILLBRIDGE": [
+    "Collie-Preston"
+   ]
+  },
+  "6233": {
+   "AUSTRALIND": [
+    "Collie-Preston",
+    "Murray-Wellington"
+   ],
+   "BINNINGUP": [
+    "Murray-Wellington"
+   ],
+   "LESCHENAULT": [
+    "Murray-Wellington"
+   ],
+   "PARKFIELD": [
+    "Murray-Wellington"
+   ],
+   "WELLESLEY": [
+    "Murray-Wellington"
+   ]
+  },
+  "6236": {
+   "CROOKED BROOK": [
+    "Collie-Preston"
+   ],
+   "DARDANUP": [
+    "Collie-Preston"
+   ],
+   "DARDANUP WEST": [
+    "Collie-Preston"
+   ],
+   "FERGUSON": [
+    "Collie-Preston"
+   ],
+   "HENTY": [
+    "Collie-Preston"
+   ],
+   "PARADISE": [
+    "Collie-Preston"
+   ],
+   "WELLINGTON FOREST": [
+    "Collie-Preston"
+   ],
+   "WELLINGTON MILL": [
+    "Collie-Preston"
+   ]
+  },
+  "6237": {
+   "BOYANUP": [
+    "Collie-Preston"
+   ],
+   "ELGIN": [
+    "Collie-Preston"
+   ],
+   "GWINDINUP": [
+    "Collie-Preston"
+   ],
+   "NORTH BOYANUP": [
+    "Collie-Preston"
+   ],
+   "STRATHAM": [
+    "Bunbury",
+    "Collie-Preston"
+   ],
+   "THE PLAINS": [
+    "Collie-Preston"
+   ]
+  },
+  "6239": {
+   "ARGYLE": [
+    "Collie-Preston"
+   ],
+   "BEELERUP": [
+    "Collie-Preston"
+   ],
+   "BROOKHAMPTON": [
+    "Collie-Preston"
+   ],
+   "CHARLEY CREEK": [
+    "Collie-Preston"
+   ],
+   "DONNYBROOK": [
+    "Collie-Preston"
+   ],
+   "GLEN MERVYN": [
+    "Collie-Preston"
+   ],
+   "PAYNEDALE": [
+    "Collie-Preston"
+   ],
+   "QUEENWOOD": [
+    "Collie-Preston"
+   ],
+   "THOMSON BROOK": [
+    "Collie-Preston"
+   ],
+   "UPPER CAPEL": [
+    "Collie-Preston"
+   ],
+   "YABBERUP": [
+    "Collie-Preston"
+   ]
+  },
+  "6240": {
+   "LOWDEN": [
+    "Collie-Preston"
+   ]
+  },
+  "6243": {
+   "WILGA": [
+    "Warren-Blackwood"
+   ],
+   "WILGA WEST": [
+    "Collie-Preston"
+   ]
+  },
+  "6244": {
+   "BOYUP BROOK": [
+    "Warren-Blackwood"
+   ],
+   "CHOWERUP": [
+    "Warren-Blackwood"
+   ],
+   "DINNINUP": [
+    "Warren-Blackwood"
+   ],
+   "KULIKUP": [
+    "Warren-Blackwood"
+   ],
+   "MAYANUP": [
+    "Warren-Blackwood"
+   ],
+   "SCOTTS BROOK": [
+    "Warren-Blackwood"
+   ],
+   "TONEBRIDGE": [
+    "Warren-Blackwood"
+   ],
+   "TRIGWELL": [
+    "Roe"
+   ]
+  },
+  "6251": {
+   "BRAZIER": [
+    "Collie-Preston"
+   ],
+   "KIRUP": [
+    "Collie-Preston"
+   ],
+   "NEWLANDS": [
+    "Collie-Preston"
+   ]
+  },
+  "6252": {
+   "MULLALYUP": [
+    "Collie-Preston"
+   ]
+  },
+  "6253": {
+   "BALINGUP": [
+    "Collie-Preston"
+   ],
+   "SOUTHAMPTON": [
+    "Collie-Preston"
+   ]
+  },
+  "6254": {
+   "GREENBUSHES": [
+    "Warren-Blackwood"
+   ],
+   "NORTH GREENBUSHES": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6255": {
+   "BENJINUP": [
+    "Warren-Blackwood"
+   ],
+   "BRIDGETOWN": [
+    "Warren-Blackwood"
+   ],
+   "CATTERICK": [
+    "Warren-Blackwood"
+   ],
+   "HESTER": [
+    "Warren-Blackwood"
+   ],
+   "HESTER BROOK": [
+    "Warren-Blackwood"
+   ],
+   "KANGAROO GULLY": [
+    "Warren-Blackwood"
+   ],
+   "WINNEJUP": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6256": {
+   "GLENLYNN": [
+    "Warren-Blackwood"
+   ],
+   "KINGSTON": [
+    "Warren-Blackwood"
+   ],
+   "MARANUP": [
+    "Warren-Blackwood"
+   ],
+   "SUNNYSIDE": [
+    "Warren-Blackwood"
+   ],
+   "WANDILLUP": [
+    "Warren-Blackwood"
+   ],
+   "YORNUP": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6258": {
+   "BALBARRUP": [
+    "Warren-Blackwood"
+   ],
+   "DEANMILL": [
+    "Warren-Blackwood"
+   ],
+   "DIAMOND TREE": [
+    "Warren-Blackwood"
+   ],
+   "DINGUP": [
+    "Warren-Blackwood"
+   ],
+   "DIXVALE": [
+    "Warren-Blackwood"
+   ],
+   "DONNELLY RIVER": [
+    "Warren-Blackwood"
+   ],
+   "GLENORAN": [
+    "Warren-Blackwood"
+   ],
+   "JARDEE": [
+    "Warren-Blackwood"
+   ],
+   "LAKE MUIR": [
+    "Warren-Blackwood"
+   ],
+   "LINFARNE": [
+    "Warren-Blackwood"
+   ],
+   "MANJIMUP": [
+    "Warren-Blackwood"
+   ],
+   "MIDDLESEX": [
+    "Warren-Blackwood"
+   ],
+   "MORDALUP": [
+    "Warren-Blackwood"
+   ],
+   "PALGARUP": [
+    "Warren-Blackwood"
+   ],
+   "PERUP": [
+    "Warren-Blackwood"
+   ],
+   "QUINNINUP": [
+    "Warren-Blackwood"
+   ],
+   "RINGBARK": [
+    "Warren-Blackwood"
+   ],
+   "SMITH BROOK": [
+    "Warren-Blackwood"
+   ],
+   "UPPER WARREN": [
+    "Warren-Blackwood"
+   ],
+   "WILGARRUP": [
+    "Warren-Blackwood"
+   ],
+   "YANMAH": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6260": {
+   "BEEDELUP": [
+    "Warren-Blackwood"
+   ],
+   "BIDDELIA": [
+    "Warren-Blackwood"
+   ],
+   "CALLCUP": [
+    "Warren-Blackwood"
+   ],
+   "CHANNYBEARUP": [
+    "Warren-Blackwood"
+   ],
+   "COLLINS": [
+    "Warren-Blackwood"
+   ],
+   "EASTBROOK": [
+    "Warren-Blackwood"
+   ],
+   "LAKE JASPER": [
+    "Warren-Blackwood"
+   ],
+   "PEERABEELUP": [
+    "Warren-Blackwood"
+   ],
+   "PEMBERTON": [
+    "Warren-Blackwood"
+   ],
+   "YEAGARUP": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6262": {
+   "BOORARA BROOK": [
+    "Warren-Blackwood"
+   ],
+   "CROWEA": [
+    "Warren-Blackwood"
+   ],
+   "MEERUP": [
+    "Warren-Blackwood"
+   ],
+   "NORTHCLIFFE": [
+    "Warren-Blackwood"
+   ],
+   "SHANNON": [
+    "Warren-Blackwood"
+   ],
+   "WINDY HARBOUR": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6271": {
+   "CAPEL": [
+    "Collie-Preston"
+   ],
+   "CAPEL RIVER": [
+    "Vasse"
+   ],
+   "FORREST BEACH": [
+    "Vasse"
+   ],
+   "PEPPERMINT GROVE BEACH": [
+    "Vasse"
+   ],
+   "STIRLING ESTATE": [
+    "Bunbury",
+    "Vasse"
+   ]
+  },
+  "6275": {
+   "BARRABUP": [
+    "Warren-Blackwood"
+   ],
+   "CARLOTTA": [
+    "Warren-Blackwood"
+   ],
+   "CUNDINUP": [
+    "Collie-Preston",
+    "Warren-Blackwood"
+   ],
+   "DARRADUP": [
+    "Warren-Blackwood"
+   ],
+   "EAST NANNUP": [
+    "Warren-Blackwood"
+   ],
+   "JALBARRAGUP": [
+    "Warren-Blackwood"
+   ],
+   "JARRAHWOOD": [
+    "Vasse"
+   ],
+   "NANNUP": [
+    "Warren-Blackwood"
+   ],
+   "SCOTT RIVER EAST": [
+    "Warren-Blackwood"
+   ],
+   "YOGANUP": [
+    "Vasse"
+   ]
+  },
+  "6280": {
+   "ABBA RIVER": [
+    "Vasse"
+   ],
+   "ABBEY": [
+    "Vasse"
+   ],
+   "ACTON PARK": [
+    "Vasse"
+   ],
+   "AMBERGATE": [
+    "Vasse"
+   ],
+   "ANNIEBROOK": [
+    "Vasse"
+   ],
+   "BOALLIA": [
+    "Vasse"
+   ],
+   "BOVELL": [
+    "Vasse"
+   ],
+   "BROADWATER": [
+    "Vasse"
+   ],
+   "BUSSELTON": [
+    "Vasse"
+   ],
+   "CARBUNUP RIVER": [
+    "Vasse"
+   ],
+   "CHAPMAN HILL": [
+    "Vasse"
+   ],
+   "GEOGRAPHE": [
+    "Vasse"
+   ],
+   "HITHERGREEN": [
+    "Vasse"
+   ],
+   "JINDONG": [
+    "Vasse"
+   ],
+   "KALGUP": [
+    "Vasse"
+   ],
+   "KALOORUP": [
+    "Vasse"
+   ],
+   "KEALY": [
+    "Vasse"
+   ],
+   "LUDLOW": [
+    "Vasse"
+   ],
+   "MARYBROOK": [
+    "Vasse"
+   ],
+   "METRICUP": [
+    "Vasse"
+   ],
+   "NORTH JINDONG": [
+    "Vasse"
+   ],
+   "REINSCOURT": [
+    "Vasse"
+   ],
+   "RUABON": [
+    "Vasse"
+   ],
+   "SABINA RIVER": [
+    "Vasse"
+   ],
+   "SIESTA PARK": [
+    "Vasse"
+   ],
+   "TUTUNUP": [
+    "Vasse"
+   ],
+   "VASSE": [
+    "Vasse"
+   ],
+   "WALSALL": [
+    "Vasse"
+   ],
+   "WEST BUSSELTON": [
+    "Vasse"
+   ],
+   "WILYABRUP": [
+    "Vasse"
+   ],
+   "WONNERUP": [
+    "Vasse"
+   ],
+   "YALYALUP": [
+    "Vasse"
+   ],
+   "YELVERTON": [
+    "Vasse"
+   ],
+   "YOONGARILLUP": [
+    "Vasse"
+   ]
+  },
+  "6281": {
+   "DUNSBOROUGH": [
+    "Vasse"
+   ],
+   "EAGLE BAY": [
+    "Vasse"
+   ],
+   "NATURALISTE": [
+    "Vasse"
+   ],
+   "QUEDJINUP": [
+    "Vasse"
+   ],
+   "QUINDALUP": [
+    "Vasse"
+   ]
+  },
+  "6282": {
+   "YALLINGUP": [
+    "Vasse"
+   ],
+   "YALLINGUP SIDING": [
+    "Vasse"
+   ]
+  },
+  "6284": {
+   "COWARAMUP": [
+    "Warren-Blackwood"
+   ],
+   "GRACETOWN": [
+    "Warren-Blackwood"
+   ],
+   "TREETON": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6285": {
+   "BRAMLEY": [
+    "Warren-Blackwood"
+   ],
+   "BURNSIDE": [
+    "Warren-Blackwood"
+   ],
+   "GNARABUP": [
+    "Warren-Blackwood"
+   ],
+   "MARGARET RIVER": [
+    "Warren-Blackwood"
+   ],
+   "OSMINGTON": [
+    "Warren-Blackwood"
+   ],
+   "PREVELLY": [
+    "Warren-Blackwood"
+   ],
+   "ROSA BROOK": [
+    "Warren-Blackwood"
+   ],
+   "ROSA GLEN": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6286": {
+   "BORANUP": [
+    "Warren-Blackwood"
+   ],
+   "FOREST GROVE": [
+    "Warren-Blackwood"
+   ],
+   "REDGATE": [
+    "Warren-Blackwood"
+   ],
+   "WITCHCLIFFE": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6288": {
+   "ALEXANDRA BRIDGE": [
+    "Warren-Blackwood"
+   ],
+   "COURTENAY": [
+    "Warren-Blackwood"
+   ],
+   "HAMELIN BAY": [
+    "Warren-Blackwood"
+   ],
+   "KARRIDALE": [
+    "Warren-Blackwood"
+   ],
+   "NILLUP": [
+    "Warren-Blackwood"
+   ],
+   "SCOTT RIVER": [
+    "Warren-Blackwood"
+   ],
+   "WARNER GLEN": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6290": {
+   "AUGUSTA": [
+    "Warren-Blackwood"
+   ],
+   "DEEPDENE": [
+    "Warren-Blackwood"
+   ],
+   "EAST AUGUSTA": [
+    "Warren-Blackwood"
+   ],
+   "KUDARDUP": [
+    "Warren-Blackwood"
+   ],
+   "LEEUWIN": [
+    "Warren-Blackwood"
+   ],
+   "MOLLOY ISLAND": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6302": {
+   "BADGIN": [
+    "Central Wheatbelt"
+   ],
+   "BALLADONG": [
+    "Central Wheatbelt"
+   ],
+   "BURGES": [
+    "Central Wheatbelt"
+   ],
+   "CALJIE": [
+    "Central Wheatbelt"
+   ],
+   "COLD HARBOUR": [
+    "Central Wheatbelt"
+   ],
+   "DALIAK": [
+    "Central Wheatbelt"
+   ],
+   "FLYNN": [
+    "Central Wheatbelt"
+   ],
+   "GILGERING": [
+    "Central Wheatbelt"
+   ],
+   "GREENHILLS": [
+    "Central Wheatbelt"
+   ],
+   "GWAMBYGINE": [
+    "Central Wheatbelt"
+   ],
+   "INKPEN": [
+    "Central Wheatbelt"
+   ],
+   "KAURING": [
+    "Central Wheatbelt"
+   ],
+   "MALEBELLING": [
+    "Central Wheatbelt"
+   ],
+   "MT HARDEY": [
+    "Central Wheatbelt"
+   ],
+   "MT OBSERVATION": [
+    "Central Wheatbelt"
+   ],
+   "NARRALOGGAN": [
+    "Central Wheatbelt"
+   ],
+   "QUELLINGTON": [
+    "Central Wheatbelt"
+   ],
+   "ST RONANS": [
+    "Central Wheatbelt"
+   ],
+   "TALBOT": [
+    "Central Wheatbelt"
+   ],
+   "TALBOT WEST": [
+    "Central Wheatbelt"
+   ],
+   "WILBERFORCE": [
+    "Central Wheatbelt"
+   ],
+   "YORK": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6304": {
+   "BALLY BALLY": [
+    "Central Wheatbelt"
+   ],
+   "BEVERLEY": [
+    "Central Wheatbelt"
+   ],
+   "DALE": [
+    "Central Wheatbelt"
+   ],
+   "EAST BEVERLEY": [
+    "Central Wheatbelt"
+   ],
+   "KOKEBY": [
+    "Central Wheatbelt"
+   ],
+   "MORBINNING": [
+    "Central Wheatbelt"
+   ],
+   "WESTDALE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6306": {
+   "ALDERSYDE": [
+    "Central Wheatbelt"
+   ],
+   "BROOKTON": [
+    "Central Wheatbelt"
+   ],
+   "BULYEE": [
+    "Central Wheatbelt"
+   ],
+   "JELCOBINE": [
+    "Central Wheatbelt"
+   ],
+   "KWEDA": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6308": {
+   "CODJATOTINE": [
+    "Central Wheatbelt"
+   ],
+   "DWARDA": [
+    "Central Wheatbelt"
+   ],
+   "EAST PINGELLY": [
+    "Central Wheatbelt"
+   ],
+   "GILLIMANNING": [
+    "Roe"
+   ],
+   "HASTINGS": [
+    "Central Wheatbelt"
+   ],
+   "PINGELLY": [
+    "Central Wheatbelt"
+   ],
+   "PUMPHREYS BRIDGE": [
+    "Central Wheatbelt"
+   ],
+   "SPRINGS": [
+    "Central Wheatbelt"
+   ],
+   "WANDERING": [
+    "Central Wheatbelt"
+   ],
+   "WEST PINGELLY": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6309": {
+   "EAST POPANYINNING": [
+    "Roe"
+   ],
+   "POPANYINNING": [
+    "Roe"
+   ],
+   "STRATHERNE": [
+    "Roe"
+   ],
+   "WEST POPANYINNING": [
+    "Roe"
+   ]
+  },
+  "6311": {
+   "COMMODINE": [
+    "Roe"
+   ],
+   "CONTINE": [
+    "Roe"
+   ],
+   "CUBALLING": [
+    "Roe"
+   ],
+   "DRYANDRA": [
+    "Roe"
+   ],
+   "LOL GRAY": [
+    "Roe"
+   ],
+   "TOWNSENDALE": [
+    "Roe"
+   ],
+   "WARDERING": [
+    "Roe"
+   ],
+   "YORNANING": [
+    "Roe"
+   ]
+  },
+  "6312": {
+   "BOUNDAIN": [
+    "Roe"
+   ],
+   "DUMBERNING": [
+    "Roe"
+   ],
+   "HILLSIDE": [
+    "Roe"
+   ],
+   "MINIGIN": [
+    "Roe"
+   ],
+   "NARROGIN": [
+    "Roe"
+   ],
+   "NARROGIN VALLEY": [
+    "Roe"
+   ],
+   "NOMANS LAKE": [
+    "Roe"
+   ],
+   "TOOLIBIN": [
+    "Roe"
+   ],
+   "YILLIMINNING": [
+    "Roe"
+   ]
+  },
+  "6313": {
+   "HIGHBURY": [
+    "Roe"
+   ]
+  },
+  "6315": {
+   "ARTHUR RIVER": [
+    "Roe"
+   ],
+   "BALLAYING": [
+    "Roe"
+   ],
+   "CANCANNING": [
+    "Roe"
+   ],
+   "COLLANILLING": [
+    "Roe"
+   ],
+   "DONGOLOCKING": [
+    "Roe"
+   ],
+   "GUNDARING": [
+    "Roe"
+   ],
+   "JALORAN": [
+    "Roe"
+   ],
+   "LIME LAKE": [
+    "Roe"
+   ],
+   "MINDING": [
+    "Roe"
+   ],
+   "PIESSEVILLE": [
+    "Roe"
+   ],
+   "WAGIN": [
+    "Roe"
+   ],
+   "WEDGECARRUP": [
+    "Roe"
+   ]
+  },
+  "6316": {
+   "BOYERINE": [
+    "Roe"
+   ],
+   "CARTMETICUP": [
+    "Roe"
+   ],
+   "GLENCOE": [
+    "Roe"
+   ],
+   "KENMARE": [
+    "Roe"
+   ],
+   "WESTWOOD": [
+    "Roe"
+   ],
+   "WOODANILLING": [
+    "Roe"
+   ]
+  },
+  "6317": {
+   "BADGEBUP": [
+    "Roe"
+   ],
+   "BULLOCK HILLS": [
+    "Roe"
+   ],
+   "CARROLUP": [
+    "Roe"
+   ],
+   "COBLININE": [
+    "Roe"
+   ],
+   "COYRECUP": [
+    "Roe"
+   ],
+   "DATATINE": [
+    "Roe"
+   ],
+   "EWLYAMARTUP": [
+    "Roe"
+   ],
+   "KATANNING": [
+    "Roe"
+   ],
+   "MARRACOONDA": [
+    "Roe"
+   ],
+   "MOOJEBING": [
+    "Roe"
+   ],
+   "MURDONG": [
+    "Roe"
+   ],
+   "PINWERNYING": [
+    "Roe"
+   ],
+   "SOUTH DATATINE": [
+    "Roe"
+   ],
+   "SOUTH GLENCOE": [
+    "Roe"
+   ]
+  },
+  "6318": {
+   "BROOMEHILL EAST": [
+    "Roe"
+   ],
+   "BROOMEHILL VILLAGE": [
+    "Roe"
+   ],
+   "BROOMEHILL WEST": [
+    "Roe"
+   ]
+  },
+  "6320": {
+   "BOBALONG": [
+    "Roe"
+   ],
+   "BORDERDALE": [
+    "Roe"
+   ],
+   "DARTNALL": [
+    "Roe"
+   ],
+   "LAKE TOOLBRUNUP": [
+    "Roe"
+   ],
+   "MOONIES HILL": [
+    "Roe"
+   ],
+   "TAMBELLUP": [
+    "Roe"
+   ],
+   "WANSBROUGH": [
+    "Roe"
+   ]
+  },
+  "6321": {
+   "CRANBROOK": [
+    "Roe"
+   ]
+  },
+  "6322": {
+   "TENTERDEN": [
+    "Roe"
+   ]
+  },
+  "6323": {
+   "KENDENUP": [
+    "Albany"
+   ]
+  },
+  "6324": {
+   "DENBARKER": [
+    "Albany"
+   ],
+   "FOREST HILL": [
+    "Albany"
+   ],
+   "MT BARKER": [
+    "Albany"
+   ],
+   "PERILLUP": [
+    "Albany"
+   ],
+   "PORONGURUP": [
+    "Albany"
+   ],
+   "SOUTH STIRLING": [
+    "Albany"
+   ],
+   "TAKALARUP": [
+    "Albany"
+   ],
+   "WOOGENELLUP": [
+    "Albany"
+   ]
+  },
+  "6326": {
+   "NARRIKUP": [
+    "Albany"
+   ]
+  },
+  "6327": {
+   "REDMOND": [
+    "Albany"
+   ],
+   "REDMOND WEST": [
+    "Albany"
+   ]
+  },
+  "6328": {
+   "CHEYNES": [
+    "Albany"
+   ],
+   "GNOWELLEN": [
+    "Albany"
+   ],
+   "GREEN RANGE": [
+    "Albany"
+   ],
+   "KOJANEERUP SOUTH": [
+    "Albany"
+   ],
+   "MANYPEAKS": [
+    "Albany"
+   ],
+   "METTLER": [
+    "Albany"
+   ],
+   "PALMDALE": [
+    "Albany"
+   ],
+   "WELLSTEAD": [
+    "Albany"
+   ]
+  },
+  "6330": {
+   "ALBANY": [
+    "Albany"
+   ],
+   "BAYONET HEAD": [
+    "Albany"
+   ],
+   "BIG GROVE": [
+    "Albany"
+   ],
+   "BORNHOLM": [
+    "Albany"
+   ],
+   "CENTENNIAL PARK": [
+    "Albany"
+   ],
+   "COLLINGWOOD HEIGHTS": [
+    "Albany"
+   ],
+   "COLLINGWOOD PARK": [
+    "Albany"
+   ],
+   "CUTHBERT": [
+    "Albany"
+   ],
+   "DROME": [
+    "Albany"
+   ],
+   "ELLEKER": [
+    "Albany"
+   ],
+   "EMU POINT": [
+    "Albany"
+   ],
+   "FRENCHMAN BAY": [
+    "Albany"
+   ],
+   "GLEDHOW": [
+    "Albany"
+   ],
+   "GOODE BEACH": [
+    "Albany"
+   ],
+   "GREEN VALLEY": [
+    "Albany"
+   ],
+   "KALGAN": [
+    "Albany"
+   ],
+   "KING RIVER": [
+    "Albany"
+   ],
+   "KRONKUP": [
+    "Albany"
+   ],
+   "LANGE": [
+    "Albany"
+   ],
+   "LITTLE GROVE": [
+    "Albany"
+   ],
+   "LOCKYER": [
+    "Albany"
+   ],
+   "LOWER KING": [
+    "Albany"
+   ],
+   "LOWLANDS": [
+    "Albany"
+   ],
+   "MARBELUP": [
+    "Albany"
+   ],
+   "MCKAIL": [
+    "Albany"
+   ],
+   "MIDDLETON BEACH": [
+    "Albany"
+   ],
+   "MILLBROOK": [
+    "Albany"
+   ],
+   "MILPARA": [
+    "Albany"
+   ],
+   "MIRA MAR": [
+    "Albany"
+   ],
+   "MT CLARENCE": [
+    "Albany"
+   ],
+   "MT ELPHINSTONE": [
+    "Albany"
+   ],
+   "MT MELVILLE": [
+    "Albany"
+   ],
+   "NANARUP": [
+    "Albany"
+   ],
+   "NAPIER": [
+    "Albany"
+   ],
+   "NULLAKI": [
+    "Albany"
+   ],
+   "ORANA": [
+    "Albany"
+   ],
+   "PORT ALBANY": [
+    "Albany"
+   ],
+   "ROBINSON": [
+    "Albany"
+   ],
+   "SEPPINGS": [
+    "Albany"
+   ],
+   "SPENCER PARK": [
+    "Albany"
+   ],
+   "TORBAY": [
+    "Albany"
+   ],
+   "TORNDIRRUP": [
+    "Albany"
+   ],
+   "WALMSLEY": [
+    "Albany"
+   ],
+   "WARRENUP": [
+    "Albany"
+   ],
+   "WILLYUNG": [
+    "Albany"
+   ],
+   "YAKAMIA": [
+    "Albany"
+   ],
+   "YOUNGS SIDING": [
+    "Albany"
+   ]
+  },
+  "6333": {
+   "BOW BRIDGE": [
+    "Warren-Blackwood"
+   ],
+   "DENMARK": [
+    "Warren-Blackwood"
+   ],
+   "HAY": [
+    "Warren-Blackwood"
+   ],
+   "HAZELVALE": [
+    "Warren-Blackwood"
+   ],
+   "KENTDALE": [
+    "Warren-Blackwood"
+   ],
+   "KORDABUP": [
+    "Warren-Blackwood"
+   ],
+   "NORNALUP": [
+    "Warren-Blackwood"
+   ],
+   "OCEAN BEACH": [
+    "Warren-Blackwood"
+   ],
+   "PARRYVILLE": [
+    "Warren-Blackwood"
+   ],
+   "PEACEFUL BAY": [
+    "Warren-Blackwood"
+   ],
+   "SCOTSDALE": [
+    "Warren-Blackwood"
+   ],
+   "SHADFORTH": [
+    "Warren-Blackwood"
+   ],
+   "TINGLEDALE": [
+    "Warren-Blackwood"
+   ],
+   "WILLIAM BAY": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6335": {
+   "GNOWANGERUP": [
+    "Roe"
+   ],
+   "JACKITUP": [
+    "Roe"
+   ],
+   "KEBARINGUP": [
+    "Roe"
+   ],
+   "PALLINUP": [
+    "Roe"
+   ]
+  },
+  "6336": {
+   "COWALELLUP": [
+    "Roe"
+   ],
+   "MILLS LAKE": [
+    "Roe"
+   ],
+   "MINDARABIN": [
+    "Roe"
+   ],
+   "NEEDILUP": [
+    "Roe"
+   ],
+   "ONGERUP": [
+    "Roe"
+   ],
+   "TOOMPUP": [
+    "Roe"
+   ]
+  },
+  "6337": {
+   "FITZGERALD": [
+    "Roe"
+   ],
+   "GAIRDNER": [
+    "Roe"
+   ],
+   "JACUP": [
+    "Roe"
+   ],
+   "JERRAMUNGUP": [
+    "Roe"
+   ],
+   "WEST FITZGERALD": [
+    "Roe"
+   ]
+  },
+  "6338": {
+   "AMELUP": [
+    "Roe"
+   ],
+   "BORDEN": [
+    "Roe"
+   ],
+   "BOXWOOD HILL": [
+    "Roe"
+   ],
+   "BREMER BAY": [
+    "Roe"
+   ],
+   "MAGITUP": [
+    "Roe"
+   ],
+   "MONJEBUP": [
+    "Roe"
+   ],
+   "NALYERLUP": [
+    "Roe"
+   ],
+   "NORTH STIRLINGS": [
+    "Roe"
+   ],
+   "STIRLING RANGE NAT PARK": [
+    "Albany"
+   ]
+  },
+  "6341": {
+   "NYABING": [
+    "Roe"
+   ]
+  },
+  "6343": {
+   "PINGRUP": [
+    "Roe"
+   ]
+  },
+  "6346": {
+   "FITZGERALD RIVER NAT PK": [
+    "Roe"
+   ],
+   "JERDACUTTUP": [
+    "Roe"
+   ],
+   "RAVENSTHORPE": [
+    "Roe"
+   ],
+   "WEST RIVER": [
+    "Roe"
+   ]
+  },
+  "6348": {
+   "HOPETOUN": [
+    "Roe"
+   ]
+  },
+  "6350": {
+   "DUMBLEYUNG": [
+    "Roe"
+   ],
+   "NAIRIBIN": [
+    "Roe"
+   ],
+   "NIPPERING": [
+    "Roe"
+   ]
+  },
+  "6351": {
+   "MOULYINNING": [
+    "Roe"
+   ],
+   "NORTH MOULYINNING": [
+    "Roe"
+   ]
+  },
+  "6352": {
+   "KUKERIN": [
+    "Roe"
+   ],
+   "MERILUP": [
+    "Roe"
+   ],
+   "NORTH KUKERIN": [
+    "Roe"
+   ],
+   "SOUTH KUKERIN": [
+    "Roe"
+   ]
+  },
+  "6353": {
+   "BEENONG": [
+    "Roe"
+   ],
+   "BUNICHE": [
+    "Roe"
+   ],
+   "KUENDER": [
+    "Roe"
+   ],
+   "LAKE GRACE": [
+    "Roe"
+   ],
+   "MALLEE HILL": [
+    "Roe"
+   ],
+   "NEENDALING": [
+    "Roe"
+   ],
+   "NORTH BURNGUP": [
+    "Roe"
+   ],
+   "NORTH LAKE GRACE": [
+    "Roe"
+   ],
+   "SOUTH LAKE GRACE": [
+    "Roe"
+   ],
+   "TARIN ROCK": [
+    "Roe"
+   ]
+  },
+  "6355": {
+   "DUNN ROCK": [
+    "Roe"
+   ],
+   "EAST NEWDEGATE": [
+    "Roe"
+   ],
+   "HOLT ROCK": [
+    "Roe"
+   ],
+   "LAKE BIDDY": [
+    "Roe"
+   ],
+   "LAKE CAMM": [
+    "Roe"
+   ],
+   "MAGENTA": [
+    "Roe"
+   ],
+   "MT SHERIDAN": [
+    "Roe"
+   ],
+   "NEWDEGATE": [
+    "Roe"
+   ],
+   "SOUTH NEWDEGATE": [
+    "Roe"
+   ],
+   "VARLEY": [
+    "Roe"
+   ]
+  },
+  "6356": {
+   "LAKE KING": [
+    "Roe"
+   ],
+   "MT MADDEN": [
+    "Roe"
+   ]
+  },
+  "6357": {
+   "PINGARING": [
+    "Roe"
+   ]
+  },
+  "6358": {
+   "KARLGARIN": [
+    "Roe"
+   ]
+  },
+  "6359": {
+   "HYDEN": [
+    "Roe"
+   ],
+   "LITTLE ITALY": [
+    "Roe"
+   ]
+  },
+  "6361": {
+   "HARRISMITH": [
+    "Roe"
+   ],
+   "TINCURRIN": [
+    "Roe"
+   ]
+  },
+  "6363": {
+   "DUDININ": [
+    "Roe"
+   ],
+   "WALYURIN": [
+    "Roe"
+   ]
+  },
+  "6365": {
+   "JILAKIN": [
+    "Roe"
+   ],
+   "JITARNING": [
+    "Roe"
+   ],
+   "KULIN": [
+    "Roe"
+   ],
+   "KULIN WEST": [
+    "Roe"
+   ]
+  },
+  "6367": {
+   "KONDININ": [
+    "Roe"
+   ]
+  },
+  "6368": {
+   "SOUTH KUMMININ": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6369": {
+   "MT WALKER": [
+    "Central Wheatbelt"
+   ],
+   "NAREMBEEN": [
+    "Central Wheatbelt"
+   ],
+   "WADDERIN": [
+    "Central Wheatbelt"
+   ],
+   "WEST HOLLETON": [
+    "Central Wheatbelt"
+   ],
+   "WOOLOCUTTY": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6370": {
+   "EAST WICKEPIN": [
+    "Roe"
+   ],
+   "MALYALLING": [
+    "Roe"
+   ],
+   "WICKEPIN": [
+    "Roe"
+   ],
+   "WOGOLIN": [
+    "Roe"
+   ]
+  },
+  "6372": {
+   "KIRK ROCK": [
+    "Roe"
+   ],
+   "YEALERING": [
+    "Roe"
+   ]
+  },
+  "6373": {
+   "BULLARING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6375": {
+   "ADAMSVALE": [
+    "Central Wheatbelt"
+   ],
+   "BILBARIN": [
+    "Central Wheatbelt"
+   ],
+   "CORRIGIN": [
+    "Central Wheatbelt"
+   ],
+   "GORGE ROCK": [
+    "Central Wheatbelt"
+   ],
+   "KUNJIN": [
+    "Central Wheatbelt"
+   ],
+   "KURRENKUTTEN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6383": {
+   "BADJALING": [
+    "Central Wheatbelt"
+   ],
+   "BALKULING": [
+    "Central Wheatbelt"
+   ],
+   "CUBBINE": [
+    "Central Wheatbelt"
+   ],
+   "DANGIN": [
+    "Central Wheatbelt"
+   ],
+   "DOODENANNING": [
+    "Central Wheatbelt"
+   ],
+   "DULBELLING": [
+    "Central Wheatbelt"
+   ],
+   "MT STIRLING": [
+    "Central Wheatbelt"
+   ],
+   "QUAIRADING": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH QUAIRADING": [
+    "Central Wheatbelt"
+   ],
+   "WAMENUSKING": [
+    "Central Wheatbelt"
+   ],
+   "YOTING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6384": {
+   "PANTAPIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6385": {
+   "KWOLYIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6386": {
+   "SHACKLETON": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6390": {
+   "BANNISTER": [
+    "Central Wheatbelt"
+   ],
+   "BODDINGTON": [
+    "Central Wheatbelt"
+   ],
+   "CROSSMAN": [
+    "Central Wheatbelt"
+   ],
+   "LOWER HOTHAM": [
+    "Central Wheatbelt"
+   ],
+   "MARRADONG": [
+    "Central Wheatbelt"
+   ],
+   "RANFORD": [
+    "Central Wheatbelt"
+   ],
+   "UPPER MURRAY": [
+    "Central Wheatbelt"
+   ],
+   "WURAMING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6391": {
+   "QUINDANNING": [
+    "Central Wheatbelt"
+   ],
+   "WILLIAMS": [
+    "Roe"
+   ]
+  },
+  "6392": {
+   "BOKAL": [
+    "Roe"
+   ],
+   "DARDADINE": [
+    "Roe"
+   ],
+   "DARKAN": [
+    "Roe"
+   ],
+   "MEEKING": [
+    "Roe"
+   ]
+  },
+  "6393": {
+   "DURANILLIN": [
+    "Roe"
+   ],
+   "MOODIARRUP": [
+    "Roe"
+   ]
+  },
+  "6394": {
+   "BEAUFORT RIVER": [
+    "Roe"
+   ],
+   "BOILUP": [
+    "Roe"
+   ],
+   "BOSCABEL": [
+    "Roe"
+   ],
+   "CHANGERUP": [
+    "Roe"
+   ],
+   "MOKUP": [
+    "Roe"
+   ],
+   "MURADUP": [
+    "Roe"
+   ],
+   "ORCHID VALLEY": [
+    "Roe"
+   ],
+   "QUALEUP": [
+    "Roe"
+   ]
+  },
+  "6395": {
+   "CHERRY TREE POOL": [
+    "Roe"
+   ],
+   "JINGALUP": [
+    "Roe"
+   ],
+   "KOJONUP": [
+    "Roe"
+   ],
+   "LUMEAH": [
+    "Roe"
+   ],
+   "MOBRUP": [
+    "Roe"
+   ],
+   "RYANSBROOK": [
+    "Roe"
+   ]
+  },
+  "6396": {
+   "FRANKLAND RIVER": [
+    "Roe"
+   ]
+  },
+  "6397": {
+   "ROCKY GULLY": [
+    "Albany"
+   ]
+  },
+  "6398": {
+   "BROKE": [
+    "Warren-Blackwood"
+   ],
+   "NORTH WALPOLE": [
+    "Warren-Blackwood"
+   ],
+   "WALPOLE": [
+    "Warren-Blackwood"
+   ]
+  },
+  "6401": {
+   "BUCKLAND": [
+    "Central Wheatbelt"
+   ],
+   "BURLONG": [
+    "Central Wheatbelt"
+   ],
+   "CUNJARDINE": [
+    "Central Wheatbelt"
+   ],
+   "IRISHTOWN": [
+    "Central Wheatbelt"
+   ],
+   "JENNACUBBINE": [
+    "Central Wheatbelt"
+   ],
+   "JENNAPULLIN": [
+    "Central Wheatbelt"
+   ],
+   "MALABAINE": [
+    "Central Wheatbelt"
+   ],
+   "MEENAAR": [
+    "Central Wheatbelt"
+   ],
+   "MOKINE": [
+    "Central Wheatbelt"
+   ],
+   "MULUCKINE": [
+    "Central Wheatbelt"
+   ],
+   "MUMBERKINE": [
+    "Central Wheatbelt"
+   ],
+   "MURESK": [
+    "Central Wheatbelt"
+   ],
+   "NORTHAM": [
+    "Central Wheatbelt"
+   ],
+   "ROSSMORE": [
+    "Central Wheatbelt"
+   ],
+   "SOUTHERN BROOK": [
+    "Central Wheatbelt"
+   ],
+   "SPENCERS BROOK": [
+    "Central Wheatbelt"
+   ],
+   "THROSSELL": [
+    "Central Wheatbelt"
+   ],
+   "WONGAMINE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6403": {
+   "GRASS VALLEY": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6405": {
+   "GREENWOODS VALLEY": [
+    "Central Wheatbelt"
+   ],
+   "MECKERING": [
+    "Central Wheatbelt"
+   ],
+   "QUELAGETTING": [
+    "Central Wheatbelt"
+   ],
+   "WARDING EAST": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6407": {
+   "CUNDERDIN": [
+    "Central Wheatbelt"
+   ],
+   "WAEEL": [
+    "Central Wheatbelt"
+   ],
+   "WATERCARRIN": [
+    "Central Wheatbelt"
+   ],
+   "WYOLA WEST": [
+    "Central Wheatbelt"
+   ],
+   "YOUNDEGIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6409": {
+   "NORTH TAMMIN": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH TAMMIN": [
+    "Central Wheatbelt"
+   ],
+   "TAMMIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6410": {
+   "DAADENNING CREEK": [
+    "Central Wheatbelt"
+   ],
+   "KELLERBERRIN": [
+    "Central Wheatbelt"
+   ],
+   "MT CAROLINE": [
+    "Central Wheatbelt"
+   ],
+   "NORTH KELLERBERRIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6411": {
+   "DOODLAKINE": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH DOODLAKINE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6412": {
+   "BAANDEE": [
+    "Central Wheatbelt"
+   ],
+   "NORTH BAANDEE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6413": {
+   "HINES HILL": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6414": {
+   "NANGEENAN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6415": {
+   "GOOMARIN": [
+    "Central Wheatbelt"
+   ],
+   "KORBEL": [
+    "Central Wheatbelt"
+   ],
+   "MERREDIN": [
+    "Central Wheatbelt"
+   ],
+   "NOKANING": [
+    "Central Wheatbelt"
+   ],
+   "NORPA": [
+    "Central Wheatbelt"
+   ],
+   "TANDEGIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6418": {
+   "BRUCE ROCK": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6419": {
+   "ARDATH": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6420": {
+   "CRAMPHORNE": [
+    "Central Wheatbelt"
+   ],
+   "MUNTADGIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6421": {
+   "BURRACOPPIN": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH BURRACOPPIN": [
+    "Central Wheatbelt"
+   ],
+   "WARRALAKIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6422": {
+   "WALGOOLAN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6423": {
+   "BOODAROCKIN": [
+    "Central Wheatbelt"
+   ],
+   "WARRACHUPPIN": [
+    "Central Wheatbelt"
+   ],
+   "WESTONIA": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6424": {
+   "BODALLIN": [
+    "Central Wheatbelt"
+   ],
+   "NORTH BODALLIN": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH BODALLIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6425": {
+   "DULYALBIN": [
+    "Central Wheatbelt"
+   ],
+   "MOORINE ROCK": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6426": {
+   "CORINTHIA": [
+    "Central Wheatbelt"
+   ],
+   "GHOOLI": [
+    "Central Wheatbelt"
+   ],
+   "MARVEL LOCH": [
+    "Central Wheatbelt"
+   ],
+   "MT HAMPTON": [
+    "Central Wheatbelt"
+   ],
+   "MT HOLLAND": [
+    "Central Wheatbelt"
+   ],
+   "MT JACKSON": [
+    "Central Wheatbelt"
+   ],
+   "SKELETON ROCK": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH YILGARN": [
+    "Central Wheatbelt"
+   ],
+   "SOUTHERN CROSS": [
+    "Central Wheatbelt"
+   ],
+   "TURKEY HILL": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6428": {
+   "BABAKIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6429": {
+   "BULLABULLING": [
+    "Kalgoorlie"
+   ],
+   "COOLGARDIE": [
+    "Kalgoorlie"
+   ],
+   "MT BURGES": [
+    "Kalgoorlie"
+   ]
+  },
+  "6430": {
+   "BINDULI": [
+    "Kalgoorlie"
+   ],
+   "BROADWOOD": [
+    "Kalgoorlie"
+   ],
+   "HANNANS": [
+    "Kalgoorlie"
+   ],
+   "KALGOORLIE": [
+    "Kalgoorlie"
+   ],
+   "KARLKURLA": [
+    "Kalgoorlie"
+   ],
+   "LAMINGTON": [
+    "Kalgoorlie"
+   ],
+   "MULLINGAR": [
+    "Kalgoorlie"
+   ],
+   "PICCADILLY": [
+    "Kalgoorlie"
+   ],
+   "SOMERVILLE": [
+    "Kalgoorlie"
+   ],
+   "SOUTH KALGOORLIE": [
+    "Kalgoorlie"
+   ],
+   "WEST KALGOORLIE": [
+    "Kalgoorlie"
+   ],
+   "WEST LAMINGTON": [
+    "Kalgoorlie"
+   ],
+   "WILLIAMSTOWN": [
+    "Kalgoorlie"
+   ]
+  },
+  "6431": {
+   "BULONG": [
+    "Kalgoorlie"
+   ],
+   "EMU FLAT": [
+    "Kalgoorlie"
+   ],
+   "FEYSVILLE": [
+    "Kalgoorlie"
+   ],
+   "KANOWNA": [
+    "Kalgoorlie"
+   ],
+   "KOOKYNIE": [
+    "Kalgoorlie"
+   ],
+   "KURNALPI": [
+    "Kalgoorlie"
+   ],
+   "ORA BANDA": [
+    "Kalgoorlie"
+   ],
+   "PLUMRIDGE LAKES": [
+    "Kalgoorlie"
+   ],
+   "WARBURTON": [
+    "Kalgoorlie"
+   ]
+  },
+  "6432": {
+   "BOULDER": [
+    "Kalgoorlie"
+   ],
+   "SOUTH BOULDER": [
+    "Kalgoorlie"
+   ],
+   "VICTORY HEIGHTS": [
+    "Kalgoorlie"
+   ]
+  },
+  "6434": {
+   "CUNDEELEE": [
+    "Kalgoorlie"
+   ],
+   "FORREST": [
+    "Kalgoorlie"
+   ],
+   "PARKESTON": [
+    "Kalgoorlie"
+   ],
+   "RAWLINNA": [
+    "Kalgoorlie"
+   ]
+  },
+  "6436": {
+   "MENZIES": [
+    "Kalgoorlie"
+   ],
+   "ULARRING": [
+    "Kalgoorlie"
+   ]
+  },
+  "6437": {
+   "LEINSTER": [
+    "Kalgoorlie"
+   ],
+   "SIR SAMUEL": [
+    "Kalgoorlie"
+   ]
+  },
+  "6438": {
+   "LAKE DARLOT": [
+    "Kalgoorlie"
+   ],
+   "LEONORA": [
+    "Kalgoorlie"
+   ]
+  },
+  "6440": {
+   "BANDYA": [
+    "Kalgoorlie"
+   ],
+   "COSMO NEWBERY": [
+    "Kalgoorlie"
+   ],
+   "LAVERTON": [
+    "Kalgoorlie"
+   ]
+  },
+  "6442": {
+   "KAMBALDA EAST": [
+    "Kalgoorlie"
+   ],
+   "KAMBALDA WEST": [
+    "Kalgoorlie"
+   ]
+  },
+  "6443": {
+   "CAIGUNA": [
+    "Kalgoorlie"
+   ],
+   "EUCLA": [
+    "Kalgoorlie"
+   ],
+   "FRASER RANGE": [
+    "Kalgoorlie"
+   ],
+   "MADURA": [
+    "Kalgoorlie"
+   ],
+   "MUNDRABILLA": [
+    "Kalgoorlie"
+   ],
+   "NORSEMAN": [
+    "Kalgoorlie"
+   ],
+   "WIDGIEMOOLTHA": [
+    "Kalgoorlie"
+   ]
+  },
+  "6445": {
+   "NORTH CASCADE": [
+    "Roe"
+   ],
+   "SALMON GUMS": [
+    "Roe"
+   ]
+  },
+  "6446": {
+   "GRASS PATCH": [
+    "Roe"
+   ]
+  },
+  "6447": {
+   "LORT RIVER": [
+    "Roe"
+   ],
+   "MT NEY": [
+    "Roe"
+   ],
+   "SCADDAN": [
+    "Roe"
+   ],
+   "WITTENOOM HILLS": [
+    "Roe"
+   ]
+  },
+  "6448": {
+   "GIBSON": [
+    "Roe"
+   ]
+  },
+  "6450": {
+   "BANDY CREEK": [
+    "Roe"
+   ],
+   "BEAUMONT": [
+    "Roe"
+   ],
+   "BOYATUP": [
+    "Roe"
+   ],
+   "CAPE LE GRAND": [
+    "Roe"
+   ],
+   "CASCADE": [
+    "Roe"
+   ],
+   "CASTLETOWN": [
+    "Roe"
+   ],
+   "CHADWICK": [
+    "Roe"
+   ],
+   "CONDINGUP": [
+    "Roe"
+   ],
+   "COOMALBIDGUP": [
+    "Roe"
+   ],
+   "DALYUP": [
+    "Roe"
+   ],
+   "EAST MUNGLINUP": [
+    "Roe"
+   ],
+   "ESPERANCE": [
+    "Roe"
+   ],
+   "HOWICK": [
+    "Roe"
+   ],
+   "MERIVALE": [
+    "Roe"
+   ],
+   "MONJINGUP": [
+    "Roe"
+   ],
+   "MUNGLINUP": [
+    "Roe"
+   ],
+   "MYRUP": [
+    "Roe"
+   ],
+   "NERIDUP": [
+    "Roe"
+   ],
+   "NULSEN": [
+    "Roe"
+   ],
+   "PINK LAKE": [
+    "Roe"
+   ],
+   "SINCLAIR": [
+    "Roe"
+   ],
+   "WEST BEACH": [
+    "Roe"
+   ],
+   "WINDABOUT": [
+    "Roe"
+   ]
+  },
+  "6452": {
+   "BURAMINYA": [
+    "Roe"
+   ]
+  },
+  "6460": {
+   "GOOMALLING": [
+    "Central Wheatbelt"
+   ],
+   "HULONGINE": [
+    "Central Wheatbelt"
+   ],
+   "KARRANADGIN": [
+    "Central Wheatbelt"
+   ],
+   "UCARTY WEST": [
+    "Central Wheatbelt"
+   ],
+   "WALYORMOURING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6461": {
+   "DOWERIN": [
+    "Central Wheatbelt"
+   ],
+   "KOOMBERKINE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6462": {
+   "HINDMARSH": [
+    "Central Wheatbelt"
+   ],
+   "MINNIVALE": [
+    "Central Wheatbelt"
+   ],
+   "UCARTY": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6463": {
+   "BENJABERRING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6465": {
+   "MANMANNING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6466": {
+   "CADOUX": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6467": {
+   "BURAKIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6468": {
+   "GOODLANDS": [
+    "Mid-West"
+   ],
+   "KALANNIE": [
+    "Mid-West"
+   ],
+   "PETRUDOR": [
+    "Mid-West"
+   ]
+  },
+  "6470": {
+   "KULJA": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6472": {
+   "BEACON": [
+    "Central Wheatbelt"
+   ],
+   "BIMBIJY": [
+    "Central Wheatbelt"
+   ],
+   "CLEARY": [
+    "Central Wheatbelt"
+   ],
+   "MOUROUBRA": [
+    "Central Wheatbelt"
+   ],
+   "TAMPU": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6473": {
+   "NORTH WIALKI": [
+    "Central Wheatbelt"
+   ],
+   "WIALKI": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6475": {
+   "BADGERIN ROCK": [
+    "Central Wheatbelt"
+   ],
+   "BOORALAMING": [
+    "Central Wheatbelt"
+   ],
+   "DUKIN": [
+    "Central Wheatbelt"
+   ],
+   "KOORDA": [
+    "Central Wheatbelt"
+   ],
+   "LAKE MARGARETTE": [
+    "Central Wheatbelt"
+   ],
+   "MOLLERIN": [
+    "Central Wheatbelt"
+   ],
+   "NEWCARLBEON": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6476": {
+   "GABBIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6477": {
+   "BENCUBBIN": [
+    "Central Wheatbelt"
+   ],
+   "WELBUNGIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6479": {
+   "BARBALIN": [
+    "Central Wheatbelt"
+   ],
+   "BONNIE ROCK": [
+    "Central Wheatbelt"
+   ],
+   "DANDANNING": [
+    "Central Wheatbelt"
+   ],
+   "ELACHBUTTING": [
+    "Central Wheatbelt"
+   ],
+   "KARLONING": [
+    "Central Wheatbelt"
+   ],
+   "LAKE BROWN": [
+    "Central Wheatbelt"
+   ],
+   "MUKINBUDIN": [
+    "Central Wheatbelt"
+   ],
+   "WATTONING": [
+    "Central Wheatbelt"
+   ],
+   "WILGOYNE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6480": {
+   "NUKARNI": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6484": {
+   "BULLFINCH": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6485": {
+   "COWCOWING": [
+    "Central Wheatbelt"
+   ],
+   "KORRELOCKING": [
+    "Central Wheatbelt"
+   ],
+   "NALKAIN": [
+    "Central Wheatbelt"
+   ],
+   "NEMBUDDING": [
+    "Central Wheatbelt"
+   ],
+   "WYALKATCHEM": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6487": {
+   "NORTH YELBENI": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH YELBENI": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6488": {
+   "NORTH TRAYNING": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH TRAYNING": [
+    "Central Wheatbelt"
+   ],
+   "TRAYNING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6489": {
+   "KUNUNOPPIN": [
+    "Central Wheatbelt"
+   ],
+   "NORTH KUNUNOPPIN": [
+    "Central Wheatbelt"
+   ],
+   "SOUTH KUNUNOPPIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6490": {
+   "BURRAN ROCK": [
+    "Central Wheatbelt"
+   ],
+   "CHANDLER": [
+    "Central Wheatbelt"
+   ],
+   "ELABBIN": [
+    "Central Wheatbelt"
+   ],
+   "KWELKAN": [
+    "Central Wheatbelt"
+   ],
+   "NUNGARIN": [
+    "Central Wheatbelt"
+   ],
+   "TALGOMINE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6501": {
+   "MUCHEA": [
+    "Mid-West"
+   ]
+  },
+  "6502": {
+   "BINDOON": [
+    "Mid-West"
+   ],
+   "BINDOON TRAINING AREA": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6503": {
+   "BAMBUN": [
+    "Mid-West"
+   ],
+   "BEERMULLAH": [
+    "Mid-West"
+   ],
+   "BOONANARRING": [
+    "Mid-West"
+   ],
+   "BREERA": [
+    "Mid-West"
+   ],
+   "COONABIDGEE": [
+    "Mid-West"
+   ],
+   "COWALLA": [
+    "Mid-West"
+   ],
+   "CULLALLA": [
+    "Mid-West"
+   ],
+   "GINGIN": [
+    "Mid-West"
+   ],
+   "GINGINUP": [
+    "Mid-West"
+   ],
+   "GRANVILLE": [
+    "Mid-West"
+   ],
+   "LENNARD BROOK": [
+    "Mid-West"
+   ],
+   "MINDARRA": [
+    "Mid-West"
+   ],
+   "MOONDAH": [
+    "Mid-West"
+   ],
+   "MUCKENBURRA": [
+    "Mid-West"
+   ],
+   "NEERGABBY": [
+    "Mid-West"
+   ],
+   "ORANGE SPRINGS": [
+    "Mid-West"
+   ],
+   "RED GULLY": [
+    "Mid-West"
+   ],
+   "WANERIE": [
+    "Mid-West"
+   ]
+  },
+  "6504": {
+   "MOOLIABEENEE": [
+    "Mid-West"
+   ]
+  },
+  "6505": {
+   "WANNAMAL": [
+    "Mid-West"
+   ]
+  },
+  "6506": {
+   "MOGUMBER": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6507": {
+   "CATABY": [
+    "Mid-West"
+   ],
+   "COOLJARLOO": [
+    "Mid-West"
+   ],
+   "DANDARAGAN": [
+    "Mid-West"
+   ],
+   "MIMEGARRA": [
+    "Mid-West"
+   ],
+   "REGANS FORD": [
+    "Mid-West"
+   ],
+   "YATHROO": [
+    "Mid-West"
+   ]
+  },
+  "6509": {
+   "GLENTROMIE": [
+    "Central Wheatbelt"
+   ],
+   "NEW NORCIA": [
+    "Central Wheatbelt"
+   ],
+   "WADDINGTON": [
+    "Central Wheatbelt"
+   ],
+   "YARAWINDAH": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6510": {
+   "BARBERTON": [
+    "Mid-West"
+   ],
+   "BERKSHIRE VALLEY": [
+    "Mid-West"
+   ],
+   "GILLINGARRA": [
+    "Central Wheatbelt"
+   ],
+   "KOOJAN": [
+    "Mid-West"
+   ],
+   "MOORA": [
+    "Mid-West"
+   ],
+   "WALEBING": [
+    "Mid-West"
+   ]
+  },
+  "6511": {
+   "CERVANTES": [
+    "Mid-West"
+   ]
+  },
+  "6512": {
+   "COOMBERDALE": [
+    "Mid-West"
+   ],
+   "NAMBAN": [
+    "Mid-West"
+   ]
+  },
+  "6513": {
+   "GUNYIDI": [
+    "Mid-West"
+   ],
+   "WATHEROO": [
+    "Mid-West"
+   ]
+  },
+  "6514": {
+   "GREEN HEAD": [
+    "Mid-West"
+   ],
+   "LEEMAN": [
+    "Mid-West"
+   ]
+  },
+  "6515": {
+   "COOROW": [
+    "Mid-West"
+   ],
+   "EGANU": [
+    "Mid-West"
+   ],
+   "MARCHAGEE": [
+    "Mid-West"
+   ],
+   "WADDY FOREST": [
+    "Mid-West"
+   ]
+  },
+  "6516": {
+   "JURIEN BAY": [
+    "Mid-West"
+   ]
+  },
+  "6517": {
+   "CARNAMAH": [
+    "Mid-West"
+   ]
+  },
+  "6518": {
+   "ENEABBA": [
+    "Mid-West"
+   ],
+   "WARRADARGE": [
+    "Mid-West"
+   ]
+  },
+  "6519": {
+   "ARRINO": [
+    "Mid-West"
+   ],
+   "ARROWSMITH EAST": [
+    "Mid-West"
+   ],
+   "DUDAWA": [
+    "Mid-West"
+   ],
+   "KADATHINNI": [
+    "Mid-West"
+   ],
+   "THREE SPRINGS": [
+    "Mid-West"
+   ],
+   "WOMARDEN": [
+    "Mid-West"
+   ]
+  },
+  "6521": {
+   "BADGINGARRA": [
+    "Mid-West"
+   ],
+   "BOOTHENDARRA": [
+    "Mid-West"
+   ],
+   "GREY": [
+    "Mid-West"
+   ],
+   "HILL RIVER": [
+    "Mid-West"
+   ],
+   "NAMBUNG": [
+    "Mid-West"
+   ]
+  },
+  "6522": {
+   "BUNDANOON": [
+    "Mid-West"
+   ],
+   "HOLMWOOD": [
+    "Mid-West"
+   ],
+   "IKEWA": [
+    "Mid-West"
+   ],
+   "LOCKIER": [
+    "Mid-West"
+   ],
+   "MINGENEW": [
+    "Mid-West"
+   ],
+   "MOORIARY": [
+    "Mid-West"
+   ],
+   "MT BUDD": [
+    "Mid-West"
+   ],
+   "NANGETTY": [
+    "Mid-West"
+   ],
+   "YANDANOOKA": [
+    "Mid-West"
+   ],
+   "YARRAGADEE": [
+    "Mid-West"
+   ]
+  },
+  "6525": {
+   "ALLANOOKA": [
+    "Mid-West"
+   ],
+   "ARROWSMITH": [
+    "Mid-West"
+   ],
+   "BONNIEFIELD": [
+    "Mid-West"
+   ],
+   "BOOKARA": [
+    "Mid-West"
+   ],
+   "DONGARA": [
+    "Mid-West"
+   ],
+   "IRWIN": [
+    "Mid-West"
+   ],
+   "MILO": [
+    "Mid-West"
+   ],
+   "MT ADAMS": [
+    "Mid-West"
+   ],
+   "MT HORNER": [
+    "Mid-West"
+   ],
+   "PORT DENISON": [
+    "Mid-West"
+   ],
+   "SPRINGFIELD": [
+    "Mid-West"
+   ],
+   "YARDARINO": [
+    "Mid-West"
+   ]
+  },
+  "6528": {
+   "MT HILL": [
+    "Geraldton"
+   ],
+   "SOUTH GREENOUGH": [
+    "Geraldton"
+   ],
+   "WALKAWAY": [
+    "Geraldton"
+   ]
+  },
+  "6530": {
+   "BEACHLANDS": [
+    "Geraldton"
+   ],
+   "BERESFORD": [
+    "Geraldton"
+   ],
+   "BLUFF POINT": [
+    "Geraldton"
+   ],
+   "GERALDTON": [
+    "Geraldton"
+   ],
+   "KARLOO": [
+    "Geraldton"
+   ],
+   "MAHOMETS FLATS": [
+    "Geraldton"
+   ],
+   "MERU": [
+    "Geraldton"
+   ],
+   "MORESBY": [
+    "Geraldton"
+   ],
+   "MT TARCOOLA": [
+    "Geraldton"
+   ],
+   "RANGEWAY": [
+    "Geraldton"
+   ],
+   "SPALDING": [
+    "Geraldton"
+   ],
+   "STRATHALBYN": [
+    "Geraldton"
+   ],
+   "SUNSET BEACH": [
+    "Geraldton"
+   ],
+   "TARCOOLA BEACH": [
+    "Geraldton"
+   ],
+   "UTAKARRA": [
+    "Geraldton"
+   ],
+   "WAGGRAKINE": [
+    "Geraldton"
+   ],
+   "WANDINA": [
+    "Geraldton"
+   ],
+   "WEBBERTON": [
+    "Geraldton"
+   ],
+   "WEST END": [
+    "Geraldton"
+   ],
+   "WONTHELLA": [
+    "Geraldton"
+   ],
+   "WOORREE": [
+    "Geraldton"
+   ]
+  },
+  "6532": {
+   "AJANA": [
+    "Geraldton"
+   ],
+   "BINNU": [
+    "Geraldton"
+   ],
+   "BOOTENAL": [
+    "Geraldton"
+   ],
+   "BRINGO": [
+    "Geraldton"
+   ],
+   "BULLER": [
+    "Geraldton"
+   ],
+   "BURMA ROAD": [
+    "Geraldton"
+   ],
+   "CAPE BURNEY": [
+    "Geraldton"
+   ],
+   "CARRARANG": [
+    "Mid-West"
+   ],
+   "COOLCALALAYA": [
+    "Geraldton"
+   ],
+   "DARTMOOR": [
+    "Geraldton"
+   ],
+   "DEEPDALE": [
+    "Geraldton"
+   ],
+   "DINDILOA": [
+    "Geraldton"
+   ],
+   "DRUMMOND COVE": [
+    "Geraldton"
+   ],
+   "DURAWAH": [
+    "Geraldton"
+   ],
+   "EAST CHAPMAN": [
+    "Geraldton"
+   ],
+   "EAST NABAWA": [
+    "Geraldton"
+   ],
+   "EAST YUNA": [
+    "Geraldton"
+   ],
+   "ELLENDALE": [
+    "Geraldton"
+   ],
+   "ERADU": [
+    "Geraldton"
+   ],
+   "ERADU SOUTH": [
+    "Geraldton"
+   ],
+   "GEORGINA": [
+    "Geraldton"
+   ],
+   "GLENFIELD": [
+    "Geraldton"
+   ],
+   "GREENOUGH": [
+    "Geraldton"
+   ],
+   "HAMELIN POOL": [
+    "Mid-West"
+   ],
+   "HICKETY": [
+    "Geraldton"
+   ],
+   "HOWATHARRA": [
+    "Geraldton"
+   ],
+   "KOJARENA": [
+    "Geraldton"
+   ],
+   "MEADOW": [
+    "Mid-West"
+   ],
+   "MINNENOOKA": [
+    "Geraldton"
+   ],
+   "MOONYOONOOKA": [
+    "Geraldton"
+   ],
+   "MT ERIN": [
+    "Geraldton"
+   ],
+   "NABAWA": [
+    "Geraldton"
+   ],
+   "NANSON": [
+    "Geraldton"
+   ],
+   "NARALING": [
+    "Geraldton"
+   ],
+   "NARNGULU": [
+    "Geraldton"
+   ],
+   "NARRA TARRA": [
+    "Geraldton"
+   ],
+   "NERREN NERREN": [
+    "Mid-West"
+   ],
+   "NOLBA": [
+    "Geraldton"
+   ],
+   "NORTH ERADU": [
+    "Geraldton"
+   ],
+   "NORTHERN GULLY": [
+    "Geraldton"
+   ],
+   "OAKAJEE": [
+    "Geraldton"
+   ],
+   "ROCKWELL": [
+    "Geraldton"
+   ],
+   "RUDDS GULLY": [
+    "Geraldton"
+   ],
+   "SANDSPRINGS": [
+    "Geraldton"
+   ],
+   "SOUTH YUNA": [
+    "Geraldton"
+   ],
+   "TAMALA": [
+    "Mid-West"
+   ],
+   "TIBRADDEN": [
+    "Geraldton"
+   ],
+   "WANDANA": [
+    "Geraldton"
+   ],
+   "WEST BINNU": [
+    "Geraldton"
+   ],
+   "WHITE PEAK": [
+    "Geraldton"
+   ],
+   "WICHERINA": [
+    "Geraldton"
+   ],
+   "YETNA": [
+    "Geraldton"
+   ],
+   "YUNA": [
+    "Geraldton"
+   ]
+  },
+  "6535": {
+   "ALMA": [
+    "Geraldton"
+   ],
+   "BOWES": [
+    "Geraldton"
+   ],
+   "EAST BOWES": [
+    "Geraldton"
+   ],
+   "GREGORY": [
+    "Geraldton"
+   ],
+   "HORROCKS": [
+    "Geraldton"
+   ],
+   "ISSEKA": [
+    "Geraldton"
+   ],
+   "NORTHAMPTON": [
+    "Geraldton"
+   ],
+   "OGILVIE": [
+    "Geraldton"
+   ],
+   "SANDY GULLY": [
+    "Geraldton"
+   ],
+   "YALLABATHARRA": [
+    "Geraldton"
+   ]
+  },
+  "6536": {
+   "KALBARRI": [
+    "Geraldton"
+   ]
+  },
+  "6537": {
+   "DENHAM": [
+    "Mid-West"
+   ],
+   "DIRK HARTOG": [
+    "Mid-West"
+   ],
+   "FRANCOIS PERON NAT PK": [
+    "Mid-West"
+   ],
+   "MONKEY MIA": [
+    "Mid-West"
+   ],
+   "USELESS LOOP": [
+    "Mid-West"
+   ]
+  },
+  "6556": {
+   "BEECHINA": [
+    "Kalamunda"
+   ],
+   "CHIDLOW": [
+    "Kalamunda"
+   ],
+   "THE LAKES": [
+    "Kalamunda"
+   ]
+  },
+  "6558": {
+   "WOOROLOO": [
+    "Kalamunda"
+   ]
+  },
+  "6560": {
+   "WUNDOWIE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6562": {
+   "BAKERS HILL": [
+    "Central Wheatbelt"
+   ],
+   "COPLEY": [
+    "Central Wheatbelt"
+   ],
+   "WOOTTATING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6564": {
+   "CLACKLINE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6566": {
+   "BEJOORDING": [
+    "Central Wheatbelt"
+   ],
+   "CARANI": [
+    "Central Wheatbelt"
+   ],
+   "COONDLE": [
+    "Central Wheatbelt"
+   ],
+   "CULHAM": [
+    "Central Wheatbelt"
+   ],
+   "DUMBARTON": [
+    "Central Wheatbelt"
+   ],
+   "HODDYS WELL": [
+    "Central Wheatbelt"
+   ],
+   "KATRINE": [
+    "Central Wheatbelt"
+   ],
+   "NUNILE": [
+    "Central Wheatbelt"
+   ],
+   "TOODYAY": [
+    "Central Wheatbelt"
+   ],
+   "WEST TOODYAY": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6567": {
+   "DEWARS POOL": [
+    "Central Wheatbelt"
+   ],
+   "JULIMAR": [
+    "Central Wheatbelt"
+   ],
+   "MOONDYNE": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6568": {
+   "BOLGART": [
+    "Central Wheatbelt"
+   ],
+   "WATTENING": [
+    "Central Wheatbelt"
+   ],
+   "WYENING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6569": {
+   "CALINGIRI": [
+    "Central Wheatbelt"
+   ],
+   "OLD PLAINS": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6571": {
+   "YERECOIN": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6572": {
+   "PIAWANING": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6574": {
+   "BINDI BINDI": [
+    "Mid-West"
+   ],
+   "GABALONG": [
+    "Mid-West"
+   ]
+  },
+  "6575": {
+   "MILING": [
+    "Mid-West"
+   ]
+  },
+  "6603": {
+   "KONNONGORRING": [
+    "Central Wheatbelt"
+   ],
+   "LAKE HINDS": [
+    "Central Wheatbelt"
+   ],
+   "LAKE NINAN": [
+    "Central Wheatbelt"
+   ],
+   "MOCARDY": [
+    "Central Wheatbelt"
+   ],
+   "WONGAN HILLS": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6605": {
+   "KONDUT": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6606": {
+   "BALLIDU": [
+    "Central Wheatbelt"
+   ],
+   "EAST BALLIDU": [
+    "Central Wheatbelt"
+   ],
+   "WEST BALLIDU": [
+    "Central Wheatbelt"
+   ]
+  },
+  "6608": {
+   "EAST DAMBORING": [
+    "Mid-West"
+   ],
+   "MARNE": [
+    "Mid-West"
+   ],
+   "PITHARA": [
+    "Mid-West"
+   ]
+  },
+  "6609": {
+   "DALWALLINU": [
+    "Mid-West"
+   ],
+   "NUGADONG": [
+    "Mid-West"
+   ],
+   "XANTIPPE": [
+    "Mid-West"
+   ]
+  },
+  "6612": {
+   "JIBBERDING": [
+    "Mid-West"
+   ],
+   "MIAMOON": [
+    "Mid-West"
+   ],
+   "PAYNES FIND": [
+    "Mid-West"
+   ],
+   "WUBIN": [
+    "Mid-West"
+   ]
+  },
+  "6613": {
+   "BUNTINE": [
+    "Mid-West"
+   ]
+  },
+  "6614": {
+   "MAYA": [
+    "Mid-West"
+   ]
+  },
+  "6616": {
+   "LATHAM": [
+    "Mid-West"
+   ]
+  },
+  "6620": {
+   "PERENJORI": [
+    "Mid-West"
+   ],
+   "ROTHSAY": [
+    "Mid-West"
+   ]
+  },
+  "6623": {
+   "BOWGADA": [
+    "Mid-West"
+   ],
+   "BUNJIL": [
+    "Mid-West"
+   ],
+   "GUTHA": [
+    "Mid-West"
+   ],
+   "KOOLANOOKA": [
+    "Mid-West"
+   ],
+   "MORAWA": [
+    "Mid-West"
+   ],
+   "PINTHARUKA": [
+    "Mid-West"
+   ]
+  },
+  "6625": {
+   "MERKANOOKA": [
+    "Mid-West"
+   ]
+  },
+  "6627": {
+   "CANNA": [
+    "Mid-West"
+   ]
+  },
+  "6628": {
+   "TARDUN": [
+    "Geraldton"
+   ]
+  },
+  "6630": {
+   "DEVILS CREEK": [
+    "Geraldton"
+   ],
+   "MULLEWA": [
+    "Geraldton"
+   ],
+   "MURCHISON": [
+    "Mid-West"
+   ],
+   "NUNIERRA": [
+    "Geraldton"
+   ],
+   "WEST CASUARINAS": [
+    "Geraldton"
+   ],
+   "WONGOONDY": [
+    "Geraldton"
+   ],
+   "WOOLGORONG": [
+    "Mid-West"
+   ]
+  },
+  "6631": {
+   "PINDAR": [
+    "Geraldton"
+   ]
+  },
+  "6632": {
+   "AMBANIA": [
+    "Geraldton"
+   ],
+   "TENINDEWA": [
+    "Geraldton"
+   ]
+  },
+  "6635": {
+   "SOUTH MURCHISON": [
+    "Mid-West"
+   ],
+   "YALGOO": [
+    "Mid-West"
+   ]
+  },
+  "6638": {
+   "COOLADAR HILL": [
+    "Mid-West"
+   ],
+   "DAGGAR HILLS": [
+    "Mid-West"
+   ],
+   "MT MAGNET": [
+    "Mid-West"
+   ],
+   "PAYNESVILLE": [
+    "Mid-West"
+   ]
+  },
+  "6639": {
+   "SANDSTONE": [
+    "Mid-West"
+   ]
+  },
+  "6640": {
+   "CUE": [
+    "Mid-West"
+   ],
+   "EAST MURCHISON": [
+    "Mid-West"
+   ],
+   "LAKE AUSTIN": [
+    "Mid-West"
+   ],
+   "REEDY": [
+    "Mid-West"
+   ],
+   "WELD RANGE": [
+    "Mid-West"
+   ]
+  },
+  "6642": {
+   "ANGELO RIVER": [
+    "Mid-West"
+   ],
+   "CAPRICORN": [
+    "Mid-West"
+   ],
+   "KUMARINA": [
+    "Mid-West"
+   ],
+   "MEEKATHARRA": [
+    "Mid-West"
+   ],
+   "PEAK HILL": [
+    "Mid-West"
+   ]
+  },
+  "6646": {
+   "LAKE CARNEGIE": [
+    "Kalgoorlie"
+   ],
+   "LITTLE SANDY DESERT": [
+    "Kalgoorlie"
+   ],
+   "WILUNA": [
+    "Kalgoorlie"
+   ]
+  },
+  "6701": {
+   "BABBAGE ISLAND": [
+    "Mid-West"
+   ],
+   "BROCKMAN": [
+    "Mid-West"
+   ],
+   "BROWN RANGE": [
+    "Mid-West"
+   ],
+   "CARBLA": [
+    "Mid-West"
+   ],
+   "CARNARVON": [
+    "Mid-West"
+   ],
+   "CORAL BAY": [
+    "Mid-West"
+   ],
+   "EAST CARNARVON": [
+    "Mid-West"
+   ],
+   "GREYS PLAIN": [
+    "Mid-West"
+   ],
+   "INGGARDA": [
+    "Mid-West"
+   ],
+   "KENNEDY RANGE": [
+    "Mid-West"
+   ],
+   "KINGSFORD": [
+    "Mid-West"
+   ],
+   "LYNDON": [
+    "Mid-West"
+   ],
+   "MACLEOD": [
+    "Mid-West"
+   ],
+   "MASSEY BAY": [
+    "Mid-West"
+   ],
+   "MINILYA": [
+    "Mid-West"
+   ],
+   "MORGANTOWN": [
+    "Mid-West"
+   ],
+   "NORTH PLANTATIONS": [
+    "Mid-West"
+   ],
+   "SOUTH CARNARVON": [
+    "Mid-West"
+   ],
+   "SOUTH PLANTATIONS": [
+    "Mid-West"
+   ],
+   "WOODLEIGH": [
+    "Mid-West"
+   ],
+   "WOORAMEL": [
+    "Mid-West"
+   ],
+   "YANDOO CREEK": [
+    "Mid-West"
+   ]
+  },
+  "6705": {
+   "EAST LYONS RIVER": [
+    "Mid-West"
+   ],
+   "GASCOYNE JUNCTION": [
+    "Mid-West"
+   ],
+   "GASCOYNE RIVER": [
+    "Mid-West"
+   ],
+   "KARALUNDI": [
+    "Mid-West"
+   ],
+   "WEST LYONS RIVER": [
+    "Mid-West"
+   ]
+  },
+  "6707": {
+   "CAPE RANGE NATIONAL PARK": [
+    "Pilbara"
+   ],
+   "EXMOUTH": [
+    "Pilbara"
+   ],
+   "EXMOUTH GULF": [
+    "Pilbara"
+   ],
+   "LEARMONTH": [
+    "Pilbara"
+   ],
+   "NORTH WEST CAPE": [
+    "Pilbara"
+   ]
+  },
+  "6710": {
+   "CANE": [
+    "Pilbara"
+   ],
+   "ONSLOW": [
+    "Pilbara"
+   ],
+   "PEEDAMULLA": [
+    "Pilbara"
+   ],
+   "TALANDJI": [
+    "Pilbara"
+   ],
+   "YANNARIE": [
+    "Pilbara"
+   ]
+  },
+  "6713": {
+   "DAMPIER": [
+    "Pilbara"
+   ]
+  },
+  "6714": {
+   "BAYNTON": [
+    "Pilbara"
+   ],
+   "BULGARRA": [
+    "Pilbara"
+   ],
+   "COOYA POOYA": [
+    "Pilbara"
+   ],
+   "GAP RIDGE": [
+    "Pilbara"
+   ],
+   "KARRATHA": [
+    "Pilbara"
+   ],
+   "KARRATHA INDUSTRIAL EST": [
+    "Pilbara"
+   ],
+   "MAITLAND": [
+    "Pilbara"
+   ],
+   "MARDIE": [
+    "Pilbara"
+   ],
+   "MILLARS WELL": [
+    "Pilbara"
+   ],
+   "NICKOL": [
+    "Pilbara"
+   ],
+   "PEGS CREEK": [
+    "Pilbara"
+   ],
+   "SHERLOCK": [
+    "Pilbara"
+   ],
+   "STOVE HILL": [
+    "Pilbara"
+   ]
+  },
+  "6716": {
+   "FORTESCUE": [
+    "Pilbara"
+   ],
+   "MILLSTREAM": [
+    "Pilbara"
+   ],
+   "PANNAWONICA": [
+    "Pilbara"
+   ]
+  },
+  "6718": {
+   "ROEBOURNE": [
+    "Pilbara"
+   ]
+  },
+  "6720": {
+   "POINT SAMSON": [
+    "Pilbara"
+   ],
+   "WICKHAM": [
+    "Pilbara"
+   ]
+  },
+  "6721": {
+   "INDEE": [
+    "Pilbara"
+   ],
+   "MUNDABULLANGANA": [
+    "Pilbara"
+   ],
+   "PARDOO": [
+    "Pilbara"
+   ],
+   "PORT HEDLAND": [
+    "Pilbara"
+   ],
+   "REDBANK": [
+    "Pilbara"
+   ],
+   "STRELLEY": [
+    "Pilbara"
+   ],
+   "WALLAREENYA": [
+    "Pilbara"
+   ],
+   "WEDGEFIELD": [
+    "Pilbara"
+   ]
+  },
+  "6722": {
+   "BOODARIE": [
+    "Pilbara"
+   ],
+   "DE GREY": [
+    "Pilbara"
+   ],
+   "PIPPINGARRA": [
+    "Pilbara"
+   ],
+   "SOUTH HEDLAND": [
+    "Pilbara"
+   ]
+  },
+  "6725": {
+   "BILINGURR": [
+    "Kimberley"
+   ],
+   "BROOME": [
+    "Kimberley"
+   ],
+   "DAMPIER PENINSULA": [
+    "Kimberley"
+   ],
+   "DJUGUN": [
+    "Kimberley"
+   ],
+   "EIGHTY MILE BEACH": [
+    "Kimberley"
+   ],
+   "GINGERAH": [
+    "Kimberley"
+   ],
+   "LAGRANGE": [
+    "Kimberley"
+   ],
+   "MINYIRR": [
+    "Kimberley"
+   ],
+   "ROEBUCK": [
+    "Kimberley"
+   ],
+   "WATERBANK": [
+    "Kimberley"
+   ]
+  },
+  "6726": {
+   "CABLE BEACH": [
+    "Kimberley"
+   ]
+  },
+  "6728": {
+   "BULARI DI WUNAMI": [
+    "Kimberley"
+   ],
+   "CAMBALLIN": [
+    "Kimberley"
+   ],
+   "DERBY": [
+    "Kimberley"
+   ],
+   "GEEGULLY CREEK": [
+    "Kimberley"
+   ],
+   "JARLMADANGAH BURRU": [
+    "Kimberley"
+   ],
+   "KIMBOLTON": [
+    "Kimberley"
+   ],
+   "MEDA": [
+    "Kimberley"
+   ],
+   "ST GEORGE RANGES": [
+    "Kimberley"
+   ],
+   "WILLARE": [
+    "Kimberley"
+   ]
+  },
+  "6740": {
+   "DRYSDALE RIVER": [
+    "Kimberley"
+   ],
+   "KALUMBURU": [
+    "Kimberley"
+   ],
+   "MITCHELL PLATEAU": [
+    "Kimberley"
+   ],
+   "OOMBULGURRI": [
+    "Kimberley"
+   ],
+   "WYNDHAM": [
+    "Kimberley"
+   ]
+  },
+  "6743": {
+   "CAMBRIDGE GULF": [
+    "Kimberley"
+   ],
+   "DURACK": [
+    "Kimberley"
+   ],
+   "GIBB": [
+    "Kimberley"
+   ],
+   "KUNUNURRA": [
+    "Kimberley"
+   ],
+   "LAKE ARGYLE": [
+    "Kimberley"
+   ],
+   "WARMUN": [
+    "Kimberley"
+   ]
+  },
+  "6751": {
+   "CHICHESTER": [
+    "Pilbara"
+   ],
+   "INNAWANGA": [
+    "Pilbara"
+   ],
+   "JUNA DOWNS": [
+    "Pilbara"
+   ],
+   "KARIJINI": [
+    "Pilbara"
+   ],
+   "MT SHEILA": [
+    "Pilbara"
+   ],
+   "NANUTARRA": [
+    "Pilbara"
+   ],
+   "ROCKLEA": [
+    "Pilbara"
+   ],
+   "TOM PRICE": [
+    "Pilbara"
+   ],
+   "WITTENOOM": [
+    "Pilbara"
+   ]
+  },
+  "6753": {
+   "JIGALONG": [
+    "Pilbara"
+   ],
+   "NEWMAN": [
+    "Pilbara"
+   ]
+  },
+  "6754": {
+   "PARABURDOO": [
+    "Pilbara"
+   ]
+  },
+  "6758": {
+   "NULLAGINE": [
+    "Pilbara"
+   ]
+  },
+  "6760": {
+   "MARBLE BAR": [
+    "Pilbara"
+   ]
+  },
+  "6762": {
+   "TELFER": [
+    "Kimberley"
+   ]
+  },
+  "6765": {
+   "FITZROY CROSSING": [
+    "Kimberley"
+   ],
+   "MT HARDMAN": [
+    "Kimberley"
+   ]
+  },
+  "6770": {
+   "HALLS CREEK": [
+    "Kimberley"
+   ],
+   "KUNDAT DJARU": [
+    "Kimberley"
+   ],
+   "KUPARTIYA": [
+    "Kimberley"
+   ],
+   "MCBEATH": [
+    "Kimberley"
+   ],
+   "MUELLER RANGES": [
+    "Kimberley"
+   ],
+   "ORD RIVER": [
+    "Kimberley"
+   ],
+   "STURT CREEK": [
+    "Kimberley"
+   ],
+   "TANAMI": [
+    "Kimberley"
+   ]
+  }
+ },
+ "byLocality": {
+  "ABBA RIVER": [
+   "Vasse"
+  ],
+  "ABBEY": [
+   "Vasse"
+  ],
+  "ACTON PARK": [
+   "Vasse"
+  ],
+  "ADAMSVALE": [
+   "Central Wheatbelt"
+  ],
+  "AJANA": [
+   "Geraldton"
+  ],
+  "ALBANY": [
+   "Albany"
+  ],
+  "ALDERSYDE": [
+   "Central Wheatbelt"
+  ],
+  "ALEXANDER HEIGHTS": [
+   "Girrawheen"
+  ],
+  "ALEXANDRA BRIDGE": [
+   "Warren-Blackwood"
+  ],
+  "ALFRED COVE": [
+   "Bateman",
+   "Bicton"
+  ],
+  "ALKIMOS": [
+   "Butler"
+  ],
+  "ALLANOOKA": [
+   "Mid-West"
+  ],
+  "ALLANSON": [
+   "Collie-Preston"
+  ],
+  "ALMA": [
+   "Geraldton"
+  ],
+  "AMBANIA": [
+   "Geraldton"
+  ],
+  "AMBERGATE": [
+   "Vasse"
+  ],
+  "AMELUP": [
+   "Roe"
+  ],
+  "ANGELO RIVER": [
+   "Mid-West"
+  ],
+  "ANKETELL": [
+   "Oakford"
+  ],
+  "ANNIEBROOK": [
+   "Vasse"
+  ],
+  "APPLECROSS": [
+   "Bateman"
+  ],
+  "ARDATH": [
+   "Central Wheatbelt"
+  ],
+  "ARDROSS": [
+   "Bateman"
+  ],
+  "ARGYLE": [
+   "Collie-Preston"
+  ],
+  "ARMADALE": [
+   "Armadale"
+  ],
+  "ARRINO": [
+   "Mid-West"
+  ],
+  "ARROWSMITH": [
+   "Mid-West"
+  ],
+  "ARROWSMITH EAST": [
+   "Mid-West"
+  ],
+  "ARTHUR RIVER": [
+   "Roe"
+  ],
+  "ASCOT": [
+   "Belmont"
+  ],
+  "ASHBY": [
+   "Wanneroo"
+  ],
+  "ASHENDON": [
+   "Darling Range"
+  ],
+  "ASHFIELD": [
+   "Bassendean"
+  ],
+  "ATTADALE": [
+   "Bicton"
+  ],
+  "ATWELL": [
+   "Jandakot"
+  ],
+  "AUBIN GROVE": [
+   "Oakford"
+  ],
+  "AUGUSTA": [
+   "Warren-Blackwood"
+  ],
+  "AUSTRALIND": [
+   "Collie-Preston",
+   "Murray-Wellington"
+  ],
+  "AVELEY": [
+   "Swan Hills"
+  ],
+  "AVON VALLEY NATIONAL PARK": [
+   "Swan Hills"
+  ],
+  "BAANDEE": [
+   "Central Wheatbelt"
+  ],
+  "BABAKIN": [
+   "Central Wheatbelt"
+  ],
+  "BABBAGE ISLAND": [
+   "Mid-West"
+  ],
+  "BADGEBUP": [
+   "Roe"
+  ],
+  "BADGERIN ROCK": [
+   "Central Wheatbelt"
+  ],
+  "BADGIN": [
+   "Central Wheatbelt"
+  ],
+  "BADGINGARRA": [
+   "Mid-West"
+  ],
+  "BADJALING": [
+   "Central Wheatbelt"
+  ],
+  "BAILUP": [
+   "Kalamunda"
+  ],
+  "BAKERS HILL": [
+   "Central Wheatbelt"
+  ],
+  "BALBARRUP": [
+   "Warren-Blackwood"
+  ],
+  "BALCATTA": [
+   "Balcatta"
+  ],
+  "BALDIVIS": [
+   "Baldivis",
+   "Darling Range",
+   "Kwinana"
+  ],
+  "BALGA": [
+   "Girrawheen"
+  ],
+  "BALINGUP": [
+   "Collie-Preston"
+  ],
+  "BALKULING": [
+   "Central Wheatbelt"
+  ],
+  "BALLADONG": [
+   "Central Wheatbelt"
+  ],
+  "BALLAJURA": [
+   "West Swan"
+  ],
+  "BALLAYING": [
+   "Roe"
+  ],
+  "BALLIDU": [
+   "Central Wheatbelt"
+  ],
+  "BALLY BALLY": [
+   "Central Wheatbelt"
+  ],
+  "BAMBUN": [
+   "Mid-West"
+  ],
+  "BANDY CREEK": [
+   "Roe"
+  ],
+  "BANDYA": [
+   "Kalgoorlie"
+  ],
+  "BANJUP": [
+   "Jandakot",
+   "Oakford"
+  ],
+  "BANKSIA GROVE": [
+   "Wanneroo"
+  ],
+  "BANNISTER": [
+   "Central Wheatbelt"
+  ],
+  "BARBALIN": [
+   "Central Wheatbelt"
+  ],
+  "BARBERTON": [
+   "Mid-West"
+  ],
+  "BARRABUP": [
+   "Warren-Blackwood"
+  ],
+  "BARRAGUP": [
+   "Murray-Wellington"
+  ],
+  "BASKERVILLE": [
+   "Swan Hills"
+  ],
+  "BASSENDEAN": [
+   "Bassendean"
+  ],
+  "BATEMAN": [
+   "Bateman"
+  ],
+  "BAYNTON": [
+   "Pilbara"
+  ],
+  "BAYONET HEAD": [
+   "Albany"
+  ],
+  "BAYSWATER": [
+   "Bassendean",
+   "Maylands"
+  ],
+  "BEACHLANDS": [
+   "Geraldton"
+  ],
+  "BEACON": [
+   "Central Wheatbelt"
+  ],
+  "BEACONSFIELD": [
+   "Fremantle"
+  ],
+  "BEAUFORT RIVER": [
+   "Roe"
+  ],
+  "BEAUMONT": [
+   "Roe"
+  ],
+  "BECKENHAM": [
+   "Cannington"
+  ],
+  "BEDFORD": [
+   "Maylands"
+  ],
+  "BEDFORDALE": [
+   "Darling Range"
+  ],
+  "BEECHBORO": [
+   "Bassendean"
+  ],
+  "BEECHINA": [
+   "Kalamunda"
+  ],
+  "BEEDELUP": [
+   "Warren-Blackwood"
+  ],
+  "BEELA": [
+   "Murray-Wellington"
+  ],
+  "BEELERUP": [
+   "Collie-Preston"
+  ],
+  "BEELIAR": [
+   "Cockburn"
+  ],
+  "BEENONG": [
+   "Roe"
+  ],
+  "BEERMULLAH": [
+   "Mid-West"
+  ],
+  "BEJOORDING": [
+   "Central Wheatbelt"
+  ],
+  "BELDON": [
+   "Hillarys"
+  ],
+  "BELHUS": [
+   "Swan Hills"
+  ],
+  "BELLEVUE": [
+   "Midland"
+  ],
+  "BELMONT": [
+   "Belmont"
+  ],
+  "BENCUBBIN": [
+   "Central Wheatbelt"
+  ],
+  "BENGER": [
+   "Murray-Wellington"
+  ],
+  "BENJABERRING": [
+   "Central Wheatbelt"
+  ],
+  "BENJINUP": [
+   "Warren-Blackwood"
+  ],
+  "BENNETT SPRINGS": [
+   "Bassendean",
+   "West Swan"
+  ],
+  "BENTLEY": [
+   "Cannington",
+   "Victoria Park"
+  ],
+  "BERESFORD": [
+   "Geraldton"
+  ],
+  "BERKSHIRE VALLEY": [
+   "Mid-West"
+  ],
+  "BERTRAM": [
+   "Kwinana"
+  ],
+  "BEVERLEY": [
+   "Central Wheatbelt"
+  ],
+  "BIBRA LAKE": [
+   "Bibra Lake"
+  ],
+  "BICKLEY": [
+   "Kalamunda"
+  ],
+  "BICTON": [
+   "Bicton"
+  ],
+  "BIDDELIA": [
+   "Warren-Blackwood"
+  ],
+  "BIG GROVE": [
+   "Albany"
+  ],
+  "BILBARIN": [
+   "Central Wheatbelt"
+  ],
+  "BILINGURR": [
+   "Kimberley"
+  ],
+  "BIMBIJY": [
+   "Central Wheatbelt"
+  ],
+  "BINDI BINDI": [
+   "Mid-West"
+  ],
+  "BINDOON": [
+   "Mid-West"
+  ],
+  "BINDOON TRAINING AREA": [
+   "Central Wheatbelt"
+  ],
+  "BINDULI": [
+   "Kalgoorlie"
+  ],
+  "BINNINGUP": [
+   "Murray-Wellington"
+  ],
+  "BINNU": [
+   "Geraldton"
+  ],
+  "BIRCHMONT": [
+   "Murray-Wellington"
+  ],
+  "BLUFF POINT": [
+   "Geraldton"
+  ],
+  "BLYTHEWOOD": [
+   "Murray-Wellington"
+  ],
+  "BOALLIA": [
+   "Vasse"
+  ],
+  "BOBALONG": [
+   "Roe"
+  ],
+  "BODALLIN": [
+   "Central Wheatbelt"
+  ],
+  "BODDINGTON": [
+   "Central Wheatbelt"
+  ],
+  "BOILUP": [
+   "Roe"
+  ],
+  "BOKAL": [
+   "Roe"
+  ],
+  "BOLGART": [
+   "Central Wheatbelt"
+  ],
+  "BONNIE ROCK": [
+   "Central Wheatbelt"
+  ],
+  "BONNIEFIELD": [
+   "Mid-West"
+  ],
+  "BOODARIE": [
+   "Pilbara"
+  ],
+  "BOODAROCKIN": [
+   "Central Wheatbelt"
+  ],
+  "BOOKARA": [
+   "Mid-West"
+  ],
+  "BOONANARRING": [
+   "Mid-West"
+  ],
+  "BOORAGOON": [
+   "Bateman"
+  ],
+  "BOORALAMING": [
+   "Central Wheatbelt"
+  ],
+  "BOORARA BROOK": [
+   "Warren-Blackwood"
+  ],
+  "BOOTENAL": [
+   "Geraldton"
+  ],
+  "BOOTHENDARRA": [
+   "Mid-West"
+  ],
+  "BORANUP": [
+   "Warren-Blackwood"
+  ],
+  "BORDEN": [
+   "Roe"
+  ],
+  "BORDERDALE": [
+   "Roe"
+  ],
+  "BORNHOLM": [
+   "Albany"
+  ],
+  "BOSCABEL": [
+   "Roe"
+  ],
+  "BOULDER": [
+   "Kalgoorlie"
+  ],
+  "BOUNDAIN": [
+   "Roe"
+  ],
+  "BOUVARD": [
+   "Dawesville"
+  ],
+  "BOVELL": [
+   "Vasse"
+  ],
+  "BOW BRIDGE": [
+   "Warren-Blackwood"
+  ],
+  "BOWELLING": [
+   "Roe"
+  ],
+  "BOWES": [
+   "Geraldton"
+  ],
+  "BOWGADA": [
+   "Mid-West"
+  ],
+  "BOXWOOD HILL": [
+   "Roe"
+  ],
+  "BOYA": [
+   "Midland"
+  ],
+  "BOYANUP": [
+   "Collie-Preston"
+  ],
+  "BOYATUP": [
+   "Roe"
+  ],
+  "BOYERINE": [
+   "Roe"
+  ],
+  "BOYUP BROOK": [
+   "Warren-Blackwood"
+  ],
+  "BRABHAM": [
+   "West Swan"
+  ],
+  "BRAMLEY": [
+   "Warren-Blackwood"
+  ],
+  "BRAZIER": [
+   "Collie-Preston"
+  ],
+  "BREERA": [
+   "Mid-West"
+  ],
+  "BREMER BAY": [
+   "Roe"
+  ],
+  "BRENTWOOD": [
+   "Bateman",
+   "Riverton"
+  ],
+  "BRETON BAY": [
+   "Mid-West"
+  ],
+  "BRIDGETOWN": [
+   "Warren-Blackwood"
+  ],
+  "BRIGADOON": [
+   "Swan Hills"
+  ],
+  "BRINGO": [
+   "Geraldton"
+  ],
+  "BROADWATER": [
+   "Vasse"
+  ],
+  "BROADWOOD": [
+   "Kalgoorlie"
+  ],
+  "BROCKMAN": [
+   "Mid-West"
+  ],
+  "BROKE": [
+   "Warren-Blackwood"
+  ],
+  "BROOKDALE": [
+   "Oakford"
+  ],
+  "BROOKHAMPTON": [
+   "Collie-Preston"
+  ],
+  "BROOKTON": [
+   "Central Wheatbelt"
+  ],
+  "BROOME": [
+   "Kimberley"
+  ],
+  "BROOMEHILL EAST": [
+   "Roe"
+  ],
+  "BROOMEHILL VILLAGE": [
+   "Roe"
+  ],
+  "BROOMEHILL WEST": [
+   "Roe"
+  ],
+  "BROWN RANGE": [
+   "Mid-West"
+  ],
+  "BRUCE ROCK": [
+   "Central Wheatbelt"
+  ],
+  "BRUNSWICK": [
+   "Murray-Wellington"
+  ],
+  "BUCKINGHAM": [
+   "Collie-Preston"
+  ],
+  "BUCKLAND": [
+   "Central Wheatbelt"
+  ],
+  "BULARI DI WUNAMI": [
+   "Kimberley"
+  ],
+  "BULGARRA": [
+   "Pilbara"
+  ],
+  "BULL CREEK": [
+   "Riverton"
+  ],
+  "BULLABULLING": [
+   "Kalgoorlie"
+  ],
+  "BULLARING": [
+   "Central Wheatbelt"
+  ],
+  "BULLER": [
+   "Geraldton"
+  ],
+  "BULLFINCH": [
+   "Central Wheatbelt"
+  ],
+  "BULLOCK HILLS": [
+   "Roe"
+  ],
+  "BULLSBROOK": [
+   "Swan Hills"
+  ],
+  "BULONG": [
+   "Kalgoorlie"
+  ],
+  "BULYEE": [
+   "Central Wheatbelt"
+  ],
+  "BUNBURY": [
+   "Bunbury"
+  ],
+  "BUNDANOON": [
+   "Mid-West"
+  ],
+  "BUNICHE": [
+   "Roe"
+  ],
+  "BUNJIL": [
+   "Mid-West"
+  ],
+  "BUNTINE": [
+   "Mid-West"
+  ],
+  "BURAKIN": [
+   "Central Wheatbelt"
+  ],
+  "BURAMINYA": [
+   "Roe"
+  ],
+  "BUREKUP": [
+   "Collie-Preston"
+  ],
+  "BURGES": [
+   "Central Wheatbelt"
+  ],
+  "BURLONG": [
+   "Central Wheatbelt"
+  ],
+  "BURMA ROAD": [
+   "Geraldton"
+  ],
+  "BURNS BEACH": [
+   "Joondalup"
+  ],
+  "BURNSIDE": [
+   "Warren-Blackwood"
+  ],
+  "BURRACOPPIN": [
+   "Central Wheatbelt"
+  ],
+  "BURRAN ROCK": [
+   "Central Wheatbelt"
+  ],
+  "BURSWOOD": [
+   "Victoria Park"
+  ],
+  "BUSHMEAD": [
+   "Forrestfield"
+  ],
+  "BUSSELTON": [
+   "Vasse"
+  ],
+  "BUTLER": [
+   "Butler"
+  ],
+  "BYFORD": [
+   "Darling Range"
+  ],
+  "CABLE BEACH": [
+   "Kimberley"
+  ],
+  "CADOUX": [
+   "Central Wheatbelt"
+  ],
+  "CAIGUNA": [
+   "Kalgoorlie"
+  ],
+  "CALINGIRI": [
+   "Central Wheatbelt"
+  ],
+  "CALISTA": [
+   "Kwinana"
+  ],
+  "CALJIE": [
+   "Central Wheatbelt"
+  ],
+  "CALLCUP": [
+   "Warren-Blackwood"
+  ],
+  "CAMBALLIN": [
+   "Kimberley"
+  ],
+  "CAMBRIDGE GULF": [
+   "Kimberley"
+  ],
+  "CAMILLO": [
+   "Armadale"
+  ],
+  "CANCANNING": [
+   "Roe"
+  ],
+  "CANE": [
+   "Pilbara"
+  ],
+  "CANNA": [
+   "Mid-West"
+  ],
+  "CANNING MILLS": [
+   "Kalamunda"
+  ],
+  "CANNING VALE": [
+   "Jandakot",
+   "Southern River"
+  ],
+  "CANNINGTON": [
+   "Cannington"
+  ],
+  "CAPE BURNEY": [
+   "Geraldton"
+  ],
+  "CAPE LE GRAND": [
+   "Roe"
+  ],
+  "CAPE RANGE NATIONAL PARK": [
+   "Pilbara"
+  ],
+  "CAPEL": [
+   "Collie-Preston"
+  ],
+  "CAPEL RIVER": [
+   "Vasse"
+  ],
+  "CAPRICORN": [
+   "Mid-West"
+  ],
+  "CARABAN": [
+   "Mid-West"
+  ],
+  "CARABOODA": [
+   "Butler",
+   "Wanneroo"
+  ],
+  "CARANI": [
+   "Central Wheatbelt"
+  ],
+  "CARBLA": [
+   "Mid-West"
+  ],
+  "CARBUNUP RIVER": [
+   "Vasse"
+  ],
+  "CARDIFF": [
+   "Collie-Preston"
+  ],
+  "CARDUP": [
+   "Darling Range"
+  ],
+  "CAREY PARK": [
+   "Bunbury"
+  ],
+  "CARINE": [
+   "Carine"
+  ],
+  "CARLISLE": [
+   "Victoria Park"
+  ],
+  "CARLOTTA": [
+   "Warren-Blackwood"
+  ],
+  "CARMEL": [
+   "Kalamunda"
+  ],
+  "CARNAMAH": [
+   "Mid-West"
+  ],
+  "CARNARVON": [
+   "Mid-West"
+  ],
+  "CARRAMAR": [
+   "Wanneroo"
+  ],
+  "CARRARANG": [
+   "Mid-West"
+  ],
+  "CARROLUP": [
+   "Roe"
+  ],
+  "CARTMETICUP": [
+   "Roe"
+  ],
+  "CASCADE": [
+   "Roe"
+  ],
+  "CASTLETOWN": [
+   "Roe"
+  ],
+  "CASUARINA": [
+   "Oakford"
+  ],
+  "CATABY": [
+   "Mid-West"
+  ],
+  "CATTERICK": [
+   "Warren-Blackwood"
+  ],
+  "CAVERSHAM": [
+   "Midland"
+  ],
+  "CENTENNIAL PARK": [
+   "Albany"
+  ],
+  "CERVANTES": [
+   "Mid-West"
+  ],
+  "CHADWICK": [
+   "Roe"
+  ],
+  "CHAMPION LAKES": [
+   "Armadale"
+  ],
+  "CHANDLER": [
+   "Central Wheatbelt"
+  ],
+  "CHANGERUP": [
+   "Roe"
+  ],
+  "CHANNYBEARUP": [
+   "Warren-Blackwood"
+  ],
+  "CHAPMAN HILL": [
+   "Vasse"
+  ],
+  "CHARLEY CREEK": [
+   "Collie-Preston"
+  ],
+  "CHERRY TREE POOL": [
+   "Roe"
+  ],
+  "CHEYNES": [
+   "Albany"
+  ],
+  "CHICHESTER": [
+   "Pilbara"
+  ],
+  "CHIDLOW": [
+   "Kalamunda"
+  ],
+  "CHITTERING": [
+   "Mid-West"
+  ],
+  "CHOWERUP": [
+   "Warren-Blackwood"
+  ],
+  "CHURCHLANDS": [
+   "Churchlands"
+  ],
+  "CITY BEACH": [
+   "Churchlands",
+   "Cottesloe"
+  ],
+  "CLACKLINE": [
+   "Central Wheatbelt"
+  ],
+  "CLAREMONT": [
+   "Cottesloe",
+   "Nedlands"
+  ],
+  "CLARKSON": [
+   "Mindarie"
+  ],
+  "CLEARY": [
+   "Central Wheatbelt"
+  ],
+  "CLOVERDALE": [
+   "Belmont"
+  ],
+  "COBLININE": [
+   "Roe"
+  ],
+  "COCKBURN CENTRAL": [
+   "Cockburn"
+  ],
+  "CODJATOTINE": [
+   "Central Wheatbelt"
+  ],
+  "COLD HARBOUR": [
+   "Central Wheatbelt"
+  ],
+  "COLLANILLING": [
+   "Roe"
+  ],
+  "COLLEGE GROVE": [
+   "Bunbury"
+  ],
+  "COLLIE": [
+   "Collie-Preston"
+  ],
+  "COLLIE BURN": [
+   "Collie-Preston"
+  ],
+  "COLLINGWOOD HEIGHTS": [
+   "Albany"
+  ],
+  "COLLINGWOOD PARK": [
+   "Albany"
+  ],
+  "COLLINS": [
+   "Warren-Blackwood"
+  ],
+  "COMMODINE": [
+   "Roe"
+  ],
+  "COMO": [
+   "South Perth"
+  ],
+  "CONDINGUP": [
+   "Roe"
+  ],
+  "CONNOLLY": [
+   "Joondalup"
+  ],
+  "CONTINE": [
+   "Roe"
+  ],
+  "COODANUP": [
+   "Mandurah"
+  ],
+  "COOGEE": [
+   "Cockburn",
+   "Fremantle"
+  ],
+  "COOKERNUP": [
+   "Murray-Wellington"
+  ],
+  "COOLADAR HILL": [
+   "Mid-West"
+  ],
+  "COOLBELLUP": [
+   "Bibra Lake"
+  ],
+  "COOLBINIA": [
+   "Mount Lawley",
+   "Perth"
+  ],
+  "COOLCALALAYA": [
+   "Geraldton"
+  ],
+  "COOLGARDIE": [
+   "Kalgoorlie"
+  ],
+  "COOLJARLOO": [
+   "Mid-West"
+  ],
+  "COOLOONGUP": [
+   "Baldivis",
+   "Rockingham"
+  ],
+  "COOLUP": [
+   "Murray-Wellington"
+  ],
+  "COOMALBIDGUP": [
+   "Roe"
+  ],
+  "COOMBERDALE": [
+   "Mid-West"
+  ],
+  "COONABIDGEE": [
+   "Mid-West"
+  ],
+  "COONDLE": [
+   "Central Wheatbelt"
+  ],
+  "COOROW": [
+   "Mid-West"
+  ],
+  "COOYA POOYA": [
+   "Pilbara"
+  ],
+  "COPLEY": [
+   "Central Wheatbelt"
+  ],
+  "CORAL BAY": [
+   "Mid-West"
+  ],
+  "CORINTHIA": [
+   "Central Wheatbelt"
+  ],
+  "CORRIGIN": [
+   "Central Wheatbelt"
+  ],
+  "COSMO NEWBERY": [
+   "Kalgoorlie"
+  ],
+  "COTTESLOE": [
+   "Cottesloe"
+  ],
+  "COURTENAY": [
+   "Warren-Blackwood"
+  ],
+  "COWALELLUP": [
+   "Roe"
+  ],
+  "COWALLA": [
+   "Mid-West"
+  ],
+  "COWARAMUP": [
+   "Warren-Blackwood"
+  ],
+  "COWCOWING": [
+   "Central Wheatbelt"
+  ],
+  "COYRECUP": [
+   "Roe"
+  ],
+  "CRAIGIE": [
+   "Hillarys"
+  ],
+  "CRAMPHORNE": [
+   "Central Wheatbelt"
+  ],
+  "CRANBROOK": [
+   "Roe"
+  ],
+  "CRAWLEY": [
+   "Nedlands"
+  ],
+  "CROOKED BROOK": [
+   "Collie-Preston"
+  ],
+  "CROSSMAN": [
+   "Central Wheatbelt"
+  ],
+  "CROWEA": [
+   "Warren-Blackwood"
+  ],
+  "CUBALLING": [
+   "Roe"
+  ],
+  "CUBBINE": [
+   "Central Wheatbelt"
+  ],
+  "CUE": [
+   "Mid-West"
+  ],
+  "CULHAM": [
+   "Central Wheatbelt"
+  ],
+  "CULLACABARDEE": [
+   "West Swan"
+  ],
+  "CULLALLA": [
+   "Mid-West"
+  ],
+  "CUNDEELEE": [
+   "Kalgoorlie"
+  ],
+  "CUNDERDIN": [
+   "Central Wheatbelt"
+  ],
+  "CUNDINUP": [
+   "Collie-Preston",
+   "Warren-Blackwood"
+  ],
+  "CUNJARDINE": [
+   "Central Wheatbelt"
+  ],
+  "CURRAMBINE": [
+   "Joondalup"
+  ],
+  "CUTHBERT": [
+   "Albany"
+  ],
+  "DAADENNING CREEK": [
+   "Central Wheatbelt"
+  ],
+  "DAGGAR HILLS": [
+   "Mid-West"
+  ],
+  "DAGLISH": [
+   "Nedlands"
+  ],
+  "DALE": [
+   "Central Wheatbelt"
+  ],
+  "DALIAK": [
+   "Central Wheatbelt"
+  ],
+  "DALKEITH": [
+   "Cottesloe",
+   "Nedlands"
+  ],
+  "DALWALLINU": [
+   "Mid-West"
+  ],
+  "DALYELLUP": [
+   "Bunbury"
+  ],
+  "DALYUP": [
+   "Roe"
+  ],
+  "DAMPIER": [
+   "Pilbara"
+  ],
+  "DAMPIER PENINSULA": [
+   "Kimberley"
+  ],
+  "DANDANNING": [
+   "Central Wheatbelt"
+  ],
+  "DANDARAGAN": [
+   "Mid-West"
+  ],
+  "DANGIN": [
+   "Central Wheatbelt"
+  ],
+  "DARCH": [
+   "Landsdale"
+  ],
+  "DARDADINE": [
+   "Roe"
+  ],
+  "DARDANUP": [
+   "Collie-Preston"
+  ],
+  "DARDANUP WEST": [
+   "Collie-Preston"
+  ],
+  "DARKAN": [
+   "Roe"
+  ],
+  "DARLING DOWNS": [
+   "Darling Range",
+   "Oakford"
+  ],
+  "DARLINGTON": [
+   "Forrestfield",
+   "Kalamunda"
+  ],
+  "DARRADUP": [
+   "Warren-Blackwood"
+  ],
+  "DARTMOOR": [
+   "Geraldton"
+  ],
+  "DARTNALL": [
+   "Roe"
+  ],
+  "DATATINE": [
+   "Roe"
+  ],
+  "DAVENPORT": [
+   "Bunbury"
+  ],
+  "DAWESVILLE": [
+   "Dawesville"
+  ],
+  "DAYTON": [
+   "West Swan"
+  ],
+  "DE GREY": [
+   "Pilbara"
+  ],
+  "DEANMILL": [
+   "Warren-Blackwood"
+  ],
+  "DEEPDALE": [
+   "Geraldton"
+  ],
+  "DEEPDENE": [
+   "Warren-Blackwood"
+  ],
+  "DENBARKER": [
+   "Albany"
+  ],
+  "DENHAM": [
+   "Mid-West"
+  ],
+  "DENMARK": [
+   "Warren-Blackwood"
+  ],
+  "DERBY": [
+   "Kimberley"
+  ],
+  "DEVILS CREEK": [
+   "Geraldton"
+  ],
+  "DEWARS POOL": [
+   "Central Wheatbelt"
+  ],
+  "DIAMOND TREE": [
+   "Warren-Blackwood"
+  ],
+  "DIANELLA": [
+   "Morley",
+   "Mount Lawley"
+  ],
+  "DINDILOA": [
+   "Geraldton"
+  ],
+  "DINGUP": [
+   "Warren-Blackwood"
+  ],
+  "DINNINUP": [
+   "Warren-Blackwood"
+  ],
+  "DIRK HARTOG": [
+   "Mid-West"
+  ],
+  "DIXVALE": [
+   "Warren-Blackwood"
+  ],
+  "DJUGUN": [
+   "Kimberley"
+  ],
+  "DONGARA": [
+   "Mid-West"
+  ],
+  "DONGOLOCKING": [
+   "Roe"
+  ],
+  "DONNELLY RIVER": [
+   "Warren-Blackwood"
+  ],
+  "DONNYBROOK": [
+   "Collie-Preston"
+  ],
+  "DOOBARDA": [
+   "Oakford"
+  ],
+  "DOODENANNING": [
+   "Central Wheatbelt"
+  ],
+  "DOODLAKINE": [
+   "Central Wheatbelt"
+  ],
+  "DOUBLEVIEW": [
+   "Churchlands",
+   "Scarborough"
+  ],
+  "DOWERIN": [
+   "Central Wheatbelt"
+  ],
+  "DROME": [
+   "Albany"
+  ],
+  "DRUMMOND COVE": [
+   "Geraldton"
+  ],
+  "DRYANDRA": [
+   "Roe"
+  ],
+  "DRYSDALE RIVER": [
+   "Kimberley"
+  ],
+  "DUDAWA": [
+   "Mid-West"
+  ],
+  "DUDININ": [
+   "Roe"
+  ],
+  "DUDLEY PARK": [
+   "Mandurah"
+  ],
+  "DUKIN": [
+   "Central Wheatbelt"
+  ],
+  "DULBELLING": [
+   "Central Wheatbelt"
+  ],
+  "DULYALBIN": [
+   "Central Wheatbelt"
+  ],
+  "DUMBARTON": [
+   "Central Wheatbelt"
+  ],
+  "DUMBERNING": [
+   "Roe"
+  ],
+  "DUMBLEYUNG": [
+   "Roe"
+  ],
+  "DUNCRAIG": [
+   "Carine"
+  ],
+  "DUNN ROCK": [
+   "Roe"
+  ],
+  "DUNSBOROUGH": [
+   "Vasse"
+  ],
+  "DURACK": [
+   "Kimberley"
+  ],
+  "DURANILLIN": [
+   "Roe"
+  ],
+  "DURAWAH": [
+   "Geraldton"
+  ],
+  "DWARDA": [
+   "Central Wheatbelt"
+  ],
+  "DWELLINGUP": [
+   "Murray-Wellington"
+  ],
+  "EAGLE BAY": [
+   "Vasse"
+  ],
+  "EAST AUGUSTA": [
+   "Warren-Blackwood"
+  ],
+  "EAST BALLIDU": [
+   "Central Wheatbelt"
+  ],
+  "EAST BEVERLEY": [
+   "Central Wheatbelt"
+  ],
+  "EAST BOWES": [
+   "Geraldton"
+  ],
+  "EAST BUNBURY": [
+   "Bunbury"
+  ],
+  "EAST CANNINGTON": [
+   "Cannington"
+  ],
+  "EAST CARNARVON": [
+   "Mid-West"
+  ],
+  "EAST CHAPMAN": [
+   "Geraldton"
+  ],
+  "EAST DAMBORING": [
+   "Mid-West"
+  ],
+  "EAST FREMANTLE": [
+   "Bicton",
+   "Fremantle"
+  ],
+  "EAST LYONS RIVER": [
+   "Mid-West"
+  ],
+  "EAST MUNGLINUP": [
+   "Roe"
+  ],
+  "EAST MURCHISON": [
+   "Mid-West"
+  ],
+  "EAST NABAWA": [
+   "Geraldton"
+  ],
+  "EAST NANNUP": [
+   "Warren-Blackwood"
+  ],
+  "EAST NEWDEGATE": [
+   "Roe"
+  ],
+  "EAST PERTH": [
+   "Mount Lawley",
+   "Perth"
+  ],
+  "EAST PINGELLY": [
+   "Central Wheatbelt"
+  ],
+  "EAST POPANYINNING": [
+   "Roe"
+  ],
+  "EAST ROCKINGHAM": [
+   "Rockingham"
+  ],
+  "EAST VICTORIA PARK": [
+   "Victoria Park"
+  ],
+  "EAST WICKEPIN": [
+   "Roe"
+  ],
+  "EAST YUNA": [
+   "Geraldton"
+  ],
+  "EASTBROOK": [
+   "Warren-Blackwood"
+  ],
+  "EATON": [
+   "Collie-Preston"
+  ],
+  "EDEN HILL": [
+   "Bassendean"
+  ],
+  "EDGEWATER": [
+   "Joondalup"
+  ],
+  "EGANU": [
+   "Mid-West"
+  ],
+  "EGLINTON": [
+   "Butler"
+  ],
+  "EIGHTY MILE BEACH": [
+   "Kimberley"
+  ],
+  "ELABBIN": [
+   "Central Wheatbelt"
+  ],
+  "ELACHBUTTING": [
+   "Central Wheatbelt"
+  ],
+  "ELGIN": [
+   "Collie-Preston"
+  ],
+  "ELLEKER": [
+   "Albany"
+  ],
+  "ELLENBROOK": [
+   "Swan Hills",
+   "West Swan"
+  ],
+  "ELLENDALE": [
+   "Geraldton"
+  ],
+  "EMBLETON": [
+   "Bassendean",
+   "Maylands"
+  ],
+  "EMU FLAT": [
+   "Kalgoorlie"
+  ],
+  "EMU POINT": [
+   "Albany"
+  ],
+  "ENEABBA": [
+   "Mid-West"
+  ],
+  "ERADU": [
+   "Geraldton"
+  ],
+  "ERADU SOUTH": [
+   "Geraldton"
+  ],
+  "ERSKINE": [
+   "Dawesville"
+  ],
+  "ESPERANCE": [
+   "Roe"
+  ],
+  "EUCLA": [
+   "Kalgoorlie"
+  ],
+  "EWLYAMARTUP": [
+   "Roe"
+  ],
+  "EXMOUTH": [
+   "Pilbara"
+  ],
+  "EXMOUTH GULF": [
+   "Pilbara"
+  ],
+  "FAIRBRIDGE": [
+   "Murray-Wellington"
+  ],
+  "FALCON": [
+   "Dawesville"
+  ],
+  "FERGUSON": [
+   "Collie-Preston"
+  ],
+  "FERNDALE": [
+   "Cannington"
+  ],
+  "FEYSVILLE": [
+   "Kalgoorlie"
+  ],
+  "FITZGERALD": [
+   "Roe"
+  ],
+  "FITZGERALD RIVER NAT PK": [
+   "Roe"
+  ],
+  "FITZROY CROSSING": [
+   "Kimberley"
+  ],
+  "FLOREAT": [
+   "Churchlands",
+   "Nedlands"
+  ],
+  "FLYNN": [
+   "Central Wheatbelt"
+  ],
+  "FOREST GROVE": [
+   "Warren-Blackwood"
+  ],
+  "FOREST HILL": [
+   "Albany"
+  ],
+  "FORREST": [
+   "Kalgoorlie"
+  ],
+  "FORREST BEACH": [
+   "Vasse"
+  ],
+  "FORRESTDALE": [
+   "Oakford"
+  ],
+  "FORRESTFIELD": [
+   "Forrestfield"
+  ],
+  "FORTESCUE": [
+   "Pilbara"
+  ],
+  "FRANCOIS PERON NAT PK": [
+   "Mid-West"
+  ],
+  "FRANKLAND RIVER": [
+   "Roe"
+  ],
+  "FRASER RANGE": [
+   "Kalgoorlie"
+  ],
+  "FREMANTLE": [
+   "Fremantle"
+  ],
+  "FRENCHMAN BAY": [
+   "Albany"
+  ],
+  "FURNISSDALE": [
+   "Murray-Wellington"
+  ],
+  "GABALONG": [
+   "Mid-West"
+  ],
+  "GABBADAH": [
+   "Mid-West"
+  ],
+  "GABBIN": [
+   "Central Wheatbelt"
+  ],
+  "GAIRDNER": [
+   "Roe"
+  ],
+  "GAP RIDGE": [
+   "Pilbara"
+  ],
+  "GARDEN ISLAND": [
+   "Rockingham"
+  ],
+  "GASCOYNE JUNCTION": [
+   "Mid-West"
+  ],
+  "GASCOYNE RIVER": [
+   "Mid-West"
+  ],
+  "GEEGULLY CREEK": [
+   "Kimberley"
+  ],
+  "GELORUP": [
+   "Bunbury",
+   "Collie-Preston"
+  ],
+  "GEOGRAPHE": [
+   "Vasse"
+  ],
+  "GEORGINA": [
+   "Geraldton"
+  ],
+  "GERALDTON": [
+   "Geraldton"
+  ],
+  "GHOOLI": [
+   "Central Wheatbelt"
+  ],
+  "GIBB": [
+   "Kimberley"
+  ],
+  "GIBSON": [
+   "Roe"
+  ],
+  "GIBSON DESERT NORTH": [
+   "Kimberley"
+  ],
+  "GIDGEGANNUP": [
+   "Swan Hills"
+  ],
+  "GILGERING": [
+   "Central Wheatbelt"
+  ],
+  "GILLIMANNING": [
+   "Roe"
+  ],
+  "GILLINGARRA": [
+   "Central Wheatbelt"
+  ],
+  "GINGERAH": [
+   "Kimberley"
+  ],
+  "GINGIN": [
+   "Mid-West"
+  ],
+  "GINGINUP": [
+   "Mid-West"
+  ],
+  "GIRRAWHEEN": [
+   "Girrawheen"
+  ],
+  "GLEDHOW": [
+   "Albany"
+  ],
+  "GLEN FORREST": [
+   "Kalamunda"
+  ],
+  "GLEN IRIS": [
+   "Bunbury"
+  ],
+  "GLEN MERVYN": [
+   "Collie-Preston"
+  ],
+  "GLENCOE": [
+   "Roe"
+  ],
+  "GLENDALOUGH": [
+   "Churchlands"
+  ],
+  "GLENFIELD": [
+   "Geraldton"
+  ],
+  "GLENLYNN": [
+   "Warren-Blackwood"
+  ],
+  "GLENORAN": [
+   "Warren-Blackwood"
+  ],
+  "GLENTROMIE": [
+   "Central Wheatbelt"
+  ],
+  "GNANGARA": [
+   "Landsdale"
+  ],
+  "GNARABUP": [
+   "Warren-Blackwood"
+  ],
+  "GNOWANGERUP": [
+   "Roe"
+  ],
+  "GNOWELLEN": [
+   "Albany"
+  ],
+  "GOLDEN BAY": [
+   "Secret Harbour"
+  ],
+  "GOODE BEACH": [
+   "Albany"
+  ],
+  "GOODLANDS": [
+   "Mid-West"
+  ],
+  "GOOMALLING": [
+   "Central Wheatbelt"
+  ],
+  "GOOMARIN": [
+   "Central Wheatbelt"
+  ],
+  "GOOSEBERRY HILL": [
+   "Forrestfield",
+   "Kalamunda"
+  ],
+  "GORGE ROCK": [
+   "Central Wheatbelt"
+  ],
+  "GOSNELLS": [
+   "Southern River",
+   "Thornlie"
+  ],
+  "GRACETOWN": [
+   "Warren-Blackwood"
+  ],
+  "GRANVILLE": [
+   "Mid-West"
+  ],
+  "GRASS PATCH": [
+   "Roe"
+  ],
+  "GRASS VALLEY": [
+   "Central Wheatbelt"
+  ],
+  "GREEN HEAD": [
+   "Mid-West"
+  ],
+  "GREEN RANGE": [
+   "Albany"
+  ],
+  "GREEN VALLEY": [
+   "Albany"
+  ],
+  "GREENBUSHES": [
+   "Warren-Blackwood"
+  ],
+  "GREENFIELDS": [
+   "Mandurah"
+  ],
+  "GREENHILLS": [
+   "Central Wheatbelt"
+  ],
+  "GREENMOUNT": [
+   "Midland"
+  ],
+  "GREENOUGH": [
+   "Geraldton"
+  ],
+  "GREENWOOD": [
+   "Kingsley"
+  ],
+  "GREENWOODS VALLEY": [
+   "Central Wheatbelt"
+  ],
+  "GREGORY": [
+   "Geraldton"
+  ],
+  "GREY": [
+   "Mid-West"
+  ],
+  "GREYS PLAIN": [
+   "Mid-West"
+  ],
+  "GUILDERTON": [
+   "Mid-West"
+  ],
+  "GUILDFORD": [
+   "Midland"
+  ],
+  "GUNDARING": [
+   "Roe"
+  ],
+  "GUNYIDI": [
+   "Mid-West"
+  ],
+  "GUTHA": [
+   "Mid-West"
+  ],
+  "GWAMBYGINE": [
+   "Central Wheatbelt"
+  ],
+  "GWELUP": [
+   "Carine",
+   "Scarborough"
+  ],
+  "GWINDINUP": [
+   "Collie-Preston"
+  ],
+  "HACKETTS GULLY": [
+   "Kalamunda"
+  ],
+  "HALLS CREEK": [
+   "Kimberley"
+  ],
+  "HALLS HEAD": [
+   "Dawesville"
+  ],
+  "HAMEL": [
+   "Murray-Wellington"
+  ],
+  "HAMELIN BAY": [
+   "Warren-Blackwood"
+  ],
+  "HAMELIN POOL": [
+   "Mid-West"
+  ],
+  "HAMERSLEY": [
+   "Kingsley"
+  ],
+  "HAMILTON HILL": [
+   "Bibra Lake",
+   "Fremantle"
+  ],
+  "HAMMOND PARK": [
+   "Cockburn"
+  ],
+  "HANNANS": [
+   "Kalgoorlie"
+  ],
+  "HARRIS RIVER": [
+   "Collie-Preston"
+  ],
+  "HARRISDALE": [
+   "Jandakot",
+   "Oakford"
+  ],
+  "HARRISMITH": [
+   "Roe"
+  ],
+  "HARVEY": [
+   "Murray-Wellington"
+  ],
+  "HASTINGS": [
+   "Central Wheatbelt"
+  ],
+  "HAY": [
+   "Warren-Blackwood"
+  ],
+  "HAYNES": [
+   "Oakford"
+  ],
+  "HAZELMERE": [
+   "Belmont",
+   "Forrestfield"
+  ],
+  "HAZELVALE": [
+   "Warren-Blackwood"
+  ],
+  "HEATHRIDGE": [
+   "Joondalup"
+  ],
+  "HELENA VALLEY": [
+   "Forrestfield",
+   "Midland"
+  ],
+  "HENDERSON": [
+   "Cockburn"
+  ],
+  "HENLEY BROOK": [
+   "West Swan"
+  ],
+  "HENTY": [
+   "Collie-Preston"
+  ],
+  "HERNE HILL": [
+   "Swan Hills"
+  ],
+  "HERRON": [
+   "Dawesville"
+  ],
+  "HESTER": [
+   "Warren-Blackwood"
+  ],
+  "HESTER BROOK": [
+   "Warren-Blackwood"
+  ],
+  "HICKETY": [
+   "Geraldton"
+  ],
+  "HIGH WYCOMBE": [
+   "Forrestfield"
+  ],
+  "HIGHBURY": [
+   "Roe"
+  ],
+  "HIGHGATE": [
+   "Perth"
+  ],
+  "HILBERT": [
+   "Oakford"
+  ],
+  "HILL RIVER": [
+   "Mid-West"
+  ],
+  "HILLARYS": [
+   "Hillarys"
+  ],
+  "HILLMAN": [
+   "Rockingham"
+  ],
+  "HILLSIDE": [
+   "Roe"
+  ],
+  "HILTON": [
+   "Fremantle"
+  ],
+  "HINDMARSH": [
+   "Central Wheatbelt"
+  ],
+  "HINES HILL": [
+   "Central Wheatbelt"
+  ],
+  "HITHERGREEN": [
+   "Vasse"
+  ],
+  "HOCKING": [
+   "Landsdale"
+  ],
+  "HODDYS WELL": [
+   "Central Wheatbelt"
+  ],
+  "HOFFMAN": [
+   "Murray-Wellington"
+  ],
+  "HOLMWOOD": [
+   "Mid-West"
+  ],
+  "HOLT ROCK": [
+   "Roe"
+  ],
+  "HOLYOAKE": [
+   "Murray-Wellington"
+  ],
+  "HOPE VALLEY": [
+   "Kwinana"
+  ],
+  "HOPELAND": [
+   "Darling Range"
+  ],
+  "HOPETOUN": [
+   "Roe"
+  ],
+  "HORROCKS": [
+   "Geraldton"
+  ],
+  "HOVEA": [
+   "Kalamunda"
+  ],
+  "HOWATHARRA": [
+   "Geraldton"
+  ],
+  "HOWICK": [
+   "Roe"
+  ],
+  "HULONGINE": [
+   "Central Wheatbelt"
+  ],
+  "HUNTINGDALE": [
+   "Southern River"
+  ],
+  "HYDEN": [
+   "Roe"
+  ],
+  "IKEWA": [
+   "Mid-West"
+  ],
+  "ILUKA": [
+   "Joondalup"
+  ],
+  "INDEE": [
+   "Pilbara"
+  ],
+  "INGGARDA": [
+   "Mid-West"
+  ],
+  "INGLEHOPE": [
+   "Murray-Wellington"
+  ],
+  "INGLEWOOD": [
+   "Maylands",
+   "Mount Lawley"
+  ],
+  "INKPEN": [
+   "Central Wheatbelt"
+  ],
+  "INNALOO": [
+   "Churchlands",
+   "Scarborough"
+  ],
+  "INNAWANGA": [
+   "Pilbara"
+  ],
+  "IRISHTOWN": [
+   "Central Wheatbelt"
+  ],
+  "IRWIN": [
+   "Mid-West"
+  ],
+  "ISSEKA": [
+   "Geraldton"
+  ],
+  "JACKITUP": [
+   "Roe"
+  ],
+  "JACUP": [
+   "Roe"
+  ],
+  "JALBARRAGUP": [
+   "Warren-Blackwood"
+  ],
+  "JALORAN": [
+   "Roe"
+  ],
+  "JANDABUP": [
+   "Landsdale"
+  ],
+  "JANDAKOT": [
+   "Jandakot"
+  ],
+  "JANE BROOK": [
+   "Midland"
+  ],
+  "JARDEE": [
+   "Warren-Blackwood"
+  ],
+  "JARLMADANGAH BURRU": [
+   "Kimberley"
+  ],
+  "JARRAHDALE": [
+   "Darling Range"
+  ],
+  "JARRAHWOOD": [
+   "Vasse"
+  ],
+  "JELCOBINE": [
+   "Central Wheatbelt"
+  ],
+  "JENNACUBBINE": [
+   "Central Wheatbelt"
+  ],
+  "JENNAPULLIN": [
+   "Central Wheatbelt"
+  ],
+  "JERDACUTTUP": [
+   "Roe"
+  ],
+  "JERRAMUNGUP": [
+   "Roe"
+  ],
+  "JIBBERDING": [
+   "Mid-West"
+  ],
+  "JIGALONG": [
+   "Pilbara"
+  ],
+  "JILAKIN": [
+   "Roe"
+  ],
+  "JINDALEE": [
+   "Butler"
+  ],
+  "JINDONG": [
+   "Vasse"
+  ],
+  "JINGALUP": [
+   "Roe"
+  ],
+  "JITARNING": [
+   "Roe"
+  ],
+  "JOLIMONT": [
+   "Nedlands"
+  ],
+  "JOONDALUP": [
+   "Joondalup"
+  ],
+  "JOONDANNA": [
+   "Balcatta"
+  ],
+  "JULIMAR": [
+   "Central Wheatbelt"
+  ],
+  "JUNA DOWNS": [
+   "Pilbara"
+  ],
+  "JURIEN BAY": [
+   "Mid-West"
+  ],
+  "KADATHINNI": [
+   "Mid-West"
+  ],
+  "KALAMUNDA": [
+   "Forrestfield",
+   "Kalamunda"
+  ],
+  "KALANNIE": [
+   "Mid-West"
+  ],
+  "KALBARRI": [
+   "Geraldton"
+  ],
+  "KALGAN": [
+   "Albany"
+  ],
+  "KALGOORLIE": [
+   "Kalgoorlie"
+  ],
+  "KALGUP": [
+   "Vasse"
+  ],
+  "KALLAROO": [
+   "Hillarys"
+  ],
+  "KALOORUP": [
+   "Vasse"
+  ],
+  "KALUMBURU": [
+   "Kimberley"
+  ],
+  "KAMBALDA EAST": [
+   "Kalgoorlie"
+  ],
+  "KAMBALDA WEST": [
+   "Kalgoorlie"
+  ],
+  "KANGAROO GULLY": [
+   "Warren-Blackwood"
+  ],
+  "KANOWNA": [
+   "Kalgoorlie"
+  ],
+  "KANPA": [
+   "Kalgoorlie"
+  ],
+  "KARAKIN": [
+   "Mid-West"
+  ],
+  "KARALUNDI": [
+   "Mid-West"
+  ],
+  "KARAWARA": [
+   "South Perth"
+  ],
+  "KARDINYA": [
+   "Bateman",
+   "Bibra Lake",
+   "Bicton"
+  ],
+  "KARIJINI": [
+   "Pilbara"
+  ],
+  "KARLGARIN": [
+   "Roe"
+  ],
+  "KARLKURLA": [
+   "Kalgoorlie"
+  ],
+  "KARLONING": [
+   "Central Wheatbelt"
+  ],
+  "KARLOO": [
+   "Geraldton"
+  ],
+  "KARNUP": [
+   "Secret Harbour"
+  ],
+  "KARRAGULLEN": [
+   "Darling Range"
+  ],
+  "KARRAKATTA": [
+   "Nedlands"
+  ],
+  "KARRAKUP": [
+   "Darling Range"
+  ],
+  "KARRANADGIN": [
+   "Central Wheatbelt"
+  ],
+  "KARRATHA": [
+   "Pilbara"
+  ],
+  "KARRATHA INDUSTRIAL EST": [
+   "Pilbara"
+  ],
+  "KARRIDALE": [
+   "Warren-Blackwood"
+  ],
+  "KARRINYUP": [
+   "Carine",
+   "Scarborough"
+  ],
+  "KATANNING": [
+   "Roe"
+  ],
+  "KATRINE": [
+   "Central Wheatbelt"
+  ],
+  "KAURING": [
+   "Central Wheatbelt"
+  ],
+  "KEALY": [
+   "Vasse"
+  ],
+  "KEBARINGUP": [
+   "Roe"
+  ],
+  "KELLERBERRIN": [
+   "Central Wheatbelt"
+  ],
+  "KELMSCOTT": [
+   "Armadale"
+  ],
+  "KENDENUP": [
+   "Albany"
+  ],
+  "KENMARE": [
+   "Roe"
+  ],
+  "KENNEDY RANGE": [
+   "Mid-West"
+  ],
+  "KENSINGTON": [
+   "South Perth",
+   "Victoria Park"
+  ],
+  "KENTDALE": [
+   "Warren-Blackwood"
+  ],
+  "KENWICK": [
+   "Cannington"
+  ],
+  "KEWDALE": [
+   "Belmont",
+   "Forrestfield"
+  ],
+  "KEYSBROOK": [
+   "Darling Range",
+   "Murray-Wellington"
+  ],
+  "KIARA": [
+   "Bassendean"
+  ],
+  "KIMBOLTON": [
+   "Kimberley"
+  ],
+  "KING RIVER": [
+   "Albany"
+  ],
+  "KINGS PARK": [
+   "Perth"
+  ],
+  "KINGSFORD": [
+   "Mid-West"
+  ],
+  "KINGSLEY": [
+   "Kingsley"
+  ],
+  "KINGSTON": [
+   "Warren-Blackwood"
+  ],
+  "KINROSS": [
+   "Mindarie"
+  ],
+  "KIRK ROCK": [
+   "Roe"
+  ],
+  "KIRUP": [
+   "Collie-Preston"
+  ],
+  "KOJANEERUP SOUTH": [
+   "Albany"
+  ],
+  "KOJARENA": [
+   "Geraldton"
+  ],
+  "KOJONUP": [
+   "Roe"
+  ],
+  "KOKEBY": [
+   "Central Wheatbelt"
+  ],
+  "KONDININ": [
+   "Roe"
+  ],
+  "KONDUT": [
+   "Central Wheatbelt"
+  ],
+  "KONNONGORRING": [
+   "Central Wheatbelt"
+  ],
+  "KOOJAN": [
+   "Mid-West"
+  ],
+  "KOOKYNIE": [
+   "Kalgoorlie"
+  ],
+  "KOOLANOOKA": [
+   "Mid-West"
+  ],
+  "KOOMBERKINE": [
+   "Central Wheatbelt"
+  ],
+  "KOONDOOLA": [
+   "Girrawheen"
+  ],
+  "KOONGAMIA": [
+   "Midland"
+  ],
+  "KOORDA": [
+   "Central Wheatbelt"
+  ],
+  "KORBEL": [
+   "Central Wheatbelt"
+  ],
+  "KORDABUP": [
+   "Warren-Blackwood"
+  ],
+  "KORRELOCKING": [
+   "Central Wheatbelt"
+  ],
+  "KRONKUP": [
+   "Albany"
+  ],
+  "KUDARDUP": [
+   "Warren-Blackwood"
+  ],
+  "KUENDER": [
+   "Roe"
+  ],
+  "KUKERIN": [
+   "Roe"
+  ],
+  "KULIKUP": [
+   "Warren-Blackwood"
+  ],
+  "KULIN": [
+   "Roe"
+  ],
+  "KULIN WEST": [
+   "Roe"
+  ],
+  "KULJA": [
+   "Central Wheatbelt"
+  ],
+  "KUMARINA": [
+   "Mid-West"
+  ],
+  "KUNDAT DJARU": [
+   "Kimberley"
+  ],
+  "KUNJIN": [
+   "Central Wheatbelt"
+  ],
+  "KUNUNOPPIN": [
+   "Central Wheatbelt"
+  ],
+  "KUNUNURRA": [
+   "Kimberley"
+  ],
+  "KUPARTIYA": [
+   "Kimberley"
+  ],
+  "KURNALPI": [
+   "Kalgoorlie"
+  ],
+  "KURRENKUTTEN": [
+   "Central Wheatbelt"
+  ],
+  "KWEDA": [
+   "Central Wheatbelt"
+  ],
+  "KWELKAN": [
+   "Central Wheatbelt"
+  ],
+  "KWINANA BEACH": [
+   "Kwinana"
+  ],
+  "KWINANA TOWN CENTRE": [
+   "Kwinana"
+  ],
+  "KWOLYIN": [
+   "Central Wheatbelt"
+  ],
+  "LAGRANGE": [
+   "Kimberley"
+  ],
+  "LAKE ARGYLE": [
+   "Kimberley"
+  ],
+  "LAKE AUSTIN": [
+   "Mid-West"
+  ],
+  "LAKE BIDDY": [
+   "Roe"
+  ],
+  "LAKE BROWN": [
+   "Central Wheatbelt"
+  ],
+  "LAKE CAMM": [
+   "Roe"
+  ],
+  "LAKE CARNEGIE": [
+   "Kalgoorlie"
+  ],
+  "LAKE CLIFTON": [
+   "Murray-Wellington"
+  ],
+  "LAKE COOGEE": [
+   "Cockburn"
+  ],
+  "LAKE DARLOT": [
+   "Kalgoorlie"
+  ],
+  "LAKE GRACE": [
+   "Roe"
+  ],
+  "LAKE HINDS": [
+   "Central Wheatbelt"
+  ],
+  "LAKE JASPER": [
+   "Warren-Blackwood"
+  ],
+  "LAKE KING": [
+   "Roe"
+  ],
+  "LAKE MARGARETTE": [
+   "Central Wheatbelt"
+  ],
+  "LAKE MUIR": [
+   "Warren-Blackwood"
+  ],
+  "LAKE NINAN": [
+   "Central Wheatbelt"
+  ],
+  "LAKE TOOLBRUNUP": [
+   "Roe"
+  ],
+  "LAKELANDS": [
+   "Secret Harbour"
+  ],
+  "LAMINGTON": [
+   "Kalgoorlie"
+  ],
+  "LANCELIN": [
+   "Mid-West"
+  ],
+  "LANDSDALE": [
+   "Landsdale"
+  ],
+  "LANGE": [
+   "Albany"
+  ],
+  "LANGFORD": [
+   "Cannington"
+  ],
+  "LATHAM": [
+   "Mid-West"
+  ],
+  "LATHLAIN": [
+   "Victoria Park"
+  ],
+  "LAVERTON": [
+   "Kalgoorlie"
+  ],
+  "LEARMONTH": [
+   "Pilbara"
+  ],
+  "LEDA": [
+   "Kwinana"
+  ],
+  "LEDGE POINT": [
+   "Mid-West"
+  ],
+  "LEEDERVILLE": [
+   "Perth"
+  ],
+  "LEEMAN": [
+   "Mid-West"
+  ],
+  "LEEMING": [
+   "Jandakot"
+  ],
+  "LEEUWIN": [
+   "Warren-Blackwood"
+  ],
+  "LEINSTER": [
+   "Kalgoorlie"
+  ],
+  "LENNARD BROOK": [
+   "Mid-West"
+  ],
+  "LEONORA": [
+   "Kalgoorlie"
+  ],
+  "LESCHENAULT": [
+   "Murray-Wellington"
+  ],
+  "LESMURDIE": [
+   "Kalamunda"
+  ],
+  "LEXIA": [
+   "West Swan"
+  ],
+  "LIME LAKE": [
+   "Roe"
+  ],
+  "LINFARNE": [
+   "Warren-Blackwood"
+  ],
+  "LITTLE GROVE": [
+   "Albany"
+  ],
+  "LITTLE ITALY": [
+   "Roe"
+  ],
+  "LITTLE SANDY DESERT": [
+   "Kalgoorlie"
+  ],
+  "LOCKIER": [
+   "Mid-West"
+  ],
+  "LOCKRIDGE": [
+   "Bassendean"
+  ],
+  "LOCKYER": [
+   "Albany"
+  ],
+  "LOL GRAY": [
+   "Roe"
+  ],
+  "LORT RIVER": [
+   "Roe"
+  ],
+  "LOWDEN": [
+   "Collie-Preston"
+  ],
+  "LOWER CHITTERING": [
+   "Mid-West"
+  ],
+  "LOWER HOTHAM": [
+   "Central Wheatbelt"
+  ],
+  "LOWER KING": [
+   "Albany"
+  ],
+  "LOWLANDS": [
+   "Albany"
+  ],
+  "LUDLOW": [
+   "Vasse"
+  ],
+  "LUMEAH": [
+   "Roe"
+  ],
+  "LYALLS MILL": [
+   "Collie-Preston"
+  ],
+  "LYNDON": [
+   "Mid-West"
+  ],
+  "LYNWOOD": [
+   "Cannington"
+  ],
+  "MACLEOD": [
+   "Mid-West"
+  ],
+  "MADDINGTON": [
+   "Thornlie"
+  ],
+  "MADELEY": [
+   "Landsdale"
+  ],
+  "MADORA BAY": [
+   "Secret Harbour"
+  ],
+  "MADURA": [
+   "Kalgoorlie"
+  ],
+  "MAGENTA": [
+   "Roe"
+  ],
+  "MAGITUP": [
+   "Roe"
+  ],
+  "MAHOGANY CREEK": [
+   "Kalamunda"
+  ],
+  "MAHOMETS FLATS": [
+   "Geraldton"
+  ],
+  "MAIDA VALE": [
+   "Forrestfield",
+   "Kalamunda"
+  ],
+  "MAITLAND": [
+   "Pilbara"
+  ],
+  "MALABAINE": [
+   "Central Wheatbelt"
+  ],
+  "MALAGA": [
+   "West Swan"
+  ],
+  "MALEBELLING": [
+   "Central Wheatbelt"
+  ],
+  "MALLEE HILL": [
+   "Roe"
+  ],
+  "MALYALLING": [
+   "Roe"
+  ],
+  "MANDOGALUP": [
+   "Kwinana"
+  ],
+  "MANDURAH": [
+   "Mandurah"
+  ],
+  "MANJIMUP": [
+   "Warren-Blackwood"
+  ],
+  "MANMANNING": [
+   "Central Wheatbelt"
+  ],
+  "MANNING": [
+   "South Perth"
+  ],
+  "MANYPEAKS": [
+   "Albany"
+  ],
+  "MARANGAROO": [
+   "Girrawheen",
+   "Landsdale"
+  ],
+  "MARANUP": [
+   "Warren-Blackwood"
+  ],
+  "MARBELUP": [
+   "Albany"
+  ],
+  "MARBLE BAR": [
+   "Pilbara"
+  ],
+  "MARCHAGEE": [
+   "Mid-West"
+  ],
+  "MARDELLA": [
+   "Darling Range"
+  ],
+  "MARDIE": [
+   "Pilbara"
+  ],
+  "MARGARET RIVER": [
+   "Warren-Blackwood"
+  ],
+  "MARIGINIUP": [
+   "Wanneroo"
+  ],
+  "MARMION": [
+   "Carine"
+  ],
+  "MARNE": [
+   "Mid-West"
+  ],
+  "MARRACOONDA": [
+   "Roe"
+  ],
+  "MARRADONG": [
+   "Central Wheatbelt"
+  ],
+  "MARRINUP": [
+   "Murray-Wellington"
+  ],
+  "MARTIN": [
+   "Thornlie"
+  ],
+  "MARVEL LOCH": [
+   "Central Wheatbelt"
+  ],
+  "MARYBROOK": [
+   "Vasse"
+  ],
+  "MASSEY BAY": [
+   "Mid-West"
+  ],
+  "MAYA": [
+   "Mid-West"
+  ],
+  "MAYANUP": [
+   "Warren-Blackwood"
+  ],
+  "MAYLANDS": [
+   "Maylands",
+   "Mount Lawley"
+  ],
+  "MCALINDEN": [
+   "Warren-Blackwood"
+  ],
+  "MCBEATH": [
+   "Kimberley"
+  ],
+  "MCKAIL": [
+   "Albany"
+  ],
+  "MEADOW": [
+   "Mid-West"
+  ],
+  "MEADOW SPRINGS": [
+   "Mandurah"
+  ],
+  "MECKERING": [
+   "Central Wheatbelt"
+  ],
+  "MEDA": [
+   "Kimberley"
+  ],
+  "MEDINA": [
+   "Kwinana"
+  ],
+  "MEEKATHARRA": [
+   "Mid-West"
+  ],
+  "MEEKING": [
+   "Roe"
+  ],
+  "MEELON": [
+   "Murray-Wellington"
+  ],
+  "MEENAAR": [
+   "Central Wheatbelt"
+  ],
+  "MEERUP": [
+   "Warren-Blackwood"
+  ],
+  "MELALEUCA": [
+   "Swan Hills"
+  ],
+  "MELVILLE": [
+   "Bicton"
+  ],
+  "MENORA": [
+   "Mount Lawley"
+  ],
+  "MENZIES": [
+   "Kalgoorlie"
+  ],
+  "MERILUP": [
+   "Roe"
+  ],
+  "MERIVALE": [
+   "Roe"
+  ],
+  "MERKANOOKA": [
+   "Mid-West"
+  ],
+  "MERREDIN": [
+   "Central Wheatbelt"
+  ],
+  "MERRIWA": [
+   "Mindarie"
+  ],
+  "MERU": [
+   "Geraldton"
+  ],
+  "METRICUP": [
+   "Vasse"
+  ],
+  "METTLER": [
+   "Albany"
+  ],
+  "MIAMOON": [
+   "Mid-West"
+  ],
+  "MIDDLE SWAN": [
+   "Midland",
+   "Swan Hills"
+  ],
+  "MIDDLESEX": [
+   "Warren-Blackwood"
+  ],
+  "MIDDLETON BEACH": [
+   "Albany"
+  ],
+  "MIDLAND": [
+   "Midland"
+  ],
+  "MIDVALE": [
+   "Midland"
+  ],
+  "MILING": [
+   "Mid-West"
+  ],
+  "MILLARS WELL": [
+   "Pilbara"
+  ],
+  "MILLBRIDGE": [
+   "Collie-Preston"
+  ],
+  "MILLBROOK": [
+   "Albany"
+  ],
+  "MILLENDON": [
+   "Swan Hills"
+  ],
+  "MILLS LAKE": [
+   "Roe"
+  ],
+  "MILLSTREAM": [
+   "Pilbara"
+  ],
+  "MILO": [
+   "Mid-West"
+  ],
+  "MILPARA": [
+   "Albany"
+  ],
+  "MIMEGARRA": [
+   "Mid-West"
+  ],
+  "MINDARABIN": [
+   "Roe"
+  ],
+  "MINDARIE": [
+   "Mindarie"
+  ],
+  "MINDARRA": [
+   "Mid-West"
+  ],
+  "MINDING": [
+   "Roe"
+  ],
+  "MINGENEW": [
+   "Mid-West"
+  ],
+  "MINIGIN": [
+   "Roe"
+  ],
+  "MINILYA": [
+   "Mid-West"
+  ],
+  "MINNENOOKA": [
+   "Geraldton"
+  ],
+  "MINNIVALE": [
+   "Central Wheatbelt"
+  ],
+  "MINYIRR": [
+   "Kimberley"
+  ],
+  "MIRA MAR": [
+   "Albany"
+  ],
+  "MIRRABOOKA": [
+   "Girrawheen",
+   "Morley"
+  ],
+  "MITCHELL PLATEAU": [
+   "Kimberley"
+  ],
+  "MOBRUP": [
+   "Roe"
+  ],
+  "MOCARDY": [
+   "Central Wheatbelt"
+  ],
+  "MOGUMBER": [
+   "Central Wheatbelt"
+  ],
+  "MOKINE": [
+   "Central Wheatbelt"
+  ],
+  "MOKUP": [
+   "Roe"
+  ],
+  "MOLLERIN": [
+   "Central Wheatbelt"
+  ],
+  "MOLLOY ISLAND": [
+   "Warren-Blackwood"
+  ],
+  "MONJEBUP": [
+   "Roe"
+  ],
+  "MONJINGUP": [
+   "Roe"
+  ],
+  "MONKEY MIA": [
+   "Mid-West"
+  ],
+  "MOODIARRUP": [
+   "Roe"
+  ],
+  "MOOJEBING": [
+   "Roe"
+  ],
+  "MOOLIABEENEE": [
+   "Mid-West"
+  ],
+  "MOONDAH": [
+   "Mid-West"
+  ],
+  "MOONDYNE": [
+   "Central Wheatbelt"
+  ],
+  "MOONIES HILL": [
+   "Roe"
+  ],
+  "MOONYOONOOKA": [
+   "Geraldton"
+  ],
+  "MOORA": [
+   "Mid-West"
+  ],
+  "MOORIARY": [
+   "Mid-West"
+  ],
+  "MOORINE ROCK": [
+   "Central Wheatbelt"
+  ],
+  "MORANGUP": [
+   "Central Wheatbelt"
+  ],
+  "MORAWA": [
+   "Mid-West"
+  ],
+  "MORBINNING": [
+   "Central Wheatbelt"
+  ],
+  "MORDALUP": [
+   "Warren-Blackwood"
+  ],
+  "MORESBY": [
+   "Geraldton"
+  ],
+  "MORGANTOWN": [
+   "Mid-West"
+  ],
+  "MORLEY": [
+   "Bassendean",
+   "Maylands",
+   "Morley",
+   "Mount Lawley"
+  ],
+  "MORNINGTON": [
+   "Murray-Wellington"
+  ],
+  "MOSMAN PARK": [
+   "Cottesloe"
+  ],
+  "MOULYINNING": [
+   "Roe"
+  ],
+  "MOUROUBRA": [
+   "Central Wheatbelt"
+  ],
+  "MT ADAMS": [
+   "Mid-West"
+  ],
+  "MT BARKER": [
+   "Albany"
+  ],
+  "MT BUDD": [
+   "Mid-West"
+  ],
+  "MT BURGES": [
+   "Kalgoorlie"
+  ],
+  "MT CAROLINE": [
+   "Central Wheatbelt"
+  ],
+  "MT CLAREMONT": [
+   "Cottesloe",
+   "Nedlands"
+  ],
+  "MT CLARENCE": [
+   "Albany"
+  ],
+  "MT ELPHINSTONE": [
+   "Albany"
+  ],
+  "MT ERIN": [
+   "Geraldton"
+  ],
+  "MT HAMPTON": [
+   "Central Wheatbelt"
+  ],
+  "MT HARDEY": [
+   "Central Wheatbelt"
+  ],
+  "MT HARDMAN": [
+   "Kimberley"
+  ],
+  "MT HAWTHORN": [
+   "Perth"
+  ],
+  "MT HELENA": [
+   "Kalamunda"
+  ],
+  "MT HILL": [
+   "Geraldton"
+  ],
+  "MT HOLLAND": [
+   "Central Wheatbelt"
+  ],
+  "MT HORNER": [
+   "Mid-West"
+  ],
+  "MT JACKSON": [
+   "Central Wheatbelt"
+  ],
+  "MT LAWLEY": [
+   "Mount Lawley",
+   "Perth"
+  ],
+  "MT MADDEN": [
+   "Roe"
+  ],
+  "MT MAGNET": [
+   "Mid-West"
+  ],
+  "MT MELVILLE": [
+   "Albany"
+  ],
+  "MT NASURA": [
+   "Armadale"
+  ],
+  "MT NEY": [
+   "Roe"
+  ],
+  "MT OBSERVATION": [
+   "Central Wheatbelt"
+  ],
+  "MT PLEASANT": [
+   "Bateman",
+   "Riverton"
+  ],
+  "MT RICHON": [
+   "Armadale",
+   "Darling Range"
+  ],
+  "MT SHEILA": [
+   "Pilbara"
+  ],
+  "MT SHERIDAN": [
+   "Roe"
+  ],
+  "MT STIRLING": [
+   "Central Wheatbelt"
+  ],
+  "MT TARCOOLA": [
+   "Geraldton"
+  ],
+  "MT WALKER": [
+   "Central Wheatbelt"
+  ],
+  "MUCHEA": [
+   "Mid-West"
+  ],
+  "MUCKENBURRA": [
+   "Mid-West"
+  ],
+  "MUELLER RANGES": [
+   "Kimberley"
+  ],
+  "MUJA": [
+   "Collie-Preston"
+  ],
+  "MUKINBUDIN": [
+   "Central Wheatbelt"
+  ],
+  "MULLALOO": [
+   "Hillarys"
+  ],
+  "MULLALYUP": [
+   "Collie-Preston"
+  ],
+  "MULLEWA": [
+   "Geraldton"
+  ],
+  "MULLINGAR": [
+   "Kalgoorlie"
+  ],
+  "MULUCKINE": [
+   "Central Wheatbelt"
+  ],
+  "MUMBALLUP": [
+   "Collie-Preston"
+  ],
+  "MUMBERKINE": [
+   "Central Wheatbelt"
+  ],
+  "MUNDABULLANGANA": [
+   "Pilbara"
+  ],
+  "MUNDARING": [
+   "Kalamunda"
+  ],
+  "MUNDIJONG": [
+   "Darling Range"
+  ],
+  "MUNDRABILLA": [
+   "Kalgoorlie"
+  ],
+  "MUNGALUP": [
+   "Collie-Preston"
+  ],
+  "MUNGLINUP": [
+   "Roe"
+  ],
+  "MUNSTER": [
+   "Cockburn"
+  ],
+  "MUNTADGIN": [
+   "Central Wheatbelt"
+  ],
+  "MURADUP": [
+   "Roe"
+  ],
+  "MURCHISON": [
+   "Mid-West"
+  ],
+  "MURDOCH": [
+   "Bateman",
+   "Bibra Lake"
+  ],
+  "MURDONG": [
+   "Roe"
+  ],
+  "MURESK": [
+   "Central Wheatbelt"
+  ],
+  "MYALUP": [
+   "Murray-Wellington"
+  ],
+  "MYARA": [
+   "Murray-Wellington"
+  ],
+  "MYAREE": [
+   "Bateman",
+   "Bicton"
+  ],
+  "MYRUP": [
+   "Roe"
+  ],
+  "NABAWA": [
+   "Geraldton"
+  ],
+  "NAIRIBIN": [
+   "Roe"
+  ],
+  "NALKAIN": [
+   "Central Wheatbelt"
+  ],
+  "NALYERLUP": [
+   "Roe"
+  ],
+  "NAMBAN": [
+   "Mid-West"
+  ],
+  "NAMBEELUP": [
+   "Murray-Wellington"
+  ],
+  "NAMBUNG": [
+   "Mid-West"
+  ],
+  "NANARUP": [
+   "Albany"
+  ],
+  "NANGA BROOK": [
+   "Murray-Wellington"
+  ],
+  "NANGEENAN": [
+   "Central Wheatbelt"
+  ],
+  "NANGETTY": [
+   "Mid-West"
+  ],
+  "NANNUP": [
+   "Warren-Blackwood"
+  ],
+  "NANSON": [
+   "Geraldton"
+  ],
+  "NANUTARRA": [
+   "Pilbara"
+  ],
+  "NAPIER": [
+   "Albany"
+  ],
+  "NARALING": [
+   "Geraldton"
+  ],
+  "NAREMBEEN": [
+   "Central Wheatbelt"
+  ],
+  "NARNGULU": [
+   "Geraldton"
+  ],
+  "NARRA TARRA": [
+   "Geraldton"
+  ],
+  "NARRALOGGAN": [
+   "Central Wheatbelt"
+  ],
+  "NARRIKUP": [
+   "Albany"
+  ],
+  "NARROGIN": [
+   "Roe"
+  ],
+  "NARROGIN VALLEY": [
+   "Roe"
+  ],
+  "NATURALISTE": [
+   "Vasse"
+  ],
+  "NAVAL BASE": [
+   "Kwinana"
+  ],
+  "NEDLANDS": [
+   "Nedlands"
+  ],
+  "NEEDILUP": [
+   "Roe"
+  ],
+  "NEENDALING": [
+   "Roe"
+  ],
+  "NEERABUP": [
+   "Mindarie",
+   "Wanneroo"
+  ],
+  "NEERGABBY": [
+   "Mid-West"
+  ],
+  "NEMBUDDING": [
+   "Central Wheatbelt"
+  ],
+  "NERIDUP": [
+   "Roe"
+  ],
+  "NERREN NERREN": [
+   "Mid-West"
+  ],
+  "NEW NORCIA": [
+   "Central Wheatbelt"
+  ],
+  "NEWCARLBEON": [
+   "Central Wheatbelt"
+  ],
+  "NEWDEGATE": [
+   "Roe"
+  ],
+  "NEWLANDS": [
+   "Collie-Preston"
+  ],
+  "NEWMAN": [
+   "Pilbara"
+  ],
+  "NGAANYATJARRA-GILES": [
+   "Kalgoorlie"
+  ],
+  "NICKOL": [
+   "Pilbara"
+  ],
+  "NILGEN": [
+   "Mid-West"
+  ],
+  "NILLUP": [
+   "Warren-Blackwood"
+  ],
+  "NIPPERING": [
+   "Roe"
+  ],
+  "NIRIMBA": [
+   "Murray-Wellington"
+  ],
+  "NOGGERUP": [
+   "Collie-Preston"
+  ],
+  "NOKANING": [
+   "Central Wheatbelt"
+  ],
+  "NOLBA": [
+   "Geraldton"
+  ],
+  "NOLLAMARA": [
+   "Morley"
+  ],
+  "NOMANS LAKE": [
+   "Roe"
+  ],
+  "NORANDA": [
+   "Morley"
+  ],
+  "NORNALUP": [
+   "Warren-Blackwood"
+  ],
+  "NORPA": [
+   "Central Wheatbelt"
+  ],
+  "NORSEMAN": [
+   "Kalgoorlie"
+  ],
+  "NORTH BAANDEE": [
+   "Central Wheatbelt"
+  ],
+  "NORTH BEACH": [
+   "Carine"
+  ],
+  "NORTH BODALLIN": [
+   "Central Wheatbelt"
+  ],
+  "NORTH BOYANUP": [
+   "Collie-Preston"
+  ],
+  "NORTH BURNGUP": [
+   "Roe"
+  ],
+  "NORTH CASCADE": [
+   "Roe"
+  ],
+  "NORTH COOGEE": [
+   "Fremantle"
+  ],
+  "NORTH DANDALUP": [
+   "Murray-Wellington"
+  ],
+  "NORTH ERADU": [
+   "Geraldton"
+  ],
+  "NORTH FREMANTLE": [
+   "Cottesloe"
+  ],
+  "NORTH GREENBUSHES": [
+   "Warren-Blackwood"
+  ],
+  "NORTH JINDONG": [
+   "Vasse"
+  ],
+  "NORTH KELLERBERRIN": [
+   "Central Wheatbelt"
+  ],
+  "NORTH KUKERIN": [
+   "Roe"
+  ],
+  "NORTH KUNUNOPPIN": [
+   "Central Wheatbelt"
+  ],
+  "NORTH LAKE": [
+   "Bibra Lake"
+  ],
+  "NORTH LAKE GRACE": [
+   "Roe"
+  ],
+  "NORTH MOULYINNING": [
+   "Roe"
+  ],
+  "NORTH PERTH": [
+   "Mount Lawley",
+   "Perth"
+  ],
+  "NORTH PLANTATIONS": [
+   "Mid-West"
+  ],
+  "NORTH STIRLINGS": [
+   "Roe"
+  ],
+  "NORTH TAMMIN": [
+   "Central Wheatbelt"
+  ],
+  "NORTH TRAYNING": [
+   "Central Wheatbelt"
+  ],
+  "NORTH WALPOLE": [
+   "Warren-Blackwood"
+  ],
+  "NORTH WEST CAPE": [
+   "Pilbara"
+  ],
+  "NORTH WIALKI": [
+   "Central Wheatbelt"
+  ],
+  "NORTH YELBENI": [
+   "Central Wheatbelt"
+  ],
+  "NORTH YUNDERUP": [
+   "Murray-Wellington"
+  ],
+  "NORTHAM": [
+   "Central Wheatbelt"
+  ],
+  "NORTHAMPTON": [
+   "Geraldton"
+  ],
+  "NORTHBRIDGE": [
+   "Perth"
+  ],
+  "NORTHCLIFFE": [
+   "Warren-Blackwood"
+  ],
+  "NORTHERN GULLY": [
+   "Geraldton"
+  ],
+  "NOWERGUP": [
+   "Wanneroo"
+  ],
+  "NUGADONG": [
+   "Mid-West"
+  ],
+  "NUKARNI": [
+   "Central Wheatbelt"
+  ],
+  "NULLAGINE": [
+   "Pilbara"
+  ],
+  "NULLAKI": [
+   "Albany"
+  ],
+  "NULSEN": [
+   "Roe"
+  ],
+  "NUNGARIN": [
+   "Central Wheatbelt"
+  ],
+  "NUNIERRA": [
+   "Geraldton"
+  ],
+  "NUNILE": [
+   "Central Wheatbelt"
+  ],
+  "NYABING": [
+   "Roe"
+  ],
+  "O'CONNOR": [
+   "Bicton"
+  ],
+  "OAKAJEE": [
+   "Geraldton"
+  ],
+  "OAKFORD": [
+   "Oakford"
+  ],
+  "OAKLEY": [
+   "Murray-Wellington"
+  ],
+  "OCEAN BEACH": [
+   "Warren-Blackwood"
+  ],
+  "OCEAN REEF": [
+   "Hillarys",
+   "Joondalup"
+  ],
+  "OGILVIE": [
+   "Geraldton"
+  ],
+  "OLD PLAINS": [
+   "Central Wheatbelt"
+  ],
+  "OLDBURY": [
+   "Darling Range"
+  ],
+  "ONGERUP": [
+   "Roe"
+  ],
+  "ONSLOW": [
+   "Pilbara"
+  ],
+  "OOMBULGURRI": [
+   "Kimberley"
+  ],
+  "ORA BANDA": [
+   "Kalgoorlie"
+  ],
+  "ORANA": [
+   "Albany"
+  ],
+  "ORANGE GROVE": [
+   "Thornlie"
+  ],
+  "ORANGE SPRINGS": [
+   "Mid-West"
+  ],
+  "ORCHID VALLEY": [
+   "Roe"
+  ],
+  "ORD RIVER": [
+   "Kimberley"
+  ],
+  "ORELIA": [
+   "Kwinana"
+  ],
+  "OSBORNE PARK": [
+   "Balcatta",
+   "Churchlands",
+   "Perth"
+  ],
+  "OSMINGTON": [
+   "Warren-Blackwood"
+  ],
+  "PADBURY": [
+   "Carine",
+   "Hillarys"
+  ],
+  "PALGARUP": [
+   "Warren-Blackwood"
+  ],
+  "PALLINUP": [
+   "Roe"
+  ],
+  "PALMDALE": [
+   "Albany"
+  ],
+  "PALMER": [
+   "Collie-Preston"
+  ],
+  "PALMYRA": [
+   "Bicton"
+  ],
+  "PANNAWONICA": [
+   "Pilbara"
+  ],
+  "PANTAPIN": [
+   "Central Wheatbelt"
+  ],
+  "PARABURDOO": [
+   "Pilbara"
+  ],
+  "PARADISE": [
+   "Collie-Preston"
+  ],
+  "PARDOO": [
+   "Pilbara"
+  ],
+  "PARKERVILLE": [
+   "Kalamunda"
+  ],
+  "PARKESTON": [
+   "Kalgoorlie"
+  ],
+  "PARKFIELD": [
+   "Murray-Wellington"
+  ],
+  "PARKLANDS": [
+   "Mandurah"
+  ],
+  "PARKWOOD": [
+   "Riverton"
+  ],
+  "PARMELIA": [
+   "Kwinana"
+  ],
+  "PARRYVILLE": [
+   "Warren-Blackwood"
+  ],
+  "PATJARR": [
+   "Kalgoorlie"
+  ],
+  "PAULLS VALLEY": [
+   "Kalamunda"
+  ],
+  "PAYNEDALE": [
+   "Collie-Preston"
+  ],
+  "PAYNES FIND": [
+   "Mid-West"
+  ],
+  "PAYNESVILLE": [
+   "Mid-West"
+  ],
+  "PEACEFUL BAY": [
+   "Warren-Blackwood"
+  ],
+  "PEAK HILL": [
+   "Mid-West"
+  ],
+  "PEARSALL": [
+   "Landsdale"
+  ],
+  "PEEDAMULLA": [
+   "Pilbara"
+  ],
+  "PEERABEELUP": [
+   "Warren-Blackwood"
+  ],
+  "PEGS CREEK": [
+   "Pilbara"
+  ],
+  "PELICAN POINT": [
+   "Bunbury"
+  ],
+  "PEMBERTON": [
+   "Warren-Blackwood"
+  ],
+  "PEPPERMINT GROVE": [
+   "Cottesloe"
+  ],
+  "PEPPERMINT GROVE BEACH": [
+   "Vasse"
+  ],
+  "PERENJORI": [
+   "Mid-West"
+  ],
+  "PERILLUP": [
+   "Albany"
+  ],
+  "PERON": [
+   "Rockingham"
+  ],
+  "PERTH": [
+   "Perth"
+  ],
+  "PERUP": [
+   "Warren-Blackwood"
+  ],
+  "PETRUDOR": [
+   "Mid-West"
+  ],
+  "PIARA WATERS": [
+   "Oakford"
+  ],
+  "PIAWANING": [
+   "Central Wheatbelt"
+  ],
+  "PICCADILLY": [
+   "Kalgoorlie"
+  ],
+  "PICKERING BROOK": [
+   "Kalamunda"
+  ],
+  "PICTON": [
+   "Bunbury"
+  ],
+  "PICTON EAST": [
+   "Collie-Preston"
+  ],
+  "PIESSE BROOK": [
+   "Kalamunda"
+  ],
+  "PIESSEVILLE": [
+   "Roe"
+  ],
+  "PINDAR": [
+   "Geraldton"
+  ],
+  "PINGARING": [
+   "Roe"
+  ],
+  "PINGELLY": [
+   "Central Wheatbelt"
+  ],
+  "PINGRUP": [
+   "Roe"
+  ],
+  "PINJAR": [
+   "Wanneroo"
+  ],
+  "PINJARRA": [
+   "Murray-Wellington"
+  ],
+  "PINK LAKE": [
+   "Roe"
+  ],
+  "PINTHARUKA": [
+   "Mid-West"
+  ],
+  "PINWERNYING": [
+   "Roe"
+  ],
+  "PIPPINGARRA": [
+   "Pilbara"
+  ],
+  "PITHARA": [
+   "Mid-West"
+  ],
+  "PLUMRIDGE LAKES": [
+   "Kalgoorlie"
+  ],
+  "POINT GREY": [
+   "Murray-Wellington"
+  ],
+  "POINT SAMSON": [
+   "Pilbara"
+  ],
+  "POPANYINNING": [
+   "Roe"
+  ],
+  "PORONGURUP": [
+   "Albany"
+  ],
+  "PORT ALBANY": [
+   "Albany"
+  ],
+  "PORT DENISON": [
+   "Mid-West"
+  ],
+  "PORT HEDLAND": [
+   "Pilbara"
+  ],
+  "PORT KENNEDY": [
+   "Baldivis",
+   "Secret Harbour"
+  ],
+  "PRESTON BEACH": [
+   "Murray-Wellington"
+  ],
+  "PRESTON SETTLEMENT": [
+   "Collie-Preston"
+  ],
+  "PREVELLY": [
+   "Warren-Blackwood"
+  ],
+  "PUMPHREYS BRIDGE": [
+   "Central Wheatbelt"
+  ],
+  "QUAIRADING": [
+   "Central Wheatbelt"
+  ],
+  "QUALEUP": [
+   "Roe"
+  ],
+  "QUEDJINUP": [
+   "Vasse"
+  ],
+  "QUEENS PARK": [
+   "Cannington"
+  ],
+  "QUEENWOOD": [
+   "Collie-Preston"
+  ],
+  "QUELAGETTING": [
+   "Central Wheatbelt"
+  ],
+  "QUELLINGTON": [
+   "Central Wheatbelt"
+  ],
+  "QUINDALUP": [
+   "Vasse"
+  ],
+  "QUINDANNING": [
+   "Central Wheatbelt"
+  ],
+  "QUINNINUP": [
+   "Warren-Blackwood"
+  ],
+  "QUINNS ROCKS": [
+   "Mindarie"
+  ],
+  "RANFORD": [
+   "Central Wheatbelt"
+  ],
+  "RANGEWAY": [
+   "Geraldton"
+  ],
+  "RAVENSTHORPE": [
+   "Roe"
+  ],
+  "RAVENSWOOD": [
+   "Murray-Wellington"
+  ],
+  "RAWLINNA": [
+   "Kalgoorlie"
+  ],
+  "RED GULLY": [
+   "Mid-West"
+  ],
+  "RED HILL": [
+   "Midland"
+  ],
+  "REDBANK": [
+   "Pilbara"
+  ],
+  "REDCLIFFE": [
+   "Belmont"
+  ],
+  "REDGATE": [
+   "Warren-Blackwood"
+  ],
+  "REDMOND": [
+   "Albany"
+  ],
+  "REDMOND WEST": [
+   "Albany"
+  ],
+  "REEDY": [
+   "Mid-West"
+  ],
+  "REGANS FORD": [
+   "Mid-West"
+  ],
+  "REINSCOURT": [
+   "Vasse"
+  ],
+  "RIDGEWOOD": [
+   "Butler",
+   "Mindarie"
+  ],
+  "RINGBARK": [
+   "Warren-Blackwood"
+  ],
+  "RIVERTON": [
+   "Riverton"
+  ],
+  "RIVERVALE": [
+   "Belmont"
+  ],
+  "ROBINSON": [
+   "Albany"
+  ],
+  "ROCKINGHAM": [
+   "Rockingham"
+  ],
+  "ROCKLEA": [
+   "Pilbara"
+  ],
+  "ROCKWELL": [
+   "Geraldton"
+  ],
+  "ROCKY GULLY": [
+   "Albany"
+  ],
+  "ROEBOURNE": [
+   "Pilbara"
+  ],
+  "ROEBUCK": [
+   "Kimberley"
+  ],
+  "ROELANDS": [
+   "Murray-Wellington"
+  ],
+  "ROLEYSTONE": [
+   "Darling Range"
+  ],
+  "ROSA BROOK": [
+   "Warren-Blackwood"
+  ],
+  "ROSA GLEN": [
+   "Warren-Blackwood"
+  ],
+  "ROSSMORE": [
+   "Central Wheatbelt"
+  ],
+  "ROSSMOYNE": [
+   "Riverton"
+  ],
+  "ROTHSAY": [
+   "Mid-West"
+  ],
+  "ROTTNEST ISLAND": [
+   "Fremantle"
+  ],
+  "RUABON": [
+   "Vasse"
+  ],
+  "RUDDS GULLY": [
+   "Geraldton"
+  ],
+  "RYANSBROOK": [
+   "Roe"
+  ],
+  "SABINA RIVER": [
+   "Vasse"
+  ],
+  "SAFETY BAY": [
+   "Rockingham"
+  ],
+  "SALMON GUMS": [
+   "Roe"
+  ],
+  "SALTER POINT": [
+   "South Perth"
+  ],
+  "SAMSON": [
+   "Bibra Lake"
+  ],
+  "SAN REMO": [
+   "Mandurah"
+  ],
+  "SANDSPRINGS": [
+   "Geraldton"
+  ],
+  "SANDSTONE": [
+   "Mid-West"
+  ],
+  "SANDY GULLY": [
+   "Geraldton"
+  ],
+  "SAWYERS VALLEY": [
+   "Kalamunda"
+  ],
+  "SCADDAN": [
+   "Roe"
+  ],
+  "SCARBOROUGH": [
+   "Churchlands",
+   "Scarborough"
+  ],
+  "SCOTSDALE": [
+   "Warren-Blackwood"
+  ],
+  "SCOTT RIVER": [
+   "Warren-Blackwood"
+  ],
+  "SCOTT RIVER EAST": [
+   "Warren-Blackwood"
+  ],
+  "SCOTTS BROOK": [
+   "Warren-Blackwood"
+  ],
+  "SEABIRD": [
+   "Mid-West"
+  ],
+  "SECRET HARBOUR": [
+   "Secret Harbour"
+  ],
+  "SEPPINGS": [
+   "Albany"
+  ],
+  "SERPENTINE": [
+   "Darling Range"
+  ],
+  "SEVILLE GROVE": [
+   "Armadale"
+  ],
+  "SHACKLETON": [
+   "Central Wheatbelt"
+  ],
+  "SHADFORTH": [
+   "Warren-Blackwood"
+  ],
+  "SHANNON": [
+   "Warren-Blackwood"
+  ],
+  "SHELLEY": [
+   "Riverton"
+  ],
+  "SHENTON PARK": [
+   "Nedlands"
+  ],
+  "SHERLOCK": [
+   "Pilbara"
+  ],
+  "SHOALWATER": [
+   "Rockingham"
+  ],
+  "SIESTA PARK": [
+   "Vasse"
+  ],
+  "SILVER SANDS": [
+   "Mandurah"
+  ],
+  "SINAGRA": [
+   "Wanneroo"
+  ],
+  "SINCLAIR": [
+   "Roe"
+  ],
+  "SINGLETON": [
+   "Secret Harbour"
+  ],
+  "SIR SAMUEL": [
+   "Kalgoorlie"
+  ],
+  "SKELETON ROCK": [
+   "Central Wheatbelt"
+  ],
+  "SMITH BROOK": [
+   "Warren-Blackwood"
+  ],
+  "SOMERVILLE": [
+   "Kalgoorlie"
+  ],
+  "SORRENTO": [
+   "Carine"
+  ],
+  "SOUTH BODALLIN": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH BOULDER": [
+   "Kalgoorlie"
+  ],
+  "SOUTH BUNBURY": [
+   "Bunbury"
+  ],
+  "SOUTH BURRACOPPIN": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH CARNARVON": [
+   "Mid-West"
+  ],
+  "SOUTH DATATINE": [
+   "Roe"
+  ],
+  "SOUTH DOODLAKINE": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH FREMANTLE": [
+   "Fremantle"
+  ],
+  "SOUTH GLENCOE": [
+   "Roe"
+  ],
+  "SOUTH GREENOUGH": [
+   "Geraldton"
+  ],
+  "SOUTH GUILDFORD": [
+   "Belmont"
+  ],
+  "SOUTH HEDLAND": [
+   "Pilbara"
+  ],
+  "SOUTH KALGOORLIE": [
+   "Kalgoorlie"
+  ],
+  "SOUTH KUKERIN": [
+   "Roe"
+  ],
+  "SOUTH KUMMININ": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH KUNUNOPPIN": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH LAKE": [
+   "Bibra Lake"
+  ],
+  "SOUTH LAKE GRACE": [
+   "Roe"
+  ],
+  "SOUTH MURCHISON": [
+   "Mid-West"
+  ],
+  "SOUTH NEWDEGATE": [
+   "Roe"
+  ],
+  "SOUTH PERTH": [
+   "South Perth"
+  ],
+  "SOUTH PLANTATIONS": [
+   "Mid-West"
+  ],
+  "SOUTH QUAIRADING": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH STIRLING": [
+   "Albany"
+  ],
+  "SOUTH TAMMIN": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH TRAYNING": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH YELBENI": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH YILGARN": [
+   "Central Wheatbelt"
+  ],
+  "SOUTH YUNA": [
+   "Geraldton"
+  ],
+  "SOUTH YUNDERUP": [
+   "Murray-Wellington"
+  ],
+  "SOUTHAMPTON": [
+   "Collie-Preston"
+  ],
+  "SOUTHERN BROOK": [
+   "Central Wheatbelt"
+  ],
+  "SOUTHERN CROSS": [
+   "Central Wheatbelt"
+  ],
+  "SOUTHERN RIVER": [
+   "Southern River"
+  ],
+  "SPALDING": [
+   "Geraldton"
+  ],
+  "SPEARWOOD": [
+   "Bibra Lake",
+   "Fremantle"
+  ],
+  "SPENCER PARK": [
+   "Albany"
+  ],
+  "SPENCERS BROOK": [
+   "Central Wheatbelt"
+  ],
+  "SPRINGFIELD": [
+   "Mid-West"
+  ],
+  "SPRINGS": [
+   "Central Wheatbelt"
+  ],
+  "ST GEORGE RANGES": [
+   "Kimberley"
+  ],
+  "ST JAMES": [
+   "Victoria Park"
+  ],
+  "ST RONANS": [
+   "Central Wheatbelt"
+  ],
+  "STAKE HILL": [
+   "Murray-Wellington"
+  ],
+  "STIRLING": [
+   "Balcatta"
+  ],
+  "STIRLING ESTATE": [
+   "Bunbury",
+   "Vasse"
+  ],
+  "STIRLING RANGE NAT PARK": [
+   "Albany"
+  ],
+  "STONEVILLE": [
+   "Kalamunda"
+  ],
+  "STOVE HILL": [
+   "Pilbara"
+  ],
+  "STRATHALBYN": [
+   "Geraldton"
+  ],
+  "STRATHAM": [
+   "Bunbury",
+   "Collie-Preston"
+  ],
+  "STRATHERNE": [
+   "Roe"
+  ],
+  "STRATTON": [
+   "Midland"
+  ],
+  "STRELLEY": [
+   "Pilbara"
+  ],
+  "STURT CREEK": [
+   "Kimberley"
+  ],
+  "SUBIACO": [
+   "Nedlands"
+  ],
+  "SUCCESS": [
+   "Cockburn"
+  ],
+  "SUNNYSIDE": [
+   "Warren-Blackwood"
+  ],
+  "SUNSET BEACH": [
+   "Geraldton"
+  ],
+  "SWAN VIEW": [
+   "Midland"
+  ],
+  "SWANBOURNE": [
+   "Cottesloe"
+  ],
+  "TAKALARUP": [
+   "Albany"
+  ],
+  "TALANDJI": [
+   "Pilbara"
+  ],
+  "TALBOT": [
+   "Central Wheatbelt"
+  ],
+  "TALBOT WEST": [
+   "Central Wheatbelt"
+  ],
+  "TALGOMINE": [
+   "Central Wheatbelt"
+  ],
+  "TAMALA": [
+   "Mid-West"
+  ],
+  "TAMBELLUP": [
+   "Roe"
+  ],
+  "TAMMIN": [
+   "Central Wheatbelt"
+  ],
+  "TAMPU": [
+   "Central Wheatbelt"
+  ],
+  "TANAMI": [
+   "Kimberley"
+  ],
+  "TANDEGIN": [
+   "Central Wheatbelt"
+  ],
+  "TAPPING": [
+   "Wanneroo"
+  ],
+  "TARCOOLA BEACH": [
+   "Geraldton"
+  ],
+  "TARDUN": [
+   "Geraldton"
+  ],
+  "TARIN ROCK": [
+   "Roe"
+  ],
+  "TEESDALE": [
+   "Murray-Wellington"
+  ],
+  "TELFER": [
+   "Kimberley"
+  ],
+  "TENINDEWA": [
+   "Geraldton"
+  ],
+  "TENTERDEN": [
+   "Roe"
+  ],
+  "THE LAKES": [
+   "Kalamunda"
+  ],
+  "THE PLAINS": [
+   "Collie-Preston"
+  ],
+  "THE SPECTACLES": [
+   "Kwinana"
+  ],
+  "THE VINES": [
+   "Swan Hills"
+  ],
+  "THOMSON BROOK": [
+   "Collie-Preston"
+  ],
+  "THORNLIE": [
+   "Cannington",
+   "Thornlie"
+  ],
+  "THREE SPRINGS": [
+   "Mid-West"
+  ],
+  "THROSSELL": [
+   "Central Wheatbelt"
+  ],
+  "TIBRADDEN": [
+   "Geraldton"
+  ],
+  "TINCURRIN": [
+   "Roe"
+  ],
+  "TINGLEDALE": [
+   "Warren-Blackwood"
+  ],
+  "TJIRRKARLI": [
+   "Kalgoorlie"
+  ],
+  "TOM PRICE": [
+   "Pilbara"
+  ],
+  "TONEBRIDGE": [
+   "Warren-Blackwood"
+  ],
+  "TOODYAY": [
+   "Central Wheatbelt"
+  ],
+  "TOOLIBIN": [
+   "Roe"
+  ],
+  "TOOMPUP": [
+   "Roe"
+  ],
+  "TORBAY": [
+   "Albany"
+  ],
+  "TORNDIRRUP": [
+   "Albany"
+  ],
+  "TOWNSENDALE": [
+   "Roe"
+  ],
+  "TRAYNING": [
+   "Central Wheatbelt"
+  ],
+  "TREEBY": [
+   "Jandakot"
+  ],
+  "TREETON": [
+   "Warren-Blackwood"
+  ],
+  "TRIGG": [
+   "Carine",
+   "Scarborough"
+  ],
+  "TRIGWELL": [
+   "Roe"
+  ],
+  "TUART HILL": [
+   "Balcatta"
+  ],
+  "TURKEY HILL": [
+   "Central Wheatbelt"
+  ],
+  "TUTUNUP": [
+   "Vasse"
+  ],
+  "TWO ROCKS": [
+   "Butler"
+  ],
+  "UCARTY": [
+   "Central Wheatbelt"
+  ],
+  "UCARTY WEST": [
+   "Central Wheatbelt"
+  ],
+  "UDUC": [
+   "Murray-Wellington"
+  ],
+  "ULARRING": [
+   "Kalgoorlie"
+  ],
+  "UPPER CAPEL": [
+   "Collie-Preston"
+  ],
+  "UPPER MURRAY": [
+   "Central Wheatbelt"
+  ],
+  "UPPER SWAN": [
+   "Swan Hills"
+  ],
+  "UPPER WARREN": [
+   "Warren-Blackwood"
+  ],
+  "USELESS LOOP": [
+   "Mid-West"
+  ],
+  "USHER": [
+   "Bunbury"
+  ],
+  "UTAKARRA": [
+   "Geraldton"
+  ],
+  "VARLEY": [
+   "Roe"
+  ],
+  "VASSE": [
+   "Vasse"
+  ],
+  "VICTORIA PARK": [
+   "South Perth",
+   "Victoria Park"
+  ],
+  "VICTORY HEIGHTS": [
+   "Kalgoorlie"
+  ],
+  "VIVEASH": [
+   "Midland"
+  ],
+  "WADDERIN": [
+   "Central Wheatbelt"
+  ],
+  "WADDINGTON": [
+   "Central Wheatbelt"
+  ],
+  "WADDY FOREST": [
+   "Mid-West"
+  ],
+  "WAEEL": [
+   "Central Wheatbelt"
+  ],
+  "WAGERUP": [
+   "Murray-Wellington"
+  ],
+  "WAGGRAKINE": [
+   "Geraldton"
+  ],
+  "WAGIN": [
+   "Roe"
+  ],
+  "WAIKIKI": [
+   "Baldivis",
+   "Rockingham"
+  ],
+  "WALEBING": [
+   "Mid-West"
+  ],
+  "WALGOOLAN": [
+   "Central Wheatbelt"
+  ],
+  "WALKAWAY": [
+   "Geraldton"
+  ],
+  "WALLAREENYA": [
+   "Pilbara"
+  ],
+  "WALLISTON": [
+   "Kalamunda"
+  ],
+  "WALMSLEY": [
+   "Albany"
+  ],
+  "WALPOLE": [
+   "Warren-Blackwood"
+  ],
+  "WALSALL": [
+   "Vasse"
+  ],
+  "WALYORMOURING": [
+   "Central Wheatbelt"
+  ],
+  "WALYURIN": [
+   "Roe"
+  ],
+  "WAMENUSKING": [
+   "Central Wheatbelt"
+  ],
+  "WANDANA": [
+   "Geraldton"
+  ],
+  "WANDERING": [
+   "Central Wheatbelt"
+  ],
+  "WANDI": [
+   "Oakford"
+  ],
+  "WANDILLUP": [
+   "Warren-Blackwood"
+  ],
+  "WANDINA": [
+   "Geraldton"
+  ],
+  "WANERIE": [
+   "Mid-West"
+  ],
+  "WANGARA": [
+   "Landsdale"
+  ],
+  "WANNAMAL": [
+   "Mid-West"
+  ],
+  "WANNANUP": [
+   "Dawesville"
+  ],
+  "WANNEROO": [
+   "Landsdale",
+   "Wanneroo"
+  ],
+  "WANSBROUGH": [
+   "Roe"
+  ],
+  "WARAWARRUP": [
+   "Murray-Wellington"
+  ],
+  "WARBURTON": [
+   "Kalgoorlie"
+  ],
+  "WARDERING": [
+   "Roe"
+  ],
+  "WARDING EAST": [
+   "Central Wheatbelt"
+  ],
+  "WARMUN": [
+   "Kimberley"
+  ],
+  "WARNBRO": [
+   "Baldivis",
+   "Secret Harbour"
+  ],
+  "WARNER GLEN": [
+   "Warren-Blackwood"
+  ],
+  "WAROONA": [
+   "Murray-Wellington"
+  ],
+  "WARRACHUPPIN": [
+   "Central Wheatbelt"
+  ],
+  "WARRADARGE": [
+   "Mid-West"
+  ],
+  "WARRALAKIN": [
+   "Central Wheatbelt"
+  ],
+  "WARRENUP": [
+   "Albany"
+  ],
+  "WARWICK": [
+   "Kingsley"
+  ],
+  "WATERBANK": [
+   "Kimberley"
+  ],
+  "WATERCARRIN": [
+   "Central Wheatbelt"
+  ],
+  "WATERFORD": [
+   "South Perth"
+  ],
+  "WATERLOO": [
+   "Collie-Preston"
+  ],
+  "WATERMANS BAY": [
+   "Carine"
+  ],
+  "WATHEROO": [
+   "Mid-West"
+  ],
+  "WATTENING": [
+   "Central Wheatbelt"
+  ],
+  "WATTLE GROVE": [
+   "Cannington",
+   "Forrestfield"
+  ],
+  "WATTLEUP": [
+   "Cockburn"
+  ],
+  "WATTONING": [
+   "Central Wheatbelt"
+  ],
+  "WEBBERTON": [
+   "Geraldton"
+  ],
+  "WEDGE ISLAND": [
+   "Mid-West"
+  ],
+  "WEDGECARRUP": [
+   "Roe"
+  ],
+  "WEDGEFIELD": [
+   "Pilbara"
+  ],
+  "WELBUNGIN": [
+   "Central Wheatbelt"
+  ],
+  "WELD RANGE": [
+   "Mid-West"
+  ],
+  "WELLARD": [
+   "Darling Range",
+   "Kwinana"
+  ],
+  "WELLESLEY": [
+   "Murray-Wellington"
+  ],
+  "WELLINGTON FOREST": [
+   "Collie-Preston"
+  ],
+  "WELLINGTON MILL": [
+   "Collie-Preston"
+  ],
+  "WELLSTEAD": [
+   "Albany"
+  ],
+  "WELSHPOOL": [
+   "Belmont",
+   "Cannington",
+   "Victoria Park"
+  ],
+  "WEMBLEY": [
+   "Churchlands",
+   "Nedlands"
+  ],
+  "WEMBLEY DOWNS": [
+   "Churchlands"
+  ],
+  "WEST BALLIDU": [
+   "Central Wheatbelt"
+  ],
+  "WEST BEACH": [
+   "Roe"
+  ],
+  "WEST BINNU": [
+   "Geraldton"
+  ],
+  "WEST BUSSELTON": [
+   "Vasse"
+  ],
+  "WEST CASUARINAS": [
+   "Geraldton"
+  ],
+  "WEST COOLUP": [
+   "Murray-Wellington"
+  ],
+  "WEST END": [
+   "Geraldton"
+  ],
+  "WEST FITZGERALD": [
+   "Roe"
+  ],
+  "WEST HOLLETON": [
+   "Central Wheatbelt"
+  ],
+  "WEST KALGOORLIE": [
+   "Kalgoorlie"
+  ],
+  "WEST LAMINGTON": [
+   "Kalgoorlie"
+  ],
+  "WEST LEEDERVILLE": [
+   "Churchlands",
+   "Nedlands"
+  ],
+  "WEST LYONS RIVER": [
+   "Mid-West"
+  ],
+  "WEST PERTH": [
+   "Nedlands",
+   "Perth"
+  ],
+  "WEST PINGELLY": [
+   "Central Wheatbelt"
+  ],
+  "WEST PINJARRA": [
+   "Murray-Wellington"
+  ],
+  "WEST POPANYINNING": [
+   "Roe"
+  ],
+  "WEST RIVER": [
+   "Roe"
+  ],
+  "WEST SWAN": [
+   "Midland",
+   "West Swan"
+  ],
+  "WEST TOODYAY": [
+   "Central Wheatbelt"
+  ],
+  "WESTDALE": [
+   "Central Wheatbelt"
+  ],
+  "WESTMINSTER": [
+   "Balcatta"
+  ],
+  "WESTONIA": [
+   "Central Wheatbelt"
+  ],
+  "WESTWOOD": [
+   "Roe"
+  ],
+  "WHITBY": [
+   "Darling Range"
+  ],
+  "WHITE GUM VALLEY": [
+   "Fremantle"
+  ],
+  "WHITE PEAK": [
+   "Geraldton"
+  ],
+  "WHITEMAN": [
+   "West Swan"
+  ],
+  "WHITTAKER": [
+   "Murray-Wellington"
+  ],
+  "WIALKI": [
+   "Central Wheatbelt"
+  ],
+  "WICHERINA": [
+   "Geraldton"
+  ],
+  "WICKEPIN": [
+   "Roe"
+  ],
+  "WICKHAM": [
+   "Pilbara"
+  ],
+  "WIDGIEMOOLTHA": [
+   "Kalgoorlie"
+  ],
+  "WILBERFORCE": [
+   "Central Wheatbelt"
+  ],
+  "WILBINGA": [
+   "Mid-West"
+  ],
+  "WILGA": [
+   "Warren-Blackwood"
+  ],
+  "WILGA WEST": [
+   "Collie-Preston"
+  ],
+  "WILGARRUP": [
+   "Warren-Blackwood"
+  ],
+  "WILGOYNE": [
+   "Central Wheatbelt"
+  ],
+  "WILLAGEE": [
+   "Bicton"
+  ],
+  "WILLARE": [
+   "Kimberley"
+  ],
+  "WILLETTON": [
+   "Riverton"
+  ],
+  "WILLIAM BAY": [
+   "Warren-Blackwood"
+  ],
+  "WILLIAMS": [
+   "Roe"
+  ],
+  "WILLIAMSTOWN": [
+   "Kalgoorlie"
+  ],
+  "WILLYUNG": [
+   "Albany"
+  ],
+  "WILSON": [
+   "Cannington",
+   "Victoria Park"
+  ],
+  "WILUNA": [
+   "Kalgoorlie"
+  ],
+  "WILYABRUP": [
+   "Vasse"
+  ],
+  "WINDABOUT": [
+   "Roe"
+  ],
+  "WINDY HARBOUR": [
+   "Warren-Blackwood"
+  ],
+  "WINNEJUP": [
+   "Warren-Blackwood"
+  ],
+  "WINTHROP": [
+   "Bateman"
+  ],
+  "WITCHCLIFFE": [
+   "Warren-Blackwood"
+  ],
+  "WITHERS": [
+   "Bunbury"
+  ],
+  "WITTENOOM": [
+   "Pilbara"
+  ],
+  "WITTENOOM HILLS": [
+   "Roe"
+  ],
+  "WOGOLIN": [
+   "Roe"
+  ],
+  "WOKALUP": [
+   "Murray-Wellington"
+  ],
+  "WOMARDEN": [
+   "Mid-West"
+  ],
+  "WONGAMINE": [
+   "Central Wheatbelt"
+  ],
+  "WONGAN HILLS": [
+   "Central Wheatbelt"
+  ],
+  "WONGOONDY": [
+   "Geraldton"
+  ],
+  "WONNERUP": [
+   "Vasse"
+  ],
+  "WONTHELLA": [
+   "Geraldton"
+  ],
+  "WOODANILLING": [
+   "Roe"
+  ],
+  "WOODBRIDGE": [
+   "Midland"
+  ],
+  "WOODLANDS": [
+   "Churchlands",
+   "Scarborough"
+  ],
+  "WOODLEIGH": [
+   "Mid-West"
+  ],
+  "WOODRIDGE": [
+   "Mid-West"
+  ],
+  "WOODVALE": [
+   "Kingsley"
+  ],
+  "WOOGENELLUP": [
+   "Albany"
+  ],
+  "WOOLGORONG": [
+   "Mid-West"
+  ],
+  "WOOLOCUTTY": [
+   "Central Wheatbelt"
+  ],
+  "WOORAMEL": [
+   "Mid-West"
+  ],
+  "WOOROLOO": [
+   "Kalamunda"
+  ],
+  "WOORREE": [
+   "Geraldton"
+  ],
+  "WOOTTATING": [
+   "Central Wheatbelt"
+  ],
+  "WORSLEY": [
+   "Collie-Preston"
+  ],
+  "WUBIN": [
+   "Mid-West"
+  ],
+  "WUNDOWIE": [
+   "Central Wheatbelt"
+  ],
+  "WUNGONG": [
+   "Darling Range"
+  ],
+  "WURAMING": [
+   "Central Wheatbelt"
+  ],
+  "WYALKATCHEM": [
+   "Central Wheatbelt"
+  ],
+  "WYENING": [
+   "Central Wheatbelt"
+  ],
+  "WYNDHAM": [
+   "Kimberley"
+  ],
+  "WYOLA WEST": [
+   "Central Wheatbelt"
+  ],
+  "XANTIPPE": [
+   "Mid-West"
+  ],
+  "YABBERUP": [
+   "Collie-Preston"
+  ],
+  "YAKAMIA": [
+   "Albany"
+  ],
+  "YALGOO": [
+   "Mid-West"
+  ],
+  "YALLABATHARRA": [
+   "Geraldton"
+  ],
+  "YALLINGUP": [
+   "Vasse"
+  ],
+  "YALLINGUP SIDING": [
+   "Vasse"
+  ],
+  "YALYALUP": [
+   "Vasse"
+  ],
+  "YANCHEP": [
+   "Butler"
+  ],
+  "YANDANOOKA": [
+   "Mid-West"
+  ],
+  "YANDOO CREEK": [
+   "Mid-West"
+  ],
+  "YANGEBUP": [
+   "Cockburn"
+  ],
+  "YANMAH": [
+   "Warren-Blackwood"
+  ],
+  "YANNARIE": [
+   "Pilbara"
+  ],
+  "YARAWINDAH": [
+   "Central Wheatbelt"
+  ],
+  "YARDARINO": [
+   "Mid-West"
+  ],
+  "YARLOOP": [
+   "Murray-Wellington"
+  ],
+  "YARRAGADEE": [
+   "Mid-West"
+  ],
+  "YATHROO": [
+   "Mid-West"
+  ],
+  "YEAGARUP": [
+   "Warren-Blackwood"
+  ],
+  "YEALERING": [
+   "Roe"
+  ],
+  "YELVERTON": [
+   "Vasse"
+  ],
+  "YERECOIN": [
+   "Central Wheatbelt"
+  ],
+  "YETNA": [
+   "Geraldton"
+  ],
+  "YILLIMINNING": [
+   "Roe"
+  ],
+  "YOGANUP": [
+   "Vasse"
+  ],
+  "YOKINE": [
+   "Mount Lawley"
+  ],
+  "YOONGARILLUP": [
+   "Vasse"
+  ],
+  "YORK": [
+   "Central Wheatbelt"
+  ],
+  "YORNANING": [
+   "Roe"
+  ],
+  "YORNUP": [
+   "Warren-Blackwood"
+  ],
+  "YOTING": [
+   "Central Wheatbelt"
+  ],
+  "YOUNDEGIN": [
+   "Central Wheatbelt"
+  ],
+  "YOUNGS SIDING": [
+   "Albany"
+  ],
+  "YOURDAMUNG LAKE": [
+   "Collie-Preston"
+  ],
+  "YUNA": [
+   "Geraldton"
+  ]
+ },
+ "districts": [
+  "Albany",
+  "Armadale",
+  "Balcatta",
+  "Baldivis",
+  "Bassendean",
+  "Bateman",
+  "Belmont",
+  "Bibra Lake",
+  "Bicton",
+  "Bunbury",
+  "Butler",
+  "Cannington",
+  "Carine",
+  "Central Wheatbelt",
+  "Churchlands",
+  "Cockburn",
+  "Collie-Preston",
+  "Cottesloe",
+  "Darling Range",
+  "Dawesville",
+  "Forrestfield",
+  "Fremantle",
+  "Geraldton",
+  "Girrawheen",
+  "Hillarys",
+  "Jandakot",
+  "Joondalup",
+  "Kalamunda",
+  "Kalgoorlie",
+  "Kimberley",
+  "Kingsley",
+  "Kwinana",
+  "Landsdale",
+  "Mandurah",
+  "Maylands",
+  "Mid-West",
+  "Midland",
+  "Mindarie",
+  "Morley",
+  "Mount Lawley",
+  "Murray-Wellington",
+  "Nedlands",
+  "Oakford",
+  "Perth",
+  "Pilbara",
+  "Riverton",
+  "Rockingham",
+  "Roe",
+  "Scarborough",
+  "Secret Harbour",
+  "South Perth",
+  "Southern River",
+  "Swan Hills",
+  "Thornlie",
+  "Vasse",
+  "Victoria Park",
+  "Wanneroo",
+  "Warren-Blackwood",
+  "West Swan"
+ ]
+}
