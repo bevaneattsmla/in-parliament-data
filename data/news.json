@@ -8,7 +8,8 @@
       "portfolios": [
         "Environment",
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan warns against loading new container-scheme costs onto WA's wine industry while it is already under pressure, and calls for a fairer approach that does not make local producers go first."
     },
     {
       "id": "2026-06-02_wa-wine-producers-support-recycling-but",
@@ -18,7 +19,8 @@
       "portfolios": [
         "Environment",
         "Regional WA"
-      ]
+      ],
+      "summary": "WA wine producers back recycling, but Bevan argues the scheme must be designed properly so it does not unfairly burden small local wineries."
     },
     {
       "id": "2026-03-11_federal-aged-care-funding",
@@ -28,7 +30,8 @@
       "portfolios": [
         "Aged Care"
       ],
-      "thread": "regional-aged-care"
+      "thread": "regional-aged-care",
+      "summary": "Bevan's statement on federal aged care funding and what it means for older people in regional WA."
     },
     {
       "id": "2026-02-19_government-finally-acts-on-free-rsv-vacc",
@@ -38,7 +41,8 @@
       "portfolios": [
         "Health",
         "Aged Care"
-      ]
+      ],
+      "summary": "After sustained pressure, the Government moves to provide free RSV vaccines, a change Bevan had been pushing for to protect vulnerable and older people."
     },
     {
       "id": "2026-02-05_delays-rigid-rules-and-rising-pressure-a",
@@ -48,7 +52,8 @@
       "portfolios": [
         "Aged Care"
       ],
-      "thread": "regional-aged-care"
+      "thread": "regional-aged-care",
+      "summary": "Bevan sets out how delays and rigid rules in the aged care system are failing WA seniors, and calls for practical fixes."
     },
     {
       "id": "2025-12-15_wa-government-still-carting-water-to-the",
@@ -58,7 +63,8 @@
       "portfolios": [
         "Regional WA",
         "Infrastructure"
-      ]
+      ],
+      "summary": "Bevan questions why the Government is still trucking in water to some of the state's wettest towns instead of investing in reliable local supply."
     },
     {
       "id": "2025-11-19_state-housing-failure-pushing-the-region",
@@ -68,7 +74,8 @@
       "portfolios": [
         "Regional WA",
         "Housing"
-      ]
+      ],
+      "summary": "Bevan warns that the shortage of housing is driving workers out of the regions, and presses the Government to act."
     },
     {
       "id": "2025-11-12_regional-women-left-behind-by-wa-labor-s",
@@ -78,7 +85,8 @@
       "portfolios": [
         "Regional WA",
         "Community Safety"
-      ]
+      ],
+      "summary": "Bevan highlights how government inaction is leaving regional women without the services and safety they need."
     },
     {
       "id": "2025-11-03_aged-care-pricing-review-puts-regional-s",
@@ -89,7 +97,8 @@
         "Aged Care",
         "Regional WA"
       ],
-      "thread": "regional-aged-care"
+      "thread": "regional-aged-care",
+      "summary": "Bevan warns that an aged care pricing review could put regional seniors at greater risk, and calls for regional needs to be protected."
     },
     {
       "id": "2025-10-20_aged-care-shake-up-will-gut-regional-ser",
@@ -100,7 +109,8 @@
         "Aged Care",
         "Regional WA"
       ],
-      "thread": "regional-aged-care"
+      "thread": "regional-aged-care",
+      "summary": "Bevan warns that changes to aged care will strip services from the regions, and calls for regional care to be safeguarded."
     },
     {
       "id": "2025-10-13_local-mp-welcomes-leader-s-visit",
@@ -109,7 +119,8 @@
       "url": "/s/2025-10-13-local-mp-welcomes-leaders-visit.pdf",
       "portfolios": [
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan welcomes a visit to Warren-Blackwood by the Nationals Leader to hear directly from local people and communities."
     },
     {
       "id": "2025-09-24_scott-river-wind-farm",
@@ -119,7 +130,8 @@
       "portfolios": [
         "Environment",
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan's statement on the proposed Scott River wind farm and what it means for the local community and environment."
     },
     {
       "id": "2025-09-19_rsv-vaccine-to-free-up-wa-hospital-beds",
@@ -129,7 +141,8 @@
       "portfolios": [
         "Health",
         "Aged Care"
-      ]
+      ],
+      "summary": "Bevan makes the case that funding RSV vaccines would ease pressure on WA hospital beds and protect vulnerable patients."
     },
     {
       "id": "2025-09-10_regional-schools-in-crisis",
@@ -139,7 +152,8 @@
       "portfolios": [
         "Education",
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan sets out the pressures facing regional schools and calls on the Government to properly resource them."
     },
     {
       "id": "2025-08-27_aged-care-crisis-strands-wa-patients",
@@ -150,7 +164,8 @@
         "Aged Care",
         "Health"
       ],
-      "thread": "aged-care-in-hospital"
+      "thread": "aged-care-in-hospital",
+      "summary": "Bevan warns that the aged care shortage is leaving patients stuck in hospital because there is nowhere suitable for them to go."
     },
     {
       "id": "2025-08-22_worsening-hospital-pressures-across-the",
@@ -160,7 +175,8 @@
       "portfolios": [
         "Health",
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan highlights worsening hospital pressures across the South West and presses the Government for action."
     },
     {
       "id": "2025-08-22_regional-schools-left-behind",
@@ -170,7 +186,8 @@
       "portfolios": [
         "Education",
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan argues that regional schools are being left behind and calls for fairer support and resourcing."
     },
     {
       "id": "2025-08-20_urgent-aged-care-reform-needed-to-reliev",
@@ -181,7 +198,8 @@
         "Aged Care",
         "Health"
       ],
-      "thread": "aged-care-in-hospital"
+      "thread": "aged-care-in-hospital",
+      "summary": "Bevan calls for urgent aged care reform to relieve the gridlock it is causing in regional hospitals."
     },
     {
       "id": "2025-07-07_firearms-act-2024-review",
@@ -191,7 +209,8 @@
       "portfolios": [
         "Community Safety"
       ],
-      "thread": "firearms-regulations"
+      "thread": "firearms-regulations",
+      "summary": "Bevan's response to the review of the Firearms Act 2024 and what it means for lawful firearm owners in the regions."
     },
     {
       "id": "2025-07-03_shot-hole-borer",
@@ -201,7 +220,8 @@
       "portfolios": [
         "Environment",
         "Forestry"
-      ]
+      ],
+      "summary": "Bevan raises the threat the shot-hole borer poses to WA's trees and calls for a proper, well-resourced response."
     },
     {
       "id": "2025-06-24_budget-response",
@@ -210,7 +230,8 @@
       "url": "/s/2025-06-24-budget-response.pdf",
       "portfolios": [
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan's response to the State Budget and what it delivers, or fails to deliver, for Warren-Blackwood."
     },
     {
       "id": "2025-06-17_disallowance-of-the-calm-bill",
@@ -220,14 +241,16 @@
       "portfolios": [
         "Forestry"
       ],
-      "thread": "forestry"
+      "thread": "forestry",
+      "summary": "Bevan's statement on the move to disallow the CALM Bill and what it means for forestry and land management in WA."
     },
     {
       "id": "2025-06-16_labor-losing-its-seat",
       "iso": "2025-06-16",
       "title": "Labor losing its seat.",
       "url": "/s/2025-06-16-labor-losing-its-seat.pdf",
-      "portfolios": []
+      "portfolios": [],
+      "summary": "Bevan's statement on a change in the political standing of the seat and what it means for the region."
     },
     {
       "id": "2025-05-14_crisis-housing",
@@ -237,7 +260,8 @@
       "portfolios": [
         "Housing",
         "Regional WA"
-      ]
+      ],
+      "summary": "Bevan presses the case for crisis and emergency housing in the region for people with nowhere else to turn."
     },
     {
       "id": "2025-05-07_smarter-fairer-fire-management",
@@ -247,7 +271,8 @@
       "portfolios": [
         "Forestry",
         "Environment"
-      ]
+      ],
+      "summary": "Bevan sets out a smarter, fairer approach to bushfire management for the South West."
     },
     {
       "id": "2026-03-30_shifting-the-burden-are-we-really-improv",
@@ -258,7 +283,8 @@
         "Forestry",
         "Environment"
       ],
-      "kind": "opinion"
+      "kind": "opinion",
+      "summary": "In this opinion piece, Bevan asks whether current environmental policy is genuinely improving outcomes or just shifting the burden onto the regions."
     },
     {
       "id": "2026-01-10_if-we-don-t-fix-home-care-wa-s-health-sy",
@@ -270,7 +296,8 @@
         "Health"
       ],
       "kind": "opinion",
-      "thread": "regional-aged-care"
+      "thread": "regional-aged-care",
+      "summary": "In this opinion piece, Bevan argues that fixing home care is essential to relieving pressure on WA's whole health system."
     }
   ],
   "media": [
