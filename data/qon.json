@@ -71,7 +71,8 @@
     "ask": "Whether the Forest Products Commission has paid rates-equivalent amounts for land in the Shire of Boyup Brook, whether that money has been passed to the shire in full, and whether any shortfall against standard rates exists.",
     "answer": "Not yet answered. This question was asked on 6 May 2026 and the Government's reply is still outstanding.",
     "finding": "The question tests whether a regional shire is being shortchanged on rates for state forestry land and awaits the Government's response.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/45186E25456504CA48258DEF0037412F?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/45186E25456504CA48258DEF0037412F?opendocument",
+    "thread": "shire-rates"
   },
   {
     "id": "2026-03-12_QON_1979",
@@ -109,7 +110,8 @@
     "ask": "What funding supports the transition to an Aboriginal-led sandalwood industry, which advisory body guides wild harvest, and why only three harvesters are licensed despite a doubled quota.",
     "answer": "The Government said it invested $280,000 over three years through a capability program, that the WA Sandalwood Advisory Group was dissolved in 2024 having fulfilled its functions, and that three regulation-67 licences are currently in place. It reported about $665,000 spent on compliance and 21.86 tonnes of illegally harvested sandalwood seized between 2021 and 2025.",
     "finding": "A $40 million industry meant to transition to Aboriginal leadership rests on $280,000, a dissolved advisory group and three current licences.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/2436BB7690268EA348258DA300213F69?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/2436BB7690268EA348258DA300213F69?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2026-02-18_QON_1785",
@@ -256,7 +258,8 @@
     "ask": "How many kilolitres of water are carted to Northcliffe each day, what it costs, and the total spent over the years the town has gone without a permanent supply.",
     "answer": "The Government said about 41 kilolitres a day in November 2025 at $569 per day, with a cumulative cost of $3,095,740 since 2010-11, and noted the arrangement began under the previous Liberal-National Government.",
     "finding": "Northcliffe has relied on trucked-in water for more than a decade at over $3 million, and the answer confirmed the cost but offered no permanent supply.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/2A6D971E3776D44748258D4D00213D91?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/2A6D971E3776D44748258D4D00213D91?opendocument",
+    "thread": "town-water"
   },
   {
     "id": "2025-11-18_QON_1024",
@@ -309,7 +312,8 @@
     "ask": "Why the State's softwood plantations were so vulnerable to drought, how much of the asset value was lost, and why the thinning timeliness measure was dropped from the annual report.",
     "answer": "The Government said about 1,500 hectares in the South-West and 6,000 in the Mid-West were significantly affected, with a roughly $29 million negative impact on plantation value, that the thinning indicators were updated under the Government Trading Enterprises Act, and that it would not reinstate the thinning timeliness measure.",
     "finding": "The Government confirmed a $29 million drought hit to the estate and declined to restore the public measure that tracks whether plantations are thinned on time.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/DD891B31148789DE48258D4000371DC0?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/DD891B31148789DE48258D4000371DC0?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-11-13_QON_1023",
@@ -327,7 +331,8 @@
     "ask": "Whether the expert advice to abandon eradication of the polyphagous shot-hole borer would be tabled, how much had been spent each year, and whether the infestation can be contained.",
     "answer": "The Government said the National Management Group decided eradication was no longer technically feasible, reported national cost-sharing expenditure rising to about $25 million in 2024-25, and confirmed 1,628 sites identified with 1,522 treated. It said the pest cannot be contained long-term.",
     "finding": "After almost $60 million across the response, eradication has been abandoned and the program now aims only to slow a pest that cannot be contained.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/062921B39D85794948258D4000371FF3?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/062921B39D85794948258D4000371FF3?opendocument",
+    "thread": "biosecurity"
   },
   {
     "id": "2025-11-11_QON_1001",
@@ -364,7 +369,8 @@
     "ask": "Whether the repurposed residential buildings used as the school's music and drama classrooms had been assessed against the minimum design standards for arts learning, and whether the school was in any capital works plan.",
     "answer": "The Government said the rooms were inspected in 2022 but \"a full detailed assessment for new facilities was not undertaken,\" listed mould remediation works including sub-floor ventilation, drainage and dehumidifiers, and declined the capital works question under Standing Order 77 and Cabinet confidentiality.",
     "finding": "The rooms were never assessed against the standard for the subjects taught in them, and the Government is patching moisture problems rather than replacing the buildings.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/2D660111F1478BB748258D1E0037FF08?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/2D660111F1478BB748258D1E0037FF08?opendocument",
+    "thread": "regional-schools"
   },
   {
     "id": "2025-10-14_QON_873",
@@ -382,7 +388,8 @@
     "ask": "How much native forest timber has been committed under the new Forest Management Plan, whether large firms negotiate private-treaty contracts while small businesses compete, and whether the best commercial price is being achieved.",
     "answer": "The Government reported 49 contracts and committed volumes by grade, said all businesses had been offered private-treaty contracts or restricted tenders, and confirmed Simcoa took 79 per cent of mine-site clearing wood. It said no independent value-for-money analysis was done.",
     "finding": "The Government confirmed it sells timber by private treaty without independent analysis that the public is getting best value.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/4E6963CE9B55753E48258D1E00380280?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/4E6963CE9B55753E48258D1E00380280?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-10-14_QON_875",
@@ -400,7 +407,8 @@
     "ask": "Which forest products sold by the Forest Products Commission remain independently certified, which are not, and whether the Commission would recommence certification to give suppliers and the public assurance.",
     "answer": "The Government said softwood, sandalwood and ecological thinning products are certified to AS 4708, but timber from mine-site clearing and eucalypt sharefarm plantations is not, and that hardwood plantation timber is uncertified because there has not been sufficient market demand to justify the cost.",
     "finding": "Timber that was once certified as sustainably managed now reaches buyers, including those who require certification, without it.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/9229BE09AE71DAB448258D1E00380973?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/9229BE09AE71DAB448258D1E00380973?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-10-14_QON_878",
@@ -418,7 +426,8 @@
     "ask": "What volume of high-value logs is recovered from mine-site clearing, whether all are supplied to sawmills for value adding, and whether current supply keeps the sawmill sector viable.",
     "answer": "The Government reported 235,000 tonnes of forest products sold from mine-site clearing, including about 6,000 tonnes of high-value recovery logs, said recovery is done by the mine operator with the Commission marketing the logs, and confirmed contracted supply is below the upper limit mills request.",
     "finding": "The high-value log supply that mills depend on is recovered by mining companies and falls short of what sawmills ask for.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/5C73062E5EEEDBBA48258D1E003813DE?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/5C73062E5EEEDBBA48258D1E003813DE?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-08-21_QON_516",
@@ -454,7 +463,8 @@
     "ask": "Whether the Government will achieve the 35,000 hectare plantation target originally promised, why the Forest Products Commission has been so slow, and whether progress will be reviewed publicly.",
     "answer": "The Government reframed the program as a record $350 million over ten years, said about 20,000 to 25,000 hectares is likely if focused on freehold land, and noted 1,538 hectares established through joint ventures. It did not commit to the original 35,000 hectare figure.",
     "finding": "Confronted with 6 per cent delivery against the promised area, the Government lowered the expectation rather than confirming the original target.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/4F9A6BDD9F1DB89748258CE4002749F2?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/4F9A6BDD9F1DB89748258CE4002749F2?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-08-12_QON_439",
@@ -508,7 +518,8 @@
     "ask": "Whether the budget funds stage 2 of the Margaret River Senior High School expansion, the $12 million Cowaramup classroom block, and maintenance at Bridgetown and Boyup Brook schools.",
     "answer": "On stage 2, the Government said it is inappropriate to comment on Cabinet deliberations. On Cowaramup it said funding progresses staged delivery with further funding sought in future budgets. It confirmed a $20,000 sports shed for Bridgetown and no funding for Boyup Brook District High School.",
     "finding": "The flagship ask, stage 2 of an overcrowded high school, was deflected to Cabinet confidentiality, and Boyup Brook received nothing.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/5A7A90F8E3DA379748258CDF0038F67C?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/5A7A90F8E3DA379748258CDF0038F67C?opendocument",
+    "thread": "mrshs"
   },
   {
     "id": "2025-08-12_QON_443",
@@ -562,7 +573,8 @@
     "ask": "Why the Aged Care Assessment allocation dropped from $10.2 million to zero across the forward estimates, and why Comprehensive Palliative Care in Aged Care funding was discontinued.",
     "answer": "The Government said a 12-month state and Commonwealth contract continues aged care assessments, to be reflected in the mid-year review, and that two palliative care projects continue under a Commonwealth partnership only until 30 June 2026, with no commitment beyond that date.",
     "finding": "Both services rest on short-term contracts running to 2026, with no funding shown beyond, in budget lines that read as zero.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/4F673522B247CEFA48258CDF0038FD06?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/4F673522B247CEFA48258CDF0038FD06?opendocument",
+    "thread": "regional-aged-care"
   },
   {
     "id": "2025-08-12_QON_446",
@@ -580,7 +592,8 @@
     "ask": "Which areas benefit from the Assisting Staying in Place to Thrive program, whether Warren-Blackwood is included, and what data underpins the limited budget allocation.",
     "answer": "The Government said there are five existing Staying in Place hubs in the electorate assisted by the initiative, with two further hubs approved for start-up support, and that $250,000 in state funding was approved following a request from Linkwest to expand the program.",
     "finding": "The program reaches the electorate through seven hubs, funded by a one-off $250,000 expansion rather than ongoing support.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/EB0C039D70DFBCB248258CDF0038FF2F?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/EB0C039D70DFBCB248258CDF0038FF2F?opendocument",
+    "thread": "regional-aged-care"
   },
   {
     "id": "2025-08-12_QON_447",
@@ -598,7 +611,8 @@
     "ask": "For the 2025-26 revenue breakdown by operation, the cumulative shortfall on ecological thinning, and how much land the $350 million softwood fund will ultimately buy.",
     "answer": "The Government gave 2025-26 timber revenue as plantations $88.1 million (79 per cent), native forest $7.2 million (6 per cent) and sandalwood $16.2 million (15 per cent), said costs of ecological thinning are anticipated to exceed revenues by more than $5 million, and estimated the softwood fund would secure about 20,000 to 25,000 hectares of freehold land.",
     "finding": "The Government confirmed the thinning program runs at a loss and that the $350 million plantation fund will fall well short of the area once promised.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/0A0592D0548B0B3148258CDF0039018E?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/0A0592D0548B0B3148258CDF0039018E?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-06-17_QON_222",
@@ -616,7 +630,8 @@
     "ask": "Why the State is purchasing land for carbon offsetting while a private entity replants Gnangara for its own carbon credits, whether the Forest Products Commission is compensating Wesbeam for the reservation, and the total cost to the State.",
     "answer": "The Government said no commercial terms had been agreed on the Carbon for Conservation proposal and that DBCA is considering carbon farming on the conservation estate. The questions on compensation and total cost were referred to the Minister for Forestry.",
     "finding": "The core questions on who profits from the carbon credits and what the reservation costs the public were passed to another minister rather than answered.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/92CCABB051CA23C648258CA700215923?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/92CCABB051CA23C648258CA700215923?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-06-17_QON_223",
@@ -634,7 +649,8 @@
     "ask": "What rehabilitation DBCA had undertaken at Gnangara since pine removal began in 2004, how many hectares remain unrehabilitated, and why the pines were reserved rather than re-established for production.",
     "answer": "The Government said about 5,000 hectares of native vegetation had been planted since 2004 while roughly 13,000 hectares across Yanchep, Gnangara and Pinjar remain unrehabilitated, with the remaining pines now managed to maximise cone production as a food source for Carnaby's cockatoo.",
     "finding": "More than two decades after pine removal began, about 13,000 hectares remain unrehabilitated, with management now driven by cockatoo food rather than timber.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/78A1105B9188108148258CA700215B2B?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/78A1105B9188108148258CA700215B2B?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-06-17_QON_224",
@@ -652,7 +668,8 @@
     "ask": "What volume of timber was lost to the Gnangara reservation and its value, whether the Forest Products Commission can meet its supply contracts to Wesbeam, and on what basis Wesbeam receives karri logs.",
     "answer": "The Government said about 165,000 cubic metres of LVL log and 24,000 cubic metres of industrial wood were standing at the time of the cessation, with \"no market value as it is not available to harvest.\" It said karri supply to Wesbeam was tendered to 2023 and has since been by private treaty at the equivalent pine price, with tonnages declining year on year.",
     "finding": "A large standing timber resource was reserved, and the shortfall is being covered in part by karri sold to Wesbeam on a private-treaty basis rather than competitive tender.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/182577F59659533448258CA700215D35?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/182577F59659533448258CA700215D35?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-06-17_QON_225",
@@ -670,7 +687,8 @@
     "ask": "Whether the ecological thinning prescription was published, what the program costs per hectare, whether contracts were tendered, and how stockpiled logs are sold.",
     "answer": "The Government put jarrah thinning at about $10,500 per hectare and karri at about $13,500, said contractors were not selected by public tender, and confirmed that aside from tendered firewood and sawlog, all other thinning timber sales were privately negotiated. It listed the businesses awarded private-treaty contracts and reported about 62,000 tonnes held in timber reserves.",
     "finding": "A publicly funded thinning program is selling most of its timber through privately negotiated contracts rather than open tender.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/BC504A106B6020A048258CA700215F79?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/BC504A106B6020A048258CA700215F79?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-05-20_QON_052",
@@ -688,7 +706,8 @@
     "ask": "How much of the $350 million committed to expanding softwood plantations has been allocated to Warren-Blackwood, what consultation occurred with local government, and how many hectares have been planted.",
     "answer": "The Government said there are no specific allocations by region, with sites chosen on rainfall, soil, distance to market and price. It listed plantation established in the region from January 2022 to May 2025: Boyup Brook 1,505 hectares, Manjimup 402, Nannup 151, Bridgetown-Greenbushes 55 and Donnybrook-Balingup 0.",
     "finding": "After three years of a $350 million program, the region had about 2,113 hectares planted, and the Government does not track the spend by region at all.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/F81018608B94457D48258C8B00211053?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/F81018608B94457D48258C8B00211053?opendocument",
+    "thread": "forestry"
   },
   {
     "id": "2025-05-20_QON_081",
@@ -706,7 +725,8 @@
     "ask": "How many paid paramedics cover Warren-Blackwood, where they are based, and how many callouts over three years were handled by volunteers without paid paramedic support.",
     "answer": "St John Ambulance is contracted for 41 paid and 8 community paramedics across the South-West, with bases including Manjimup and Denmark. On the volunteer-only callout numbers, the data \"is not readily available to WA Health.\"",
     "finding": "The Government could account for its paid paramedics but could not say how often the electorate relies on volunteers alone, because it does not track it.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/D0C4B1C3A58FF09048258C8B00371437?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/D0C4B1C3A58FF09048258C8B00371437?opendocument",
+    "thread": "emergency-care"
   },
   {
     "id": "2025-05-20_QON_083",
@@ -742,7 +762,8 @@
     "ask": "How many aged care residents from regional areas, including Warren-Blackwood, had been transferred to metropolitan facilities in 12 months for lack of local availability, and whether the Government tracks families forced to seek care outside their communities.",
     "answer": "The Government said the Commonwealth funds and regulates aged care and holds the bed data. It reported 99 state co-funded Transition Care places at 96 per cent occupancy and a $100 million low-interest loan scheme for 500 concessional beds, but gave no figure for regional residents relocated.",
     "finding": "Asked how many regional elders are being sent away from family for a bed, the Government pointed to the Commonwealth and did not provide a number.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/9D304AA12AF9328148258C8B00371DEF?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/9D304AA12AF9328148258C8B00371DEF?opendocument",
+    "thread": "regional-aged-care"
   },
   {
     "id": "2025-05-20_QON_086",
@@ -760,7 +781,8 @@
     "ask": "Whether any planning or funding is underway for a CT scanner at Manjimup Hospital, and whether the Minister would release any business case for diagnostic imaging at Manjimup, Margaret River and Bridgetown hospitals.",
     "answer": "The Government said WACHS continues to monitor service needs and that Manjimup patients can access the 128-slice CT scanner at Busselton Health Campus. It did not commit to a scanner, release any business case, or address the travel burden on elderly patients.",
     "finding": "The remedy offered for the absence of local imaging was a hospital hours away, and the requested business cases were not released.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/366C3E4B2B5F728348258C8B003727B7?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/366C3E4B2B5F728348258C8B003727B7?opendocument",
+    "thread": "ct-scanner"
   },
   {
     "id": "2025-05-20_QON_087",
@@ -778,7 +800,8 @@
     "ask": "For a list of aged care facilities in Warren-Blackwood with bed numbers, occupancy and waitlists, the current average wait for a residential bed, and any planned upgrades for 2025-26.",
     "answer": "The Government said the Commonwealth Department of Health, Disability and Ageing is responsible for aged care access and holds the data on beds.",
     "finding": "A direct request for the region's bed numbers, wait times and planned upgrades was answered only by naming who holds the data.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/608DD0F90E42295548258C8B00372BAA?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/608DD0F90E42295548258C8B00372BAA?opendocument",
+    "thread": "regional-aged-care"
   },
   {
     "id": "2025-05-20_QON_088",
@@ -796,7 +819,8 @@
     "ask": "The total number of aged care workers across the electorate, how many are qualified nurses or allied health, and what incentives exist to attract and retain them in rural areas.",
     "answer": "The Government said the Commonwealth holds the relevant workforce data, and noted it has made several qualifications fee-free, including Certificate III in Individual Support and Certificate IV in Ageing Support.",
     "finding": "The workforce numbers were not provided; the retention answer was a list of training courses rather than a count of who is actually on the ground.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/8968DED9E73A3B6C48258C8B00372E5D?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/8968DED9E73A3B6C48258C8B00372E5D?opendocument",
+    "thread": "regional-aged-care"
   },
   {
     "id": "2025-05-20_QON_089",
@@ -815,7 +839,8 @@
     "ask": "How many older Warren-Blackwood residents receive Commonwealth home support or Home Care Packages, whether any non-volunteer medical transport is provided in towns without hospitals, and whether the Government had assessed transport and service gaps for ageing in place.",
     "answer": "The Government again said the Commonwealth funds and regulates aged care, noted transport is a category within Commonwealth home support, and pointed to the Regional Pensioner Travel Card of up to $775 a year. No assessment report was tabled.",
     "finding": "The question about whether rural ageing-in-place gaps had been assessed was met with a pensioner fuel subsidy and no report.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/52B202AF1219C80848258C8B00373061?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/52B202AF1219C80848258C8B00373061?opendocument",
+    "thread": "regional-aged-care"
   },
   {
     "id": "2025-05-20_QON_090",
@@ -834,6 +859,7 @@
     "ask": "How many former forestry workers in Warren-Blackwood had received transition support, what retraining was offered, what regional funding was allocated, and whether any local workers or businesses had been unsuccessful.",
     "answer": "The Government said 219 workers had been supported, with up to $8,000 each for reskilling, over 50 regional outreach sessions, and $17.69 million in business grants in Warren-Blackwood under the $80 million Native Forest Transition fund. It confirmed some grant applicants were unsuccessful under the competitive streams.",
     "finding": "The Government confirmed the headline figures for the transition, and that not every local business that applied was funded.",
-    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/675AA1392A3753CA48258C8B00373277?opendocument"
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/675AA1392A3753CA48258C8B00373277?opendocument",
+    "thread": "forestry"
   }
 ]
