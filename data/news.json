@@ -64,7 +64,8 @@
         "Regional WA",
         "Infrastructure"
       ],
-      "summary": "Bevan questions why the Government is still trucking in water to some of the state's wettest towns instead of investing in reliable local supply."
+      "summary": "Bevan questions why the Government is still trucking in water to some of the state's wettest towns instead of investing in reliable local supply.",
+      "thread": "town-water"
     },
     {
       "id": "2025-11-19_state-housing-failure-pushing-the-region",
@@ -86,7 +87,8 @@
         "Regional WA",
         "Community Safety"
       ],
-      "summary": "Bevan highlights how government inaction is leaving regional women without the services and safety they need."
+      "summary": "Bevan highlights how government inaction is leaving regional women without the services and safety they need.",
+      "thread": "womens-refuge"
     },
     {
       "id": "2025-11-03_aged-care-pricing-review-puts-regional-s",
@@ -153,7 +155,8 @@
         "Education",
         "Regional WA"
       ],
-      "summary": "Bevan sets out the pressures facing regional schools and calls on the Government to properly resource them."
+      "summary": "Bevan sets out the pressures facing regional schools and calls on the Government to properly resource them.",
+      "thread": "regional-schools"
     },
     {
       "id": "2025-08-27_aged-care-crisis-strands-wa-patients",
@@ -187,7 +190,8 @@
         "Education",
         "Regional WA"
       ],
-      "summary": "Bevan argues that regional schools are being left behind and calls for fairer support and resourcing."
+      "summary": "Bevan argues that regional schools are being left behind and calls for fairer support and resourcing.",
+      "thread": "regional-schools"
     },
     {
       "id": "2025-08-20_urgent-aged-care-reform-needed-to-reliev",
@@ -221,7 +225,8 @@
         "Environment",
         "Forestry"
       ],
-      "summary": "Bevan raises the threat the shot-hole borer poses to WA's trees and calls for a proper, well-resourced response."
+      "summary": "Bevan raises the threat the shot-hole borer poses to WA's trees and calls for a proper, well-resourced response.",
+      "thread": "biosecurity"
     },
     {
       "id": "2025-06-24_budget-response",
@@ -376,7 +381,8 @@
       "quotes": [
         "We've got some costings of around $1 million to $1.5 million per annum.",
         "There is an appetite from the community, there is an appetite from the shires."
-      ]
+      ],
+      "thread": "womens-refuge"
     },
     {
       "id": "2026-05-15_fair-share-questioned",
@@ -427,7 +433,8 @@
       "quotes": [
         "Despite a $3.5 billion surplus, there is virtually nothing in this Budget for the people of Warren-Blackwood.",
         "Manjimup residents are still forced to make a three-hour round trip to Busselton for CT scans."
-      ]
+      ],
+      "thread": "forestry"
     },
     {
       "id": "2026-05-06_manjimup-shire-bulletin",
@@ -440,7 +447,8 @@
         "Community Safety",
         "Regional WA"
       ],
-      "overview": "With the local shire publicly backing his push, when will the Government fund the family and domestic violence accommodation the region still lacks?"
+      "overview": "With the local shire publicly backing his push, when will the Government fund the family and domestic violence accommodation the region still lacks?",
+      "thread": "womens-refuge"
     },
     {
       "id": "2025-08-22_crisis-accommodation-capacity-dire",
@@ -458,7 +466,8 @@
       "quotes": [
         "I'm fully aware of how urgent this situation is.",
         "We need action now."
-      ]
+      ],
+      "thread": "womens-refuge"
     },
     {
       "id": "2025-07-11_mrshs-students-go-begging",
