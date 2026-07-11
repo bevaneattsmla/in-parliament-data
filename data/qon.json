@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-06-09_QON_2576",
+    "type": "QUESTION ON NOTICE",
+    "date": "09 Jun 2026",
+    "iso": "2026-06-09",
+    "loc": "ALL",
+    "topics": [
+      "SMALL BUSINESS",
+      "TOURISM",
+      "ENVIRONMENT"
+    ],
+    "title": "WHAT THE CONTAINER SCHEME COSTS CRAFT DISTILLERS",
+    "summary": "Bevan asked whether the Government has assessed or modelled what the Container Deposit Scheme costs Western Australian craft distillers, on top of Commonwealth excise, and whether any relief was considered. Awaiting the Government's reply.",
+    "status": "Awaiting reply",
+    "ask": "Whether the Government has assessed the interaction between Container Deposit Scheme obligations and Commonwealth excise for spirits producers, modelled the per-container cost at different production volumes, engaged the Commonwealth, Treasury or the ATO, considered any exemption, rebate or transitional arrangement, and met with the WA Distillers Guild, and whether it will table that work.",
+    "answer": "Not yet answered. This question was asked on 9 June 2026 and the Government's reply is still outstanding.",
+    "finding": "The question puts the compounding cost of the Container Deposit Scheme and Commonwealth excise on Western Australian craft distillers on the record, and awaits the Government's response.",
+    "url": "https://www.parliament.wa.gov.au/parliament/pquest.nsf/viewLAPQuestByDate/0A0C7739B90905BC48258E1100391D93?opendocument",
+    "thread": "container-deposit-scheme"
+  },
+  {
     "id": "2026-05-12_QON_2333",
     "type": "QUESTION ON NOTICE",
     "date": "12 May 2026",
@@ -141,7 +161,7 @@
       "ENVIRONMENT",
       "ROADS & TRANSPORT"
     ],
-    "title": "WESTPORT DOLPHIN ASSESSMENT ‘IN PROGRESS’",
+    "title": "WESTPORT DOLPHIN ASSESSMENT 'IN PROGRESS'",
     "summary": "Bevan asked what baseline data exists on Cockburn Sound's dolphins and how the precautionary principle was applied; the Government said the assessment is still in progress.",
     "status": "No clear answer",
     "ask": "Whether the Sound is recognised as dolphin breeding habitat, what baseline population data exists, whether behavioural displacement from noise was assessed, and how the precautionary principle was applied.",
@@ -345,7 +365,7 @@
       "SMALL BUSINESS",
       "COMMUNITY"
     ],
-    "title": "NO AUDITS ON BUILDERS’ SUPPORT LOANS",
+    "title": "NO AUDITS ON BUILDERS' SUPPORT LOANS",
     "summary": "Bevan asked whether builders who received state support loans had been audited and how long building disputes take; the Government said no audits had been done and key data is not collected.",
     "status": "Answered",
     "ask": "Whether builders that received loans under the Builders' Support Facility had been audited, how long building disputes take to resolve, and how many homes have been under construction for more than four years.",
@@ -531,7 +551,7 @@
       "ROADS & TRANSPORT",
       "REGIONAL WA"
     ],
-    "title": "‘UNCLEAR WHAT FUNDING’ FOR OVERTAKING LANES",
+    "title": "'UNCLEAR WHAT FUNDING' FOR OVERTAKING LANES",
     "summary": "Bevan asked whether the budget funds overtaking lanes between Manjimup and Bridgetown; the Minister said it was unclear what funding he meant.",
     "status": "No clear answer",
     "ask": "Whether the budget funds the implementation of overtaking lanes between Manjimup and Bridgetown, where it sits and what it includes.",
