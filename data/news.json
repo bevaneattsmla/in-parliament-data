@@ -9,7 +9,8 @@
         "Environment",
         "Regional WA"
       ],
-      "summary": "Bevan warns against loading new container-scheme costs onto WA's wine industry while it is already under pressure, and calls for a fairer approach that does not make local producers go first."
+      "summary": "Bevan warns against loading new container-scheme costs onto WA's wine industry while it is already under pressure, and calls for a fairer approach that does not make local producers go first.",
+      "thread": "container-deposit-scheme"
     },
     {
       "id": "2026-06-02_wa-wine-producers-support-recycling-but",
@@ -20,7 +21,8 @@
         "Environment",
         "Regional WA"
       ],
-      "summary": "WA wine producers back recycling, but Bevan argues the scheme must be designed properly so it does not unfairly burden small local wineries."
+      "summary": "WA wine producers back recycling, but Bevan argues the scheme must be designed properly so it does not unfairly burden small local wineries.",
+      "thread": "container-deposit-scheme"
     },
     {
       "id": "2026-03-11_federal-aged-care-funding",
@@ -320,7 +322,8 @@
       "overview": "Coverage of Bevan's call to pause the Container Deposit Scheme's expansion to wine and spirits so WA producers are not forced to carry the cost of going first.",
       "quotes": [
         "WA should align with the national timetable instead of forcing local producers to carry the cost of going first."
-      ]
+      ],
+      "thread": "container-deposit-scheme"
     },
     {
       "id": "2026-06-24_bevan-eatts-visits-walpole",
@@ -347,7 +350,8 @@
         "Environment",
         "Regional WA"
       ],
-      "overview": "With wine and spirits bottles entering Containers for Change and WA moving first, will small family wineries be forced to carry a cost they cannot pass on to consumers?"
+      "overview": "With wine and spirits bottles entering Containers for Change and WA moving first, will small family wineries be forced to carry a cost they cannot pass on to consumers?",
+      "thread": "container-deposit-scheme"
     },
     {
       "id": "2026-06-01_regional-aged-care-capacity",
