@@ -68,5 +68,10 @@
     "name": "Fuel prices and supply in the regions",
     "description": "Fuel in the regions: no diesel for the harvest, prices that hit the regions hardest, and a region left flying blind without price transparency.",
     "url": "/thread/fuel-prices"
+  },
+  "container-deposit-scheme": {
+    "name": "The container deposit scheme's cost to small business",
+    "description": "Bevan's scrutiny of what the Container Deposit Scheme costs the small businesses that carry it, from craft distillers and spirits producers squeezed on top of Commonwealth excise to the regional operators who wear the scheme's obligations, and whether the Government has ever measured the burden.",
+    "url": ""
   }
 }
