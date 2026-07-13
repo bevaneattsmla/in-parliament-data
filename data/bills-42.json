@@ -1,16 +1,971 @@
 [
   {
+    "id": "wa42_animal-welfare-amendment-chief-animal-protection-officer",
+    "shortTitle": "Animal Welfare Amendment (Chief Animal Protection Officer) Bill",
+    "fullTitle": "Animal Welfare Amendment (Chief Animal Protection Officer) Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=87C43A57E2A70C3248258D080081B074",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_appropriation-capital-26",
+    "shortTitle": "Appropriation (Capital 2025–26) Bill",
+    "fullTitle": "Appropriation (Capital 2025–26) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D158EDE063FD6F7A48258CAD0009C194",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_appropriation-capital-27",
+    "shortTitle": "Appropriation (Capital 2026–27) Bill",
+    "fullTitle": "Appropriation (Capital 2026–27) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=C6A9A41FBD41F43248258DEE002BAAC5",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_appropriation-recurrent-26",
+    "shortTitle": "Appropriation (Recurrent 2025–26) Bill",
+    "fullTitle": "Appropriation (Recurrent 2025–26) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DCF4DF5DC0E0830D48258CAD000AAD61",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_appropriation-recurrent-27",
+    "shortTitle": "Appropriation (Recurrent 2026–27) Bill",
+    "fullTitle": "Appropriation (Recurrent 2026–27) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=5107DFD50A7DA2E448258DEE0026841D",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_architects-amendment",
+    "shortTitle": "Architects Amendment Bill",
+    "fullTitle": "Architects Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=CA71B129873C59D448258C6700330CF4",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_assisted-reproductive-technology-and-surrogacy",
+    "shortTitle": "Assisted Reproductive Technology and Surrogacy Bill",
+    "fullTitle": "Assisted Reproductive Technology and Surrogacy Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D6D8D70CFDCFFF4448258CE40024470A",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_associations-and-co-operatives-legislation-amendment",
+    "shortTitle": "Associations and Co-operatives Legislation Amendment Bill",
+    "fullTitle": "Associations and Co-operatives Legislation Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=03D6C0514BBC1A1548258C7B000D786F",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_building-and-construction-industry-security-of-payment-amendment",
+    "shortTitle": "Building and Construction Industry (Security of Payment) Amendment Bill",
+    "fullTitle": "Building and Construction Industry (Security of Payment) Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=A97052A7F3DF8F5548258DA800203E8B",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_building-services-legislation-amendment-financial-oversight",
+    "shortTitle": "Building Services Legislation Amendment (Financial Oversight) Bill",
+    "fullTitle": "Building Services Legislation Amendment (Financial Oversight) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8BD956600796A67248258DF50022F11F",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_cambridge-endowment-lands-amendment",
+    "shortTitle": "Cambridge Endowment Lands Amendment Bill",
+    "fullTitle": "Cambridge Endowment Lands Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=B71BC239AF57DE5048258E1100229EC9",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_capturing-child-sex-offenders-for-unlawful-consorting",
+    "shortTitle": "Capturing Child Sex Offenders for Unlawful Consorting Bill",
+    "fullTitle": "Capturing Child Sex Offenders for Unlawful Consorting Bill 2026",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=CCA3F1B69E38378448258DB8000941B3",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_cat-amendment-local-laws",
+    "shortTitle": "Cat Amendment (Local Laws) Bill",
+    "fullTitle": "Cat Amendment (Local Laws) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0267E3C49F8D5B6448258DA800209A4F",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_charitable-collections-amendment",
+    "shortTitle": "Charitable Collections Amendment Bill",
+    "fullTitle": "Charitable Collections Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=C0FC3C6ECDDEF3DA48258C910036A380",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_civil-liability-amendment-child-sexual-abuse-actions",
+    "shortTitle": "Civil Liability Amendment (Child Sexual Abuse Actions) Bill",
+    "fullTitle": "Civil Liability Amendment (Child Sexual Abuse Actions) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=06279DFE4938B8FC48258D3F000DDB1D",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "committee-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_climate-action-this-decade",
+    "shortTitle": "Climate Action this Decade Bill",
+    "fullTitle": "Climate Action this Decade Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0D30BC751C7E68A148258C7D001031A0",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_collie-coal-griffin-agreement-amendment",
+    "shortTitle": "Collie Coal (Griffin) Agreement Amendment Bill",
+    "fullTitle": "Collie Coal (Griffin) Agreement Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DFA6A91F2F64FA1348258DA9000D8658",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_commonwealth-administrative-laws-amendment-updating-references",
+    "shortTitle": "Commonwealth Administrative Laws Amendment (Updating References) Bill",
+    "fullTitle": "Commonwealth Administrative Laws Amendment (Updating References) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=67843EE932E3FF3948258E110021FB45",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_conservation-and-land-management-amendment",
+    "shortTitle": "Conservation and Land Management Amendment Bill",
+    "fullTitle": "Conservation and Land Management Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=A48D907C4B5846F948258C7C0027F650",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_construction-industry-portable-paid-long-service-leave-amendment",
+    "shortTitle": "Construction Industry Portable Paid Long Service Leave Amendment Bill",
+    "fullTitle": "Construction Industry Portable Paid Long Service Leave Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=B9DC9BAC7318DF1A48258CB5001763C3",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_control-of-vehicles-off-road-areas-amendment",
+    "shortTitle": "Control of Vehicles (Off-road Areas) Amendment Bill",
+    "fullTitle": "Control of Vehicles (Off-road Areas) Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=014CA9EC436B5DD448258C6700322C56",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_crimes-at-sea-amendment",
+    "shortTitle": "Crimes at Sea Amendment Bill",
+    "fullTitle": "Crimes at Sea Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4D4F2DEDB25CF37748258D54000AFB61",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_criminal-code-amendment-post-and-boast-offence",
+    "shortTitle": "Criminal Code Amendment (Post and Boast Offence) Bill",
+    "fullTitle": "Criminal Code Amendment (Post and Boast Offence) Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4F74F26B7A18299C48258CB50017F757",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "committee-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_defence-west",
+    "shortTitle": "Defence West Bill",
+    "fullTitle": "Defence West Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=E7A509D509793E3148258E18000898FC",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_duties-amendment",
+    "shortTitle": "Duties Amendment Bill",
+    "fullTitle": "Duties Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D83AFDAC0B9A49D248258C67000BE0FE",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_education-and-care-services-national-law-application",
+    "shortTitle": "Education and Care Services National Law Application Bill",
+    "fullTitle": "Education and Care Services National Law Application Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=E77E17DF59A74F1648258C7B000FAB02",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_electricity-industry-amendment-capital-charges",
+    "shortTitle": "Electricity Industry Amendment (Capital Charges) Bill",
+    "fullTitle": "Electricity Industry Amendment (Capital Charges) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AAD909496801557748258DEE00244B96",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_electricity-industry-amendment-capital-charges-no-2",
+    "shortTitle": "Electricity Industry Amendment (Capital Charges) Bill (No. 2)",
+    "fullTitle": "Electricity Industry Amendment (Capital Charges) Bill (No. 2) 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8C377600FFEA419848258DEE00259A8E",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_electronic-conveyancing-national-law-application",
+    "shortTitle": "Electronic Conveyancing National Law Application Bill",
+    "fullTitle": "Electronic Conveyancing National Law Application Bill 2026",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=6BFE92104F1E890248258DB7000D41B9",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "committee-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_evidence",
+    "shortTitle": "Evidence Bill",
+    "fullTitle": "Evidence Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D7B5E303FE14B96148258C7B000E0124",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_finance-legislation-amendment-housing-affordability",
+    "shortTitle": "Finance Legislation Amendment (Housing Affordability) Bill",
+    "fullTitle": "Finance Legislation Amendment (Housing Affordability) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FA76A0BF7539F12948258E1800185E35",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_fuel-energy-and-power-resources-amendment",
+    "shortTitle": "Fuel, Energy and Power Resources Amendment Bill",
+    "fullTitle": "Fuel, Energy and Power Resources Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D5C914FE70A915F448258DED00150102",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_gene-technology-western-australia-amendment",
+    "shortTitle": "Gene Technology (Western Australia) Amendment Bill",
+    "fullTitle": "Gene Technology (Western Australia) Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4A1C438621802A3648258CE5001C1837",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "committee-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_gene-technology-western-australia",
+    "shortTitle": "Gene Technology (Western Australia) Bill",
+    "fullTitle": "Gene Technology (Western Australia) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=603A7118795933E048258CE40025A1BB",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "committee-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_gold-corporation-amendment",
+    "shortTitle": "Gold Corporation Amendment Bill",
+    "fullTitle": "Gold Corporation Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FFCC7193BCCAA70C48258D54000D1A20",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_help-to-buy-commonwealth-powers",
+    "shortTitle": "Help to Buy (Commonwealth Powers) Bill",
+    "fullTitle": "Help to Buy (Commonwealth Powers) Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FD10A96A287332B448258CED000412E5",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_industrial-relations-amendment",
+    "shortTitle": "Industrial Relations Amendment Bill",
+    "fullTitle": "Industrial Relations Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0E15134DBF52232648258E180009DE87",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_judicial-commission",
+    "shortTitle": "Judicial Commission Bill",
+    "fullTitle": "Judicial Commission Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=942213A3CDDDD7F548258E180026A549",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
     "id": "wa42_land-forces-special-powers",
     "shortTitle": "Land Forces Event (Special Powers) Bill",
     "fullTitle": "Land Forces Event (Special Powers) Bill 2026",
     "billNo": "Bill 77",
     "originHouse": "LA",
     "portfolio": "Police",
-    "topics": ["Community Safety"],
+    "topics": [
+      "Community Safety"
+    ],
     "summary": "Gives WA Police temporary special powers around the Land Forces defence exposition in Perth in October 2026. Inside a defined security zone, officers can set up checkpoints, search people and vehicles, seize listed items, close roads, and order people to move on, with most of the powers expiring on 11 October once the event is over.",
     "whyItMatters": "",
     "watching": false,
-    "bevanVote": { "position": "", "rationale": "" },
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AEA659CCB5D329F848258E180008F7BB",
@@ -19,6 +974,981 @@
     },
     "progress": "second-la",
     "lastUpdated": "2026-06-26",
-    "lastChecked": "2026-06-26"
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_land-tax-assessment-amendment-build-to-rent",
+    "shortTitle": "Land Tax Assessment Amendment (Build-to-Rent) Bill",
+    "fullTitle": "Land Tax Assessment Amendment (Build-to-Rent) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=CB31F100AF59348C48258DA1001F7C6C",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_land-tax-assessment-amendment-native-title-settlement-exemptions",
+    "shortTitle": "Land Tax Assessment Amendment (Native Title Settlement Exemptions) Bill",
+    "fullTitle": "Land Tax Assessment Amendment (Native Title Settlement Exemptions) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DF582ED0FD7AB41548258CB300318CD4",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_land-valuers-licensing-amendment",
+    "shortTitle": "Land Valuers Licensing Amendment Bill",
+    "fullTitle": "Land Valuers Licensing Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=7416F8632CDD9ECB48258D08002F10AF",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_legalise-cannabis-referendum",
+    "shortTitle": "Legalise Cannabis (Referendum) Bill",
+    "fullTitle": "Legalise Cannabis (Referendum) Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=F9D7AD3D2A5347E948258C99000E3617",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_liquor-control-amendment",
+    "shortTitle": "Liquor Control Amendment Bill",
+    "fullTitle": "Liquor Control Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AEC55AA0C520B26648258CB30026C683",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_local-government-amendment-rating-of-certain-mining-licences",
+    "shortTitle": "Local Government Amendment (Rating of Certain Mining Licences) Bill",
+    "fullTitle": "Local Government Amendment (Rating of Certain Mining Licences) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=3C6AE495F69939BC48258D2B00317D25",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_minerals-research-institute-of-western-australia-amendment-clean-energy",
+    "shortTitle": "Minerals Research Institute of Western Australia Amendment (Clean Energy) Bill",
+    "fullTitle": "Minerals Research Institute of Western Australia Amendment (Clean Energy) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=7484A704963FBB8D48258CB40019A17A",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_mining-amendment-transfer-of-royalty-administration",
+    "shortTitle": "Mining Amendment (Transfer of Royalty Administration) Bill",
+    "fullTitle": "Mining Amendment (Transfer of Royalty Administration) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=05996DA962B8CE6E48258C7B000F30BB",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_mining-amendment",
+    "shortTitle": "Mining Amendment Bill",
+    "fullTitle": "Mining Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DF496173F89C5E1548258CB4002666F9",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_misuse-of-drugs-amendment-lawful-personal-use-of-cannabis",
+    "shortTitle": "Misuse of Drugs Amendment (Lawful Personal Use of Cannabis) Bill",
+    "fullTitle": "Misuse of Drugs Amendment (Lawful Personal Use of Cannabis) Bill 2026",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=3A40421D77831BAC48258DBE000F38B8",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_misuse-of-drugs-amendment",
+    "shortTitle": "Misuse of Drugs Amendment Bill",
+    "fullTitle": "Misuse of Drugs Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8096F9C3A0024F6B48258C99000DD949",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_petroleum-retailers-rights-and-liabilities-repeal",
+    "shortTitle": "Petroleum Retailers Rights and Liabilities Repeal Bill",
+    "fullTitle": "Petroleum Retailers Rights and Liabilities Repeal Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=3883424D81DC3D3F48258C6700336459",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_pilbara-port-assets-disposal-repeal",
+    "shortTitle": "Pilbara Port Assets (Disposal) Repeal Bill",
+    "fullTitle": "Pilbara Port Assets (Disposal) Repeal Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AEB5D2542E62CE0848258E1B00168D10",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_plumbers-licensing-amendment",
+    "shortTitle": "Plumbers Licensing Amendment Bill",
+    "fullTitle": "Plumbers Licensing Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FA942BA63C86CAE848258CEB001E04DD",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_police-amendment-compensation-scheme",
+    "shortTitle": "Police Amendment (Compensation Scheme) Bill",
+    "fullTitle": "Police Amendment (Compensation Scheme) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4D120DC4DDCB999A48258D2B00183EFB",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_property-industry-licensing-legislation-amendment",
+    "shortTitle": "Property Industry Licensing Legislation Amendment Bill",
+    "fullTitle": "Property Industry Licensing Legislation Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=6F8F5E56059C381C48258E110019EB37",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_property-law-and-electronic-transactions-legislation-amendment-electronic-mortgages",
+    "shortTitle": "Property Law and Electronic Transactions Legislation Amendment (Electronic Mortgages) Bill",
+    "fullTitle": "Property Law and Electronic Transactions Legislation Amendment (Electronic Mortgages) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8AB0B9339030D8A848258D54000DB6CD",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_public-and-bank-holidays-amendment",
+    "shortTitle": "Public and Bank Holidays Amendment Bill",
+    "fullTitle": "Public and Bank Holidays Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=BBE2E54905F318A948258D08002E4F0C",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_public-education-endowment-repeal",
+    "shortTitle": "Public Education Endowment Repeal Bill",
+    "fullTitle": "Public Education Endowment Repeal Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=75B038FCB82C267948258C65001C3E4C",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_public-health-amendment-born-equal-care-and-protection",
+    "shortTitle": "Public Health Amendment (Born Equal - Care and Protection) Bill",
+    "fullTitle": "Public Health Amendment (Born Equal - Care and Protection) Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=91DFC6EBC6DDC2C848258D5C0032A44F",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_public-order-legislation-amendment",
+    "shortTitle": "Public Order Legislation Amendment Bill",
+    "fullTitle": "Public Order Legislation Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DFB6A3CFA9EF40D248258DA10019D6D7",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "committee-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_public-sector-management-amendment",
+    "shortTitle": "Public Sector Management Amendment Bill",
+    "fullTitle": "Public Sector Management Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=7741F9C2DAABFAF648258DA1001FC54E",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_public-works-amendment-delegations",
+    "shortTitle": "Public Works Amendment (Delegations) Bill",
+    "fullTitle": "Public Works Amendment (Delegations) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AF4EA4922243B2BB48258D54000B639C",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_rail-safety-national-law-application-amendment-rolling-stock-lighting",
+    "shortTitle": "Rail Safety National Law Application Amendment (Rolling Stock Lighting) Bill",
+    "fullTitle": "Rail Safety National Law Application Amendment (Rolling Stock Lighting) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=84230A11F279624448258E11002326A4",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "introduced-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_railway-roy-hill-infrastructure-pty-ltd-agreement-amendment",
+    "shortTitle": "Railway (Roy Hill Infrastructure Pty Ltd) Agreement Amendment Bill",
+    "fullTitle": "Railway (Roy Hill Infrastructure Pty Ltd) Agreement Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FCB464D1439F42F148258C7B001005C4",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_reserves",
+    "shortTitle": "Reserves Bill",
+    "fullTitle": "Reserves Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=9E214DE71B6CDA2148258C670032A254",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_residential-tenancies-amendment-rent-cap",
+    "shortTitle": "Residential Tenancies Amendment (Rent Cap) Bill",
+    "fullTitle": "Residential Tenancies Amendment (Rent Cap) Bill 2026",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=F0601D510A1FA81E48258DEE0032DBE0",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_retail-barring-orders",
+    "shortTitle": "Retail Barring Orders Bill",
+    "fullTitle": "Retail Barring Orders Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=E606BBEDF543065648258D54000C0BF3",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_road-traffic-amendment-disqualification-notices",
+    "shortTitle": "Road Traffic Amendment (Disqualification Notices) Bill",
+    "fullTitle": "Road Traffic Amendment (Disqualification Notices) Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FCFDE769D6B4D5C048258DA80020761F",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_salaries-and-allowances-amendment",
+    "shortTitle": "Salaries and Allowances Amendment Bill",
+    "fullTitle": "Salaries and Allowances Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=EF00F59B0082D75B48258CAB0027ACAB",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_sports-and-entertainment-trust",
+    "shortTitle": "Sports and Entertainment Trust Bill",
+    "fullTitle": "Sports and Entertainment Trust Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=ED629AB2E188687248258D0800385504",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_state-development",
+    "shortTitle": "State Development Bill",
+    "fullTitle": "State Development Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=58F9DABA0B07B8B848258D01000792F4",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_statutes-repeals-and-minor-amendments",
+    "shortTitle": "Statutes (Repeals and Minor Amendments) Bill",
+    "fullTitle": "Statutes (Repeals and Minor Amendments) Bill 2025",
+    "billNo": "",
+    "originHouse": "LC",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DA82D61266F31B3348258C660035280D",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_terrorism-legislation-amendment-extension-of-expiry",
+    "shortTitle": "Terrorism Legislation Amendment (Extension of Expiry) Bill",
+    "fullTitle": "Terrorism Legislation Amendment (Extension of Expiry) Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0988C34386CFEA1148258CEB001CDF59",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_tobacco-products-control-amendment",
+    "shortTitle": "Tobacco Products Control Amendment Bill",
+    "fullTitle": "Tobacco Products Control Amendment Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=89531C44FF12947E48258DA10024DDC7",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_treasurers-advance-authorisation",
+    "shortTitle": "Treasurer's Advance Authorisation Bill",
+    "fullTitle": "Treasurer's Advance Authorisation Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=5B9604E3E1CE72AE48258C65001DEB22",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_treasurers-advance-authorisation-2026",
+    "shortTitle": "Treasurer's Advance Authorisation Bill",
+    "fullTitle": "Treasurer's Advance Authorisation Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D667A797272E2E2748258DA8001FC2B8",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "assented",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_westport",
+    "shortTitle": "Westport Bill",
+    "fullTitle": "Westport Bill 2026",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=04636F20E1F2894748258DB600191E42",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "second-la",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
+  },
+  {
+    "id": "wa42_working-with-children-screening-amendment",
+    "shortTitle": "Working with Children (Screening) Amendment Bill",
+    "fullTitle": "Working with Children (Screening) Amendment Bill 2025",
+    "billNo": "",
+    "originHouse": "LA",
+    "portfolio": "",
+    "topics": [],
+    "summary": "",
+    "whyItMatters": "",
+    "watching": false,
+    "bevanVote": {
+      "position": "",
+      "rationale": ""
+    },
+    "amendments": [],
+    "links": {
+      "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=C0F2C2C73261AAE048258D54002EAF02",
+      "em": "",
+      "hansard": []
+    },
+    "progress": "committee-lc",
+    "lastUpdated": "2026-07-13",
+    "lastChecked": "2026-07-13"
   }
 ]
