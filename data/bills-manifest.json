@@ -1,6 +1,6 @@
 {
   "generated": "2026-06-26",
-  "version": 3,
+  "version": 4,
   "parliament": 42,
   "note": "Bill tracker for the IN-PARLIAMENT /legislation page. We hold coarse flags plus the editorial layer; Parliament's Progress of Bills holds the live timeline. Validate before commit. Bump version on any change so the page cache-busts.",
   "bills": ["bills-42.json"]
