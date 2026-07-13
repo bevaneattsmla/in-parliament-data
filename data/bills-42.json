@@ -3,11 +3,11 @@
     "id": "wa42_animal-welfare-amendment-chief-animal-protection-officer",
     "shortTitle": "Animal Welfare Amendment (Chief Animal Protection Officer) Bill",
     "fullTitle": "Animal Welfare Amendment (Chief Animal Protection Officer) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 40",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to amend the Animal Welfare Act 2002 and to make consequential amendments to the Cat Act 2011; and the Dog Act 1976; and various other Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -17,8 +17,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=87C43A57E2A70C3248258D080081B074",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/87C43A57E2A70C3248258D080081B074/$File/EM%2B40-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-09-18/7"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -28,11 +30,11 @@
     "id": "wa42_appropriation-capital-26",
     "shortTitle": "Appropriation (Capital 2025–26) Bill",
     "fullTitle": "Appropriation (Capital 2025–26) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 22",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to grant supply and to appropriate and apply out of the Consolidated Account certain sums for the capital purposes of the year ending 30 June 2026.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -42,8 +44,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D158EDE063FD6F7A48258CAD0009C194",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/D158EDE063FD6F7A48258CAD0009C194/$File/EM%2B22-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-06-19/40?sid=c5e96f855c774a4db2",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-08-12/47"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -53,11 +58,11 @@
     "id": "wa42_appropriation-capital-27",
     "shortTitle": "Appropriation (Capital 2026–27) Bill",
     "fullTitle": "Appropriation (Capital 2026–27) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 68",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to grant supply and to appropriate and apply out of the Consolidated Account certain sums for the capital purposes of the year ending 30 June 2027.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -67,8 +72,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=C6A9A41FBD41F43248258DEE002BAAC5",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/C6A9A41FBD41F43248258DEE002BAAC5/$File/EM%2B68-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-05-07/40",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-10/12"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -78,11 +86,11 @@
     "id": "wa42_appropriation-recurrent-26",
     "shortTitle": "Appropriation (Recurrent 2025–26) Bill",
     "fullTitle": "Appropriation (Recurrent 2025–26) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 23",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to grant supply and to appropriate and apply out of the Consolidated Account certain sums for the recurrent services and purposes of the year ending 30 June 2026.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -92,8 +100,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DCF4DF5DC0E0830D48258CAD000AAD61",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/DCF4DF5DC0E0830D48258CAD000AAD61/$File/EM%2B23-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-06-19/39?sid=c5e96f855c774a4db2",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-08-12/46"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -103,11 +114,11 @@
     "id": "wa42_appropriation-recurrent-27",
     "shortTitle": "Appropriation (Recurrent 2026–27) Bill",
     "fullTitle": "Appropriation (Recurrent 2026–27) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 67",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to grant supply and to appropriate and apply out of the Consolidated Account certain sums for the recurrent services and purposed of the year ending 30 June 2027.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -117,8 +128,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=5107DFD50A7DA2E448258DEE0026841D",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/5107DFD50A7DA2E448258DEE0026841D/$File/EM%2B67-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-05-07/39",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-10/11"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -128,11 +142,11 @@
     "id": "wa42_architects-amendment",
     "shortTitle": "Architects Amendment Bill",
     "fullTitle": "Architects Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 6",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill to amend the Architects Act 2004 and to make consequential amendments to various written laws.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -142,8 +156,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=CA71B129873C59D448258C6700330CF4",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/CA71B129873C59D448258C6700330CF4/$File/EM%2B6-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-04-09/35",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-05-01/12"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -153,11 +170,11 @@
     "id": "wa42_assisted-reproductive-technology-and-surrogacy",
     "shortTitle": "Assisted Reproductive Technology and Surrogacy Bill",
     "fullTitle": "Assisted Reproductive Technology and Surrogacy Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 32",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is about the provision of assisted reproductive technology services and arrangement for surrogacy and related matters; and to establish the Assisted Reproductive Technology Advisory and Review Board; and to repeal the Artificial Conception Act 1985, the Human Reproductive Technology Act 1991, the Human Reproductive Technology Regulations 1993, the Surrogacy Act 2008 and the Surrogacy Regulations 2009 and to revoke the Human Reproductive Technology Directions 2021 and the Surrogacy Directions 2022; and to make consequential and related amendments to other Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -167,8 +184,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D6D8D70CFDCFFF4448258CE40024470A",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/D6D8D70CFDCFFF4448258CE40024470A/$File/EM%2B032-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-13/14",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-09-18/16"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -178,11 +198,11 @@
     "id": "wa42_associations-and-co-operatives-legislation-amendment",
     "shortTitle": "Associations and Co-operatives Legislation Amendment Bill",
     "fullTitle": "Associations and Co-operatives Legislation Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 11",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to amend the Associations Incorporation Act 2015 and the Co-operatives Act 2009.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -192,8 +212,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=03D6C0514BBC1A1548258C7B000D786F",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/03D6C0514BBC1A1548258C7B000D786F/$File/EM%2B11-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-30/14?sid=4b40a81cb212445585",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-29/41"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -203,11 +226,11 @@
     "id": "wa42_building-and-construction-industry-security-of-payment-amendment",
     "shortTitle": "Building and Construction Industry (Security of Payment) Amendment Bill",
     "fullTitle": "Building and Construction Industry (Security of Payment) Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 58",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Building and Construction Industry (Security of Payment) Act 2021 and to make amendments to the Building Services (Registration) Act 2011.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -217,8 +240,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=A97052A7F3DF8F5548258DA800203E8B",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/A97052A7F3DF8F5548258DA800203E8B/$File/Explanatory%2BMemorandum%2B%28Legislative%2BAssembly%29%2B-%2BBuilding%2Band%2BConstruction%2BIndustry%2B%28Security%2Bof%2BPayment%29%2BAmendment%2BBill%2B2026%2B%28Fi.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-25/5?sid=b73bd64d8151450d92",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-05-12/48"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -228,11 +254,11 @@
     "id": "wa42_building-services-legislation-amendment-financial-oversight",
     "shortTitle": "Building Services Legislation Amendment (Financial Oversight) Bill",
     "fullTitle": "Building Services Legislation Amendment (Financial Oversight) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 64",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Building Services (Complaint Resolution and Administration) Act 2011; and the Building Services (Registration) Act 2011; and Home Building Contracts Act 1991.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -242,8 +268,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8BD956600796A67248258DF50022F11F",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/8BD956600796A67248258DF50022F11F/$File/EM%2B64-1%2B%282026%29.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-05-13/17"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -253,11 +281,11 @@
     "id": "wa42_cambridge-endowment-lands-amendment",
     "shortTitle": "Cambridge Endowment Lands Amendment Bill",
     "fullTitle": "Cambridge Endowment Lands Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 73",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Cambridge Endowment Lands Act 1920.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -267,8 +295,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=B71BC239AF57DE5048258E1100229EC9",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/B71BC239AF57DE5048258E1100229EC9/$File/EM%2B73-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-10/13",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-18/15"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -278,11 +309,11 @@
     "id": "wa42_capturing-child-sex-offenders-for-unlawful-consorting",
     "shortTitle": "Capturing Child Sex Offenders for Unlawful Consorting Bill",
     "fullTitle": "Capturing Child Sex Offenders for Unlawful Consorting Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 60",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill for an Act to amend the Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -292,8 +323,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=CCA3F1B69E38378448258DB8000941B3",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/CCA3F1B69E38378448258DB8000941B3/$File/EM%2B60-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-12/5"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -303,11 +336,11 @@
     "id": "wa42_cat-amendment-local-laws",
     "shortTitle": "Cat Amendment (Local Laws) Bill",
     "fullTitle": "Cat Amendment (Local Laws) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 53",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Cat Act 2011.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -317,8 +350,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0267E3C49F8D5B6448258DA800209A4F",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/0267E3C49F8D5B6448258DA800209A4F/$File/Explanatory%2BMemorandum%2B-%2BCat%2BAmendment%2B%28Local%2BLaws%29%2BBill%2B2026.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-25/8?sid=745f939c3285470097"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -328,11 +363,11 @@
     "id": "wa42_charitable-collections-amendment",
     "shortTitle": "Charitable Collections Amendment Bill",
     "fullTitle": "Charitable Collections Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 16",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to amend the Charitable Collections Act 1946.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -342,8 +377,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=C0FC3C6ECDDEF3DA48258C910036A380",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/C0FC3C6ECDDEF3DA48258C910036A380/$File/EM%2B16-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-21/40",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-09-18/16?sid=e9df863bd476431dbd"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -353,11 +391,11 @@
     "id": "wa42_civil-liability-amendment-child-sexual-abuse-actions",
     "shortTitle": "Civil Liability Amendment (Child Sexual Abuse Actions) Bill",
     "fullTitle": "Civil Liability Amendment (Child Sexual Abuse Actions) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 43",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Civil Liability Act 2002.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -367,8 +405,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=06279DFE4938B8FC48258D3F000DDB1D",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/06279DFE4938B8FC48258D3F000DDB1D/$File/EM%2B43-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-11-12/11",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-12-03/41"
+      ]
     },
     "progress": "committee-lc",
     "lastUpdated": "2026-07-13",
@@ -378,11 +419,11 @@
     "id": "wa42_climate-action-this-decade",
     "shortTitle": "Climate Action this Decade Bill",
     "fullTitle": "Climate Action this Decade Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 17",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An act to support the reduction of greenhouse gas emissions attributable to Western Australia; and to provide for Western Australia's greenhouse gas emissions reduction targets; and to provide for an emissions reduction strategy, a climate adaptation strategy and sector adaptation plans; and to provide for annual reporting to the Parliament; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -392,8 +433,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0D30BC751C7E68A148258C7D001031A0",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/0D30BC751C7E68A148258C7D001031A0/$File/EM%2B17-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-01/6"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -403,11 +446,11 @@
     "id": "wa42_collie-coal-griffin-agreement-amendment",
     "shortTitle": "Collie Coal (Griffin) Agreement Amendment Bill",
     "fullTitle": "Collie Coal (Griffin) Agreement Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 61",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to amend the Collie Coal (Griffin) Agreement Act 1979.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -417,8 +460,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DFA6A91F2F64FA1348258DA9000D8658",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/DFA6A91F2F64FA1348258DA9000D8658/$File/EM%2B61-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-02-25/11",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-03-19/16?sid=b89852df4b404f0991"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -428,11 +474,11 @@
     "id": "wa42_commonwealth-administrative-laws-amendment-updating-references",
     "shortTitle": "Commonwealth Administrative Laws Amendment (Updating References) Bill",
     "fullTitle": "Commonwealth Administrative Laws Amendment (Updating References) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 72",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend various Acts as a consequence of the enactment of the Administrative Review Tribunal Act 2024 (Cth) and its establishment of the Administrative Review Tribunal.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -442,8 +488,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=67843EE932E3FF3948258E110021FB45",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/67843EE932E3FF3948258E110021FB45/$File/EM%2B72-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-10/11"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -453,11 +501,11 @@
     "id": "wa42_conservation-and-land-management-amendment",
     "shortTitle": "Conservation and Land Management Amendment Bill",
     "fullTitle": "Conservation and Land Management Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 15",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to amend the Conservation and Land Management Act 1984.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -467,8 +515,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=A48D907C4B5846F948258C7C0027F650",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/A48D907C4B5846F948258C7C0027F650/$File/EM%2B15-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-04-30/8?sid=ea964d1b3814404686",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-05-28/9?sid=eeafb7b707fa4c3ebf"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -478,11 +529,11 @@
     "id": "wa42_construction-industry-portable-paid-long-service-leave-amendment",
     "shortTitle": "Construction Industry Portable Paid Long Service Leave Amendment Bill",
     "fullTitle": "Construction Industry Portable Paid Long Service Leave Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 24",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to amend the Construction Industry Portable Paid Long Service Leave Act 1985 and to make consequential amendments to the Building and Construction Industry Training Fund and Levy Collection Act 1990.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -492,8 +543,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=B9DC9BAC7318DF1A48258CB5001763C3",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/B9DC9BAC7318DF1A48258CB5001763C3/$File/EM%2B24-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-06-26/11",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-14/18"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -503,11 +557,11 @@
     "id": "wa42_control-of-vehicles-off-road-areas-amendment",
     "shortTitle": "Control of Vehicles (Off-road Areas) Amendment Bill",
     "fullTitle": "Control of Vehicles (Off-road Areas) Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 7",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill to amend the Control of Vehicles (Off-road Areas) Act 1978.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -517,8 +571,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=014CA9EC436B5DD448258C6700322C56",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/014CA9EC436B5DD448258C6700322C56/$File/EM%2B7-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-04-09/33",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-05-29/15"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -528,11 +585,11 @@
     "id": "wa42_crimes-at-sea-amendment",
     "shortTitle": "Crimes at Sea Amendment Bill",
     "fullTitle": "Crimes at Sea Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 45",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Crimes at Sea Act 2000.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -542,8 +599,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4D4F2DEDB25CF37748258D54000AFB61",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/4D4F2DEDB25CF37748258D54000AFB61/$File/EM%2B45-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-12-03/14?sid=4841e53cd0a0423f84"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -553,11 +612,11 @@
     "id": "wa42_criminal-code-amendment-post-and-boast-offence",
     "shortTitle": "Criminal Code Amendment (Post and Boast Offence) Bill",
     "fullTitle": "Criminal Code Amendment (Post and Boast Offence) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 25",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to amend The Criminal Code.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -567,8 +626,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4F74F26B7A18299C48258CB50017F757",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/4F74F26B7A18299C48258CB50017F757/$File/EM%2B25-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-06-26/13"
+      ]
     },
     "progress": "committee-lc",
     "lastUpdated": "2026-07-13",
@@ -578,11 +639,11 @@
     "id": "wa42_defence-west",
     "shortTitle": "Defence West Bill",
     "fullTitle": "Defence West Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 76",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to establish Defence West as a statutory authority, to make consequential amendments to various Acts, and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -592,8 +653,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=E7A509D509793E3148258E18000898FC",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/E7A509D509793E3148258E18000898FC/$File/EM%2B76-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-17/22"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -603,11 +666,11 @@
     "id": "wa42_duties-amendment",
     "shortTitle": "Duties Amendment Bill",
     "fullTitle": "Duties Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 4",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to amend the Duties Act 2008.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -617,8 +680,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D83AFDAC0B9A49D248258C67000BE0FE",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/D83AFDAC0B9A49D248258C67000BE0FE/$File/EM%2B4-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-09/12",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-22/55"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -628,11 +694,11 @@
     "id": "wa42_education-and-care-services-national-law-application",
     "shortTitle": "Education and Care Services National Law Application Bill",
     "fullTitle": "Education and Care Services National Law Application Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 13",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to apply the Education and Care Services National Law (with modifications) as a law of the State; and to repeal the Education and Care Services National Law (WA) Act 2012 and the Education and Care Services National Regulations 2012; and to make savings and transitional arrangements; and to make consequential amendments to various other Acts; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -642,8 +708,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=E77E17DF59A74F1648258C7B000FAB02",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/E77E17DF59A74F1648258C7B000FAB02/$File/EM%2B13-2%2B%28Corrected%2BVersion%29.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-30/16?sid=276d118950464af9b5",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-08-19/45"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -653,11 +722,11 @@
     "id": "wa42_electricity-industry-amendment-capital-charges",
     "shortTitle": "Electricity Industry Amendment (Capital Charges) Bill",
     "fullTitle": "Electricity Industry Amendment (Capital Charges) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 65",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Electricity Industry Act 2004.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -667,8 +736,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AAD909496801557748258DEE00244B96",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/AAD909496801557748258DEE00244B96/$File/EM%2B65-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-05-06/14",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-16/47"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -678,11 +750,11 @@
     "id": "wa42_electricity-industry-amendment-capital-charges-no-2",
     "shortTitle": "Electricity Industry Amendment (Capital Charges) Bill (No. 2)",
     "fullTitle": "Electricity Industry Amendment (Capital Charges) Bill (No. 2) 2026",
-    "billNo": "",
+    "billNo": "Bill 66",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Electricity Industry Act 2004.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -692,8 +764,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8C377600FFEA419848258DEE00259A8E",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/8C377600FFEA419848258DEE00259A8E/$File/EM%2B66-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-05-06/15",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-11/9"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -703,11 +778,11 @@
     "id": "wa42_electronic-conveyancing-national-law-application",
     "shortTitle": "Electronic Conveyancing National Law Application Bill",
     "fullTitle": "Electronic Conveyancing National Law Application Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 63",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill for an Act - to apply the Electronic Conveyancing National Law (with modifications) as a law of the State; and to repeal the Electronic Conveyancing Act 2014; and to make savings and transitional arrangements; and to make consequential amendments to other Acts; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -717,8 +792,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=6BFE92104F1E890248258DB7000D41B9",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/6BFE92104F1E890248258DB7000D41B9/$File/EM%2B63-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-11/7"
+      ]
     },
     "progress": "committee-lc",
     "lastUpdated": "2026-07-13",
@@ -728,11 +805,11 @@
     "id": "wa42_evidence",
     "shortTitle": "Evidence Bill",
     "fullTitle": "Evidence Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 9",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to provide for the law of evidence; and to repeal the Evidence Act 1906 and regulations made under that Act; and to make consequential amendments to various Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -742,8 +819,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D7B5E303FE14B96148258C7B000E0124",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/D7B5E303FE14B96148258C7B000E0124/$File/EM%2B9-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-30/12?sid=d93fb1599a094e1396",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-29/9"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -753,11 +833,11 @@
     "id": "wa42_finance-legislation-amendment-housing-affordability",
     "shortTitle": "Finance Legislation Amendment (Housing Affordability) Bill",
     "fullTitle": "Finance Legislation Amendment (Housing Affordability) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 78",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the bill is to amend: the Duties Act 2008; and the First Home Owner Grant Act 2000; and the Rates and Charges (Rebates and Deferments) Act 1992.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -767,8 +847,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FA76A0BF7539F12948258E1800185E35",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/FA76A0BF7539F12948258E1800185E35/$File/EM%2B78-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-17/21"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -778,11 +860,11 @@
     "id": "wa42_fuel-energy-and-power-resources-amendment",
     "shortTitle": "Fuel, Energy and Power Resources Amendment Bill",
     "fullTitle": "Fuel, Energy and Power Resources Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 69",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Fuel, Energy and Power Resources Act 1972.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -792,8 +874,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D5C914FE70A915F448258DED00150102",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/D5C914FE70A915F448258DED00150102/$File/EM%2B69-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-05-05/8",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-05-05/55"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -803,11 +888,11 @@
     "id": "wa42_gene-technology-western-australia-amendment",
     "shortTitle": "Gene Technology (Western Australia) Amendment Bill",
     "fullTitle": "Gene Technology (Western Australia) Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 31",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Gene Technology (Western Australia) Act 2025.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -817,8 +902,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4A1C438621802A3648258CE5001C1837",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/4A1C438621802A3648258CE5001C1837/$File/EM%2B31-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-14/16",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-11-11/56"
+      ]
     },
     "progress": "committee-lc",
     "lastUpdated": "2026-07-13",
@@ -828,11 +916,11 @@
     "id": "wa42_gene-technology-western-australia",
     "shortTitle": "Gene Technology (Western Australia) Bill",
     "fullTitle": "Gene Technology (Western Australia) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 30",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to apply the Gene Technology Act 2000 (Commonwealth) and legislative instruments under that Act as laws of the State; and to repeal the Gene Technology Act 2006 and the Gene Technology Regulations 2007; and to make consequential amendments to the Agricultural and Veterinary Chemicals (Western Australia) Act 1995; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -842,8 +930,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=603A7118795933E048258CE40025A1BB",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/603A7118795933E048258CE40025A1BB/$File/EM%2B30-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-14/15",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-11-11/55"
+      ]
     },
     "progress": "committee-lc",
     "lastUpdated": "2026-07-13",
@@ -853,11 +944,11 @@
     "id": "wa42_gold-corporation-amendment",
     "shortTitle": "Gold Corporation Amendment Bill",
     "fullTitle": "Gold Corporation Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 46",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Gold Corporation Act 1987 and to make related and consequential amendments to other Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -867,8 +958,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FFCC7193BCCAA70C48258D54000D1A20",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/FFCC7193BCCAA70C48258D54000D1A20/$File/EM%2B46-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-12-03/17?sid=f0614be153f249ada0",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-17/40"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -878,11 +972,11 @@
     "id": "wa42_help-to-buy-commonwealth-powers",
     "shortTitle": "Help to Buy (Commonwealth Powers) Bill",
     "fullTitle": "Help to Buy (Commonwealth Powers) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 35",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to adopt specified versions of the Help to Buy Act 2024 (Commonwealth) as originally enacted and as subsequently amended by any amendments enacted by the Parliament of the Commonwealth from time to time before the day on which this Act comes into operation for the purposes of section 51 (xxxvii) of the Constitution of the Commonwealth; and to refer certain matters relating to the provision of Commonwealth financial assistance under a Help to Buy arrangement for purposes of assisting individuals to buy a home to the Parliament of the Commonwealth for the purposes of section 51 (xxxvii) of the Constitution of the Commonwealth; and to make consequential amendments to the Duties Act 2008; and the First Home Owner Grant Act 2000; and to Keystart Act 2024; and the Land Tax Assessment Act 2002; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -892,8 +986,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FD10A96A287332B448258CED000412E5",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/FD10A96A287332B448258CED000412E5/$File/EM%2B35-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-08-21/6",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-12-16/12"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -903,11 +1000,11 @@
     "id": "wa42_industrial-relations-amendment",
     "shortTitle": "Industrial Relations Amendment Bill",
     "fullTitle": "Industrial Relations Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 75",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the bill is to amend the Industrial Relations Act 1979 and to make consequential amendment to the Long Service Leave Act 1958.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -917,8 +1014,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0E15134DBF52232648258E180009DE87",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/0E15134DBF52232648258E180009DE87/$File/Bill%2B75-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-17/20"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -928,11 +1027,11 @@
     "id": "wa42_judicial-commission",
     "shortTitle": "Judicial Commission Bill",
     "fullTitle": "Judicial Commission Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 80",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to, to establish the Judicial Commission; and to provide for the suspension of judicial officers in certain circumstances; and to make consequential amendments to the Constitution Act 1889, the Coroners Act 1996, the District Court of Western Australia Act 1969 and the Supreme Court Act 1935 to provide for the removal of judicial officers and for related purposes; and to make other consequential amendments to other Acts; and for related matters.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -942,8 +1041,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=942213A3CDDDD7F548258E180026A549",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/942213A3CDDDD7F548258E180026A549/$File/EM%2B80-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-17/19"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -969,22 +1070,24 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AEA659CCB5D329F848258E180008F7BB",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/AEA659CCB5D329F848258E180008F7BB/$File/EM%2B77-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-18/22"
+      ]
     },
     "progress": "second-la",
-    "lastUpdated": "2026-06-26",
+    "lastUpdated": "2026-07-13",
     "lastChecked": "2026-07-13"
   },
   {
     "id": "wa42_land-tax-assessment-amendment-build-to-rent",
     "shortTitle": "Land Tax Assessment Amendment (Build-to-Rent) Bill",
     "fullTitle": "Land Tax Assessment Amendment (Build-to-Rent) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 52",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Land Tax Assessment 2002.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -994,8 +1097,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=CB31F100AF59348C48258DA1001F7C6C",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/CB31F100AF59348C48258DA1001F7C6C/$File/EM%2B52-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-19/13",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-17/38"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1005,11 +1111,11 @@
     "id": "wa42_land-tax-assessment-amendment-native-title-settlement-exemptions",
     "shortTitle": "Land Tax Assessment Amendment (Native Title Settlement Exemptions) Bill",
     "fullTitle": "Land Tax Assessment Amendment (Native Title Settlement Exemptions) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 26",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Land Tax Assessment Act 2002.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1019,8 +1125,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DF582ED0FD7AB41548258CB300318CD4",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/DF582ED0FD7AB41548258CB300318CD4/$File/EM%2B26-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-06-26/15?sid=e6f3b768783f480e8b",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-08-20/40"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1030,11 +1139,11 @@
     "id": "wa42_land-valuers-licensing-amendment",
     "shortTitle": "Land Valuers Licensing Amendment Bill",
     "fullTitle": "Land Valuers Licensing Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 37",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Land Valuers Licensing Act 1978.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1044,8 +1153,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=7416F8632CDD9ECB48258D08002F10AF",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/7416F8632CDD9ECB48258D08002F10AF/$File/EM%2B37-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-09-18/14?sid=7768fa92eb514972ac"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -1055,11 +1166,11 @@
     "id": "wa42_legalise-cannabis-referendum",
     "shortTitle": "Legalise Cannabis (Referendum) Bill",
     "fullTitle": "Legalise Cannabis (Referendum) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 10",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to provide for a referendum on the question of legalising cannabis in specific circumstances.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1069,8 +1180,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=F9D7AD3D2A5347E948258C99000E3617",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/F9D7AD3D2A5347E948258C99000E3617/$File/EM%2B10-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-29/6"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1080,11 +1193,11 @@
     "id": "wa42_liquor-control-amendment",
     "shortTitle": "Liquor Control Amendment Bill",
     "fullTitle": "Liquor Control Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 29",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to amend the Liquor Control Act 1988 and other Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1094,8 +1207,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AEC55AA0C520B26648258CB30026C683",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/AEC55AA0C520B26648258CB30026C683/$File/EM%2B29-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-06-25/15",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-08-14/12"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1105,11 +1221,11 @@
     "id": "wa42_local-government-amendment-rating-of-certain-mining-licences",
     "shortTitle": "Local Government Amendment (Rating of Certain Mining Licences) Bill",
     "fullTitle": "Local Government Amendment (Rating of Certain Mining Licences) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 42",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Local Government Act 1995 and to make consequential amendments to the Petroleum Legislation Amendment Act 2024.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1119,8 +1235,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=3C6AE495F69939BC48258D2B00317D25",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/3C6AE495F69939BC48258D2B00317D25/$File/EM%2B42-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-10-23/17",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-11-13/46"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1130,11 +1249,11 @@
     "id": "wa42_minerals-research-institute-of-western-australia-amendment-clean-energy",
     "shortTitle": "Minerals Research Institute of Western Australia Amendment (Clean Energy) Bill",
     "fullTitle": "Minerals Research Institute of Western Australia Amendment (Clean Energy) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 27",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to amend the Mineral Research Institute of Western Australia Act 2013 and make related and consequential amendments to other Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1144,8 +1263,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=7484A704963FBB8D48258CB40019A17A",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/7484A704963FBB8D48258CB40019A17A/$File/EM%2B27-1A.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-06-26/14?sid=748e065fc6984d8f91",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-08-21/5"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1155,11 +1277,11 @@
     "id": "wa42_mining-amendment-transfer-of-royalty-administration",
     "shortTitle": "Mining Amendment (Transfer of Royalty Administration) Bill",
     "fullTitle": "Mining Amendment (Transfer of Royalty Administration) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 12",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to amend the Mining Act 1978 and the Taxation Administration Act 2003.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1169,8 +1291,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=05996DA962B8CE6E48258C7B000F30BB",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/05996DA962B8CE6E48258C7B000F30BB/$File/EM%2B12-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-30/15?sid=af7939b29fd3498d94",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-22/56"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1180,11 +1305,11 @@
     "id": "wa42_mining-amendment",
     "shortTitle": "Mining Amendment Bill",
     "fullTitle": "Mining Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 28",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to amend the Mining Act 1978 and to make consequential amendments to the Mining Legislation Amendment Act 2014.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1194,8 +1319,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DF496173F89C5E1548258CB4002666F9",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/DF496173F89C5E1548258CB4002666F9/$File/EM%2B28-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-06-26/13?sid=114376fb8dd94cc5b9",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-09-11/46"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1205,11 +1333,11 @@
     "id": "wa42_misuse-of-drugs-amendment-lawful-personal-use-of-cannabis",
     "shortTitle": "Misuse of Drugs Amendment (Lawful Personal Use of Cannabis) Bill",
     "fullTitle": "Misuse of Drugs Amendment (Lawful Personal Use of Cannabis) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 54",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill for An Act to amend the Misuse of Drugs Act 1981, to make it lawful for an adult to possess small quantities of cannabis for personal use, make it lawful for an adult to cultivate not more than six cannabis plants for personal use, permit an adult lawfully in the possession of cannabis to give the cannabis by way of a gift to another adult, and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1219,8 +1347,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=3A40421D77831BAC48258DBE000F38B8",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/3A40421D77831BAC48258DBE000F38B8/$File/EM%2B54-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-19/5"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1230,11 +1360,11 @@
     "id": "wa42_misuse-of-drugs-amendment",
     "shortTitle": "Misuse of Drugs Amendment Bill",
     "fullTitle": "Misuse of Drugs Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 18",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to amend the Misuse of Drugs Act 1981.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1244,8 +1374,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8096F9C3A0024F6B48258C99000DD949",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/8096F9C3A0024F6B48258C99000DD949/$File/EM%2B18-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-29/5"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1255,11 +1387,11 @@
     "id": "wa42_petroleum-retailers-rights-and-liabilities-repeal",
     "shortTitle": "Petroleum Retailers Rights and Liabilities Repeal Bill",
     "fullTitle": "Petroleum Retailers Rights and Liabilities Repeal Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 5",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill to repeal the Petroleum Retailers Rights and Liabilities Act 1982 and regulation made under that Act; and to make consequential amendments to the Petroleum Products Pricing Act 1983.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1269,8 +1401,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=3883424D81DC3D3F48258C6700336459",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/3883424D81DC3D3F48258C6700336459/$File/EM%2B5-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-04-09/36",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-05-28/10?sid=21b9d228621e489a8c"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1280,11 +1415,11 @@
     "id": "wa42_pilbara-port-assets-disposal-repeal",
     "shortTitle": "Pilbara Port Assets (Disposal) Repeal Bill",
     "fullTitle": "Pilbara Port Assets (Disposal) Repeal Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 20",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "An Act to repeal the Pilbara Port Assets (Disposal) Act 2016.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1294,8 +1429,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AEB5D2542E62CE0848258E1B00168D10",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/AEB5D2542E62CE0848258E1B00168D10/$File/EM%2B20-1B.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-06-26/12",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-14/17"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1305,11 +1443,11 @@
     "id": "wa42_plumbers-licensing-amendment",
     "shortTitle": "Plumbers Licensing Amendment Bill",
     "fullTitle": "Plumbers Licensing Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 33",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Plumbers Licensing Act 1995 and to make consequential amendments to other Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1319,8 +1457,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FA942BA63C86CAE848258CEB001E04DD",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/FA942BA63C86CAE848258CEB001E04DD/$File/EM%2B33-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-21/12",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-16/49"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1330,11 +1471,11 @@
     "id": "wa42_police-amendment-compensation-scheme",
     "shortTitle": "Police Amendment (Compensation Scheme) Bill",
     "fullTitle": "Police Amendment (Compensation Scheme) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 41",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Police Act 1892.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1344,8 +1485,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=4D120DC4DDCB999A48258D2B00183EFB",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/4D120DC4DDCB999A48258D2B00183EFB/$File/EM%2B41-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-10-23/16",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-12-02/56"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1355,11 +1499,11 @@
     "id": "wa42_property-industry-licensing-legislation-amendment",
     "shortTitle": "Property Industry Licensing Legislation Amendment Bill",
     "fullTitle": "Property Industry Licensing Legislation Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 71",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Real Estate and Business Agents Act 1978 and the Settlement Agents Act 1981 and for related matters.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1369,8 +1513,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=6F8F5E56059C381C48258E110019EB37",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/6F8F5E56059C381C48258E110019EB37/$File/EM%2B71-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-06-10/12"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -1380,11 +1526,11 @@
     "id": "wa42_property-law-and-electronic-transactions-legislation-amendment-electronic-mortgages",
     "shortTitle": "Property Law and Electronic Transactions Legislation Amendment (Electronic Mortgages) Bill",
     "fullTitle": "Property Law and Electronic Transactions Legislation Amendment (Electronic Mortgages) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 44",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Property Law Act 1969 and the Electronic Transactions Act 2011.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1394,8 +1540,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=8AB0B9339030D8A848258D54000DB6CD",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/8AB0B9339030D8A848258D54000DB6CD/$File/EM%2B44-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-12-03/15?sid=21c397e0fd2645e2bc"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -1405,11 +1553,11 @@
     "id": "wa42_public-and-bank-holidays-amendment",
     "shortTitle": "Public and Bank Holidays Amendment Bill",
     "fullTitle": "Public and Bank Holidays Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 38",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Public and Bank Holidays Act 1972 and the Minimum Conditions of Employment Act 1993.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1419,8 +1567,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=BBE2E54905F318A948258D08002E4F0C",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/BBE2E54905F318A948258D08002E4F0C/$File/EM%2B38-1.PDF",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-09-18/15?sid=2b65d8cccc6e463c81",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-10-23/54"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1430,11 +1581,11 @@
     "id": "wa42_public-education-endowment-repeal",
     "shortTitle": "Public Education Endowment Repeal Bill",
     "fullTitle": "Public Education Endowment Repeal Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 1",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to repeal the Public Education Endowment Act 1909, to consequentially amend certain Acts and for related matters.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1444,8 +1595,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=75B038FCB82C267948258C65001C3E4C",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/75B038FCB82C267948258C65001C3E4C/$File/EM%2B-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-10/10",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-16/48"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1455,11 +1609,11 @@
     "id": "wa42_public-health-amendment-born-equal-care-and-protection",
     "shortTitle": "Public Health Amendment (Born Equal - Care and Protection) Bill",
     "fullTitle": "Public Health Amendment (Born Equal - Care and Protection) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 50",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill to amend the Public Health Act 2016 and to make consequential amendments to various Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1469,8 +1623,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=91DFC6EBC6DDC2C848258D5C0032A44F",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/91DFC6EBC6DDC2C848258D5C0032A44F/$File/EM%2B50-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-12-11/5"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1480,11 +1636,11 @@
     "id": "wa42_public-order-legislation-amendment",
     "shortTitle": "Public Order Legislation Amendment Bill",
     "fullTitle": "Public Order Legislation Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 55",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend The Criminal Code and the Public Order in Streets Act 1984.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1494,8 +1650,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DFB6A3CFA9EF40D248258DA10019D6D7",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/DFB6A3CFA9EF40D248258DA10019D6D7/$File/EM%2B55-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-18/12",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-02-26/47"
+      ]
     },
     "progress": "committee-lc",
     "lastUpdated": "2026-07-13",
@@ -1505,11 +1664,11 @@
     "id": "wa42_public-sector-management-amendment",
     "shortTitle": "Public Sector Management Amendment Bill",
     "fullTitle": "Public Sector Management Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 51",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Public Sector Management Act 1994.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1519,8 +1678,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=7741F9C2DAABFAF648258DA1001FC54E",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/7741F9C2DAABFAF648258DA1001FC54E/$File/EM%2B51-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-19/14",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-05-06/47"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1530,11 +1692,11 @@
     "id": "wa42_public-works-amendment-delegations",
     "shortTitle": "Public Works Amendment (Delegations) Bill",
     "fullTitle": "Public Works Amendment (Delegations) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 49",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Public Works Act 1902.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1544,8 +1706,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=AF4EA4922243B2BB48258D54000B639C",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/AF4EA4922243B2BB48258D54000B639C/$File/EM%2B49-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-12-03/16?sid=d31d1ef1fb4b4cfe98",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-17/37"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1555,11 +1720,11 @@
     "id": "wa42_rail-safety-national-law-application-amendment-rolling-stock-lighting",
     "shortTitle": "Rail Safety National Law Application Amendment (Rolling Stock Lighting) Bill",
     "fullTitle": "Rail Safety National Law Application Amendment (Rolling Stock Lighting) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 74",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Rail Safety National Law Application Act 2024.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1569,7 +1734,7 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=84230A11F279624448258E11002326A4",
-      "em": "",
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/84230A11F279624448258E11002326A4/$File/EM%2B74-1.pdf",
       "hansard": []
     },
     "progress": "introduced-la",
@@ -1580,11 +1745,11 @@
     "id": "wa42_railway-roy-hill-infrastructure-pty-ltd-agreement-amendment",
     "shortTitle": "Railway (Roy Hill Infrastructure Pty Ltd) Agreement Amendment Bill",
     "fullTitle": "Railway (Roy Hill Infrastructure Pty Ltd) Agreement Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 14",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this Bill is to amend the Railway (Roy Hill Infrastructure Pty Ltd) Agreement Act 2010.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1594,8 +1759,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FCB464D1439F42F148258C7B001005C4",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/FCB464D1439F42F148258C7B001005C4/$File/EM%2B14-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-30/11?sid=5521fe26ef014422b6",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-05-22/57"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1605,11 +1773,11 @@
     "id": "wa42_reserves",
     "shortTitle": "Reserves Bill",
     "fullTitle": "Reserves Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 8",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill to reserve land for the purposes of national parks, conservation parks and other purposes; and to change classification or purpose of certain reserves; and to excise certain areas of land from reserves; and to effect other changes to land; and to amend the Reserves (National Parks, Conservation Parks, Nature Reserves and Other Reserves) Act 2004 consequentially.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1619,8 +1787,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=9E214DE71B6CDA2148258C670032A254",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/9E214DE71B6CDA2148258C670032A254/$File/EM%2B8-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-04-09/34",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-05-22/24?sid=a63a52be4a074eeb91"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1630,11 +1801,11 @@
     "id": "wa42_residential-tenancies-amendment-rent-cap",
     "shortTitle": "Residential Tenancies Amendment (Rent Cap) Bill",
     "fullTitle": "Residential Tenancies Amendment (Rent Cap) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 70",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Residential Tenancies Act 1987.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1644,8 +1815,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=F0601D510A1FA81E48258DEE0032DBE0",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/F0601D510A1FA81E48258DEE0032DBE0/$File/EM%2B70-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-05-07/7"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1655,11 +1828,11 @@
     "id": "wa42_retail-barring-orders",
     "shortTitle": "Retail Barring Orders Bill",
     "fullTitle": "Retail Barring Orders Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 47",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to provide for orders to prevent people from committing retail violence or otherwise stalking or harassing retail workers by imposing restraints on their behaviour and activities; and to make related amendments to the Children’s Court of Western Australia Act 1988 and the Courts and Tribunals (Electronic Processes Facilitation) Act 2013; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1669,8 +1842,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=E606BBEDF543065648258D54000C0BF3",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/E606BBEDF543065648258D54000C0BF3/$File/EM%2B47-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-12-03/13?sid=be34aebd4b2f462082",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-17/39"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1680,11 +1856,11 @@
     "id": "wa42_road-traffic-amendment-disqualification-notices",
     "shortTitle": "Road Traffic Amendment (Disqualification Notices) Bill",
     "fullTitle": "Road Traffic Amendment (Disqualification Notices) Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 57",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Road Traffic Act 1974 and to make consequential amendments to other Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1694,8 +1870,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=FCFDE769D6B4D5C048258DA80020761F",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/FCFDE769D6B4D5C048258DA80020761F/$File/Explanatory%2BMemorandum%2BRTA%2BBill.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-25/7?sid=390fbc93e2054f4dae",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-19/48"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1705,11 +1884,11 @@
     "id": "wa42_salaries-and-allowances-amendment",
     "shortTitle": "Salaries and Allowances Amendment Bill",
     "fullTitle": "Salaries and Allowances Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 21",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Salaries and Allowances Act 1975 and to make consequential amendment to the Constitution Acts Amendment Act 1899.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1719,8 +1898,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=EF00F59B0082D75B48258CAB0027ACAB",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/EF00F59B0082D75B48258CAB0027ACAB/$File/EM%2B21-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-06-17/10?sid=f7bff48fb53849b7a2",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-06-17/46"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1730,11 +1912,11 @@
     "id": "wa42_sports-and-entertainment-trust",
     "shortTitle": "Sports and Entertainment Trust Bill",
     "fullTitle": "Sports and Entertainment Trust Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 39",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to establish the Sports and Entertainment Trust; and to repeal the Western Australian Sports Centre Trust Act 1986 and the Western Australian Sports Centre Trust (Traffic) Regulations 2017; and to make consequential amendments to various Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1744,8 +1926,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=ED629AB2E188687248258D0800385504",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/ED629AB2E188687248258D0800385504/$File/EM%2B39-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-09-18/13?sid=7c6eb288955944d899",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-06-18/16"
+      ]
     },
     "progress": "second-lc",
     "lastUpdated": "2026-07-13",
@@ -1755,11 +1940,11 @@
     "id": "wa42_state-development",
     "shortTitle": "State Development Bill",
     "fullTitle": "State Development Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 36",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to establish and make provision for the office of Coordinator General; and to provide a framework for the coordination, facilitation and promotion of development and activities of strategic or economic significance to the State; and to make related and consequential amendments to other Acts; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1769,8 +1954,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=58F9DABA0B07B8B848258D01000792F4",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/58F9DABA0B07B8B848258D01000792F4/$File/EM%2B36-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-09-10/10",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-10-16/54"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1780,11 +1968,11 @@
     "id": "wa42_statutes-repeals-and-minor-amendments",
     "shortTitle": "Statutes (Repeals and Minor Amendments) Bill",
     "fullTitle": "Statutes (Repeals and Minor Amendments) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 2",
     "originHouse": "LC",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "A Bill is to repeal various obsolete Acts; repeal various obsolete Imperial Acts or provisions of them in so far as they are part of the law of Western Australia; and make minor amendments to various Acts.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1794,8 +1982,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=DA82D61266F31B3348258C660035280D",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/DA82D61266F31B3348258C660035280D/$File/EM%2B2-1.002.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-04-09/37",
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-21/14"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1805,11 +1996,11 @@
     "id": "wa42_terrorism-legislation-amendment-extension-of-expiry",
     "shortTitle": "Terrorism Legislation Amendment (Extension of Expiry) Bill",
     "fullTitle": "Terrorism Legislation Amendment (Extension of Expiry) Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 34",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Terrorism (Extraordinary Powers) Act 2005 and the Terrorism (Preventative Detention) Act 2006.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1819,8 +2010,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=0988C34386CFEA1148258CEB001CDF59",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/0988C34386CFEA1148258CEB001CDF59/$File/EM%2B34-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-08-20/15",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-09-10/40"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1830,11 +2024,11 @@
     "id": "wa42_tobacco-products-control-amendment",
     "shortTitle": "Tobacco Products Control Amendment Bill",
     "fullTitle": "Tobacco Products Control Amendment Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 56",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to amend the Tobacco Products Control Act 2006 and to make a consequential amendment to the Misuse of Drugs Act 1981.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1844,8 +2038,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=89531C44FF12947E48258DA10024DDC7",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/89531C44FF12947E48258DA10024DDC7/$File/EM%2B56-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-18/13",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-02-26/46"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1855,11 +2052,11 @@
     "id": "wa42_treasurers-advance-authorisation",
     "shortTitle": "Treasurer's Advance Authorisation Bill",
     "fullTitle": "Treasurer's Advance Authorisation Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 3",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of the Bill is to authorise expenditure in the financial year ending on 30 June 2025 to make certain payments or to make advances for certain purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1869,8 +2066,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=5B9604E3E1CE72AE48258C65001DEB22",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/5B9604E3E1CE72AE48258C65001DEB22/$File/EM%2B3-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-04-09/13",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2025-04-09/38"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1880,11 +2080,11 @@
     "id": "wa42_treasurers-advance-authorisation-2026",
     "shortTitle": "Treasurer's Advance Authorisation Bill",
     "fullTitle": "Treasurer's Advance Authorisation Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 62",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to authorise expenditure in the financial year ending on 30 June 2026 to make certain payments or to make advances for certain purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1894,8 +2094,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=D667A797272E2E2748258DA8001FC2B8",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/D667A797272E2E2748258DA8001FC2B8/$File/Treasurer%2Bs%2BAdvance%2BAuthorisation%2BBill%2B2026%2B-%2BExplanatory%2BMemorandum.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-02-25/4?sid=4d060e08c72d49f79c",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-19/47"
+      ]
     },
     "progress": "assented",
     "lastUpdated": "2026-07-13",
@@ -1905,11 +2108,11 @@
     "id": "wa42_westport",
     "shortTitle": "Westport Bill",
     "fullTitle": "Westport Bill 2026",
-    "billNo": "",
+    "billNo": "Bill 59",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to establish a State agency responsible for the planning, construction and development of a container terminal in and adjacent to the Port of Fremantle and of associated infrastructure and facilities; and to make consequential amendments to other written laws; and for related purposes.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1919,8 +2122,10 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=04636F20E1F2894748258DB600191E42",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/04636F20E1F2894748258DB600191E42/$File/EM%2B59-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-03-11/5?sid=b54ea88b299841348c"
+      ]
     },
     "progress": "second-la",
     "lastUpdated": "2026-07-13",
@@ -1930,11 +2135,11 @@
     "id": "wa42_working-with-children-screening-amendment",
     "shortTitle": "Working with Children (Screening) Amendment Bill",
     "fullTitle": "Working with Children (Screening) Amendment Bill 2025",
-    "billNo": "",
+    "billNo": "Bill 48",
     "originHouse": "LA",
     "portfolio": "",
     "topics": [],
-    "summary": "",
+    "summary": "The purpose of this bill is to amend the Working with Children (Screening) Act 2004.",
     "whyItMatters": "",
     "watching": false,
     "bevanVote": {
@@ -1944,8 +2149,11 @@
     "amendments": [],
     "links": {
       "parliament": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm&ParentUNID=C0F2C2C73261AAE048258D54002EAF02",
-      "em": "",
-      "hansard": []
+      "em": "https://www.parliament.wa.gov.au/Parliament/Bills.nsf/C0F2C2C73261AAE048258D54002EAF02/$File/EM%2B48-1.pdf",
+      "hansard": [
+        "https://www.parliament.wa.gov.au/hansard/daily/lh/2025-12-04/24?sid=f3ee554134e4492ca5",
+        "https://www.parliament.wa.gov.au/hansard/daily/uh/2026-03-11/42"
+      ]
     },
     "progress": "committee-lc",
     "lastUpdated": "2026-07-13",
