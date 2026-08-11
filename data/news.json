@@ -1,4 +1,24 @@
 {
+  "id": "2026-07-10_hope-is-not-a-biosecurity-strategy",
+  "iso": "2026-07-10",
+  "outlet": "Australian Rural & Regional News",
+  "author": "Trevor Whittington",
+  "title": "Hope is not a biosecurity strategy.",
+  "url": "https://arr.news/2026/07/10/hope-is-not-a-biosecurity-strategy/",
+  "portfolios": ["Regional WA", "Environment"],
+  "overview": "With DPIRD's biosecurity budget forecast to fall from $833 million to $467 million within five years, is hope now the Government's entire strategy for keeping pests and disease out of WA?",
+  "quotes": [
+    "Biosecurity is simple: it keeps pests out of crops, workers in jobs and food on shelves. When it works, no-one notices. When it fails, the damage can last for decades, maybe even forever.",
+    "Government should invest before a crisis, not after it.",
+    "We remain one of the last major varroa-free jurisdictions in Australia.",
+    "Preparedness is not a plan on a shelf. It is the surveillance and technology in place before an incursion, not after.",
+    "Without healthy bees, avocado crops, pome crops and stone-fruit crops are all at risk.",
+    "With varroa, we still have a chance, and the Government should take it.",
+    "The people who feed, clothe and sustain this State deserve better. They deserve a government that invests in prevention."
+  ],
+  "thread": "biosecurity"
+}
+{
   "releases": [
     {
       "id": "2026-06-04_don-t-make-wa-wine-the-next-casualty-of",
