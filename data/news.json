@@ -1,34 +1,11 @@
 {
-  "id": "2026-07-10_hope-is-not-a-biosecurity-strategy",
-  "iso": "2026-07-10",
-  "outlet": "Australian Rural & Regional News",
-  "author": "Trevor Whittington",
-  "title": "Hope is not a biosecurity strategy.",
-  "url": "https://arr.news/2026/07/10/hope-is-not-a-biosecurity-strategy/",
-  "portfolios": ["Regional WA", "Environment"],
-  "overview": "With DPIRD's biosecurity budget forecast to fall from $833 million to $467 million within five years, is hope now the Government's entire strategy for keeping pests and disease out of WA?",
-  "quotes": [
-    "Biosecurity is simple: it keeps pests out of crops, workers in jobs and food on shelves. When it works, no-one notices. When it fails, the damage can last for decades, maybe even forever.",
-    "Government should invest before a crisis, not after it.",
-    "We remain one of the last major varroa-free jurisdictions in Australia.",
-    "Preparedness is not a plan on a shelf. It is the surveillance and technology in place before an incursion, not after.",
-    "Without healthy bees, avocado crops, pome crops and stone-fruit crops are all at risk.",
-    "With varroa, we still have a chance, and the Government should take it.",
-    "The people who feed, clothe and sustain this State deserve better. They deserve a government that invests in prevention."
-  ],
-  "thread": "biosecurity"
-}
-{
   "releases": [
     {
       "id": "2026-06-04_don-t-make-wa-wine-the-next-casualty-of",
       "iso": "2026-06-04",
       "title": "Don't make WA wine the next casualty of rising costs.",
       "url": "/s/2026-06-04-dont-make-wa-wine-next-casualty.pdf",
-      "portfolios": [
-        "Environment",
-        "Regional WA"
-      ],
+      "portfolios": ["Environment", "Regional WA"],
       "summary": "Bevan warns against loading new container-scheme costs onto WA's wine industry while it is already under pressure, and calls for a fairer approach that does not make local producers go first.",
       "thread": "container-deposit-scheme"
     },
@@ -37,10 +14,7 @@
       "iso": "2026-06-02",
       "title": "WA wine producers support recycling, but let's do it properly.",
       "url": "/s/2026-06-02-wa-wine-producers-support-recycling.pdf",
-      "portfolios": [
-        "Environment",
-        "Regional WA"
-      ],
+      "portfolios": ["Environment", "Regional WA"],
       "summary": "WA wine producers back recycling, but Bevan argues the scheme must be designed properly so it does not unfairly burden small local wineries.",
       "thread": "container-deposit-scheme"
     },
@@ -49,9 +23,7 @@
       "iso": "2026-03-11",
       "title": "Federal aged care funding.",
       "url": "/s/2026-03-11-federal-aged-care-funding.pdf",
-      "portfolios": [
-        "Aged Care"
-      ],
+      "portfolios": ["Aged Care"],
       "thread": "regional-aged-care",
       "summary": "Bevan's statement on federal aged care funding and what it means for older people in regional WA."
     },
@@ -60,10 +32,7 @@
       "iso": "2026-02-19",
       "title": "Government finally acts on free RSV vaccines after sustained pressure.",
       "url": "/s/2026-02-19-government-acts-free-rsv-vaccines.pdf",
-      "portfolios": [
-        "Health",
-        "Aged Care"
-      ],
+      "portfolios": ["Health", "Aged Care"],
       "summary": "After sustained pressure, the Government moves to provide free RSV vaccines, a change Bevan had been pushing for to protect vulnerable and older people."
     },
     {
@@ -71,9 +40,7 @@
       "iso": "2026-02-05",
       "title": "Delays, rigid rules and rising pressure are failing WA seniors.",
       "url": "/s/2026-02-05-delays-rigid-rules-failing-wa-seniors.pdf",
-      "portfolios": [
-        "Aged Care"
-      ],
+      "portfolios": ["Aged Care"],
       "thread": "regional-aged-care",
       "summary": "Bevan sets out how delays and rigid rules in the aged care system are failing WA seniors, and calls for practical fixes."
     },
@@ -82,10 +49,7 @@
       "iso": "2025-12-15",
       "title": "WA government still carting water to the state's wettest towns.",
       "url": "/s/2025-12-15-wa-government-still-carting-water.pdf",
-      "portfolios": [
-        "Regional WA",
-        "Infrastructure"
-      ],
+      "portfolios": ["Regional WA", "Infrastructure"],
       "summary": "Bevan questions why the Government is still trucking in water to some of the state's wettest towns instead of investing in reliable local supply.",
       "thread": "town-water"
     },
@@ -94,10 +58,7 @@
       "iso": "2025-11-19",
       "title": "State housing failure pushing the regional workforce out.",
       "url": "/s/2025-11-19-state-housing-failure.pdf",
-      "portfolios": [
-        "Regional WA",
-        "Housing"
-      ],
+      "portfolios": ["Regional WA", "Housing"],
       "summary": "Bevan warns that the shortage of housing is driving workers out of the regions, and presses the Government to act."
     },
     {
@@ -105,10 +66,7 @@
       "iso": "2025-11-12",
       "title": "Regional women left behind by WA Labor's inaction.",
       "url": "/s/2025-11-12-regional-women-left-behind-by-wa-labor-inaction.pdf",
-      "portfolios": [
-        "Regional WA",
-        "Community Safety"
-      ],
+      "portfolios": ["Regional WA", "Community Safety"],
       "summary": "Bevan highlights how government inaction is leaving regional women without the services and safety they need.",
       "thread": "womens-refuge"
     },
@@ -117,10 +75,7 @@
       "iso": "2025-11-03",
       "title": "Aged care pricing review puts regional seniors at risk.",
       "url": "/s/2025-11-03-aged-care-pricing-review-puts-regional-seniors-at-risk.pdf",
-      "portfolios": [
-        "Aged Care",
-        "Regional WA"
-      ],
+      "portfolios": ["Aged Care", "Regional WA"],
       "thread": "regional-aged-care",
       "summary": "Bevan warns that an aged care pricing review could put regional seniors at greater risk, and calls for regional needs to be protected."
     },
@@ -129,10 +84,7 @@
       "iso": "2025-10-20",
       "title": "Aged care shake-up will gut regional services.",
       "url": "/s/2025-10-20-aged-care-shake-up-will-gut-regional-services.pdf",
-      "portfolios": [
-        "Aged Care",
-        "Regional WA"
-      ],
+      "portfolios": ["Aged Care", "Regional WA"],
       "thread": "regional-aged-care",
       "summary": "Bevan warns that changes to aged care will strip services from the regions, and calls for regional care to be safeguarded."
     },
@@ -141,9 +93,7 @@
       "iso": "2025-10-13",
       "title": "Local MP welcomes Leader's visit.",
       "url": "/s/2025-10-13-local-mp-welcomes-leaders-visit.pdf",
-      "portfolios": [
-        "Regional WA"
-      ],
+      "portfolios": ["Regional WA"],
       "summary": "Bevan welcomes a visit to Warren-Blackwood by the Nationals Leader to hear directly from local people and communities."
     },
     {
@@ -151,10 +101,7 @@
       "iso": "2025-09-24",
       "title": "Scott River wind farm.",
       "url": "/s/2025-09-24-scott-river-wind-farm.pdf",
-      "portfolios": [
-        "Environment",
-        "Regional WA"
-      ],
+      "portfolios": ["Environment", "Regional WA"],
       "summary": "Bevan's statement on the proposed Scott River wind farm and what it means for the local community and environment."
     },
     {
@@ -162,10 +109,7 @@
       "iso": "2025-09-19",
       "title": "RSV vaccine to free up WA hospital beds.",
       "url": "/s/2025-09-19-rsv-vaccine-free-up-wa-hospital-beds.pdf",
-      "portfolios": [
-        "Health",
-        "Aged Care"
-      ],
+      "portfolios": ["Health", "Aged Care"],
       "summary": "Bevan makes the case that funding RSV vaccines would ease pressure on WA hospital beds and protect vulnerable patients."
     },
     {
@@ -173,10 +117,7 @@
       "iso": "2025-09-10",
       "title": "Regional schools in crisis.",
       "url": "/s/2025-09-10-regional-schools-in-crisis.pdf",
-      "portfolios": [
-        "Education",
-        "Regional WA"
-      ],
+      "portfolios": ["Education", "Regional WA"],
       "summary": "Bevan sets out the pressures facing regional schools and calls on the Government to properly resource them.",
       "thread": "regional-schools"
     },
@@ -185,10 +126,7 @@
       "iso": "2025-08-27",
       "title": "Aged care crisis strands WA patients.",
       "url": "/s/2025-08-27-aged-care-crisis-strands-wa-patients.pdf",
-      "portfolios": [
-        "Aged Care",
-        "Health"
-      ],
+      "portfolios": ["Aged Care", "Health"],
       "thread": "aged-care-in-hospital",
       "summary": "Bevan warns that the aged care shortage is leaving patients stuck in hospital because there is nowhere suitable for them to go."
     },
@@ -197,10 +135,7 @@
       "iso": "2025-08-22",
       "title": "Worsening hospital pressures across the South West.",
       "url": "/s/2025-08-22-worsening-hospital-pressures-southwest.pdf",
-      "portfolios": [
-        "Health",
-        "Regional WA"
-      ],
+      "portfolios": ["Health", "Regional WA"],
       "summary": "Bevan highlights worsening hospital pressures across the South West and presses the Government for action."
     },
     {
@@ -208,10 +143,7 @@
       "iso": "2025-08-22",
       "title": "Regional schools left behind.",
       "url": "/s/2025-08-22-regional-schools-left-behind.pdf",
-      "portfolios": [
-        "Education",
-        "Regional WA"
-      ],
+      "portfolios": ["Education", "Regional WA"],
       "summary": "Bevan argues that regional schools are being left behind and calls for fairer support and resourcing.",
       "thread": "regional-schools"
     },
@@ -220,10 +152,7 @@
       "iso": "2025-08-20",
       "title": "Urgent aged-care reform needed to relieve regional hospital gridlock.",
       "url": "/s/2025-08-20-urgent-aged-care-reform-regional-hospital-gridlock.pdf",
-      "portfolios": [
-        "Aged Care",
-        "Health"
-      ],
+      "portfolios": ["Aged Care", "Health"],
       "thread": "aged-care-in-hospital",
       "summary": "Bevan calls for urgent aged care reform to relieve the gridlock it is causing in regional hospitals."
     },
@@ -232,9 +161,7 @@
       "iso": "2025-07-07",
       "title": "Firearms Act 2024 review.",
       "url": "/s/2025-07-07-firearms-act-2024-review.pdf",
-      "portfolios": [
-        "Community Safety"
-      ],
+      "portfolios": ["Community Safety"],
       "thread": "firearms-regulations",
       "summary": "Bevan's response to the review of the Firearms Act 2024 and what it means for lawful firearm owners in the regions."
     },
@@ -243,10 +170,7 @@
       "iso": "2025-07-03",
       "title": "Shot hole borer.",
       "url": "/s/2025-07-03-shot-hole-borer.pdf",
-      "portfolios": [
-        "Environment",
-        "Forestry"
-      ],
+      "portfolios": ["Environment", "Forestry"],
       "summary": "Bevan raises the threat the shot-hole borer poses to WA's trees and calls for a proper, well-resourced response.",
       "thread": "biosecurity"
     },
@@ -255,9 +179,7 @@
       "iso": "2025-06-24",
       "title": "Budget response.",
       "url": "/s/2025-06-24-budget-response.pdf",
-      "portfolios": [
-        "Regional WA"
-      ],
+      "portfolios": ["Regional WA"],
       "summary": "Bevan's response to the State Budget and what it delivers, or fails to deliver, for Warren-Blackwood."
     },
     {
@@ -265,9 +187,7 @@
       "iso": "2025-06-17",
       "title": "Disallowance of the CALM Bill.",
       "url": "/s/2025-06-17-disallowance-of-calm-bill.pdf",
-      "portfolios": [
-        "Forestry"
-      ],
+      "portfolios": ["Forestry"],
       "thread": "forestry",
       "summary": "Bevan's statement on the move to disallow the CALM Bill and what it means for forestry and land management in WA."
     },
@@ -284,10 +204,7 @@
       "iso": "2025-05-14",
       "title": "Crisis housing.",
       "url": "/s/2025-05-14-crisis-housing.pdf",
-      "portfolios": [
-        "Housing",
-        "Regional WA"
-      ],
+      "portfolios": ["Housing", "Regional WA"],
       "summary": "Bevan presses the case for crisis and emergency housing in the region for people with nowhere else to turn."
     },
     {
@@ -295,10 +212,7 @@
       "iso": "2025-05-07",
       "title": "Smarter, fairer fire management.",
       "url": "/s/2025-05-07-smarter-fairer-fire-management.pdf",
-      "portfolios": [
-        "Forestry",
-        "Environment"
-      ],
+      "portfolios": ["Forestry", "Environment"],
       "summary": "Bevan sets out a smarter, fairer approach to bushfire management for the South West."
     },
     {
@@ -306,10 +220,7 @@
       "iso": "2026-03-30",
       "title": "Shifting the burden: are we really improving environmental outcomes?",
       "url": "/s/2026-03-30-are-we-really-improving-environmental-outcomes.pdf",
-      "portfolios": [
-        "Forestry",
-        "Environment"
-      ],
+      "portfolios": ["Forestry", "Environment"],
       "kind": "opinion",
       "summary": "In this opinion piece, Bevan asks whether current environmental policy is genuinely improving outcomes or just shifting the burden onto the regions."
     },
@@ -318,10 +229,7 @@
       "iso": "2026-01-10",
       "title": "If we don't fix home care, WA's health system will pay the price.",
       "url": "/s/2026-01-10-if-we-dont-fix-home-care.pdf",
-      "portfolios": [
-        "Aged Care",
-        "Health"
-      ],
+      "portfolios": ["Aged Care", "Health"],
       "kind": "opinion",
       "thread": "regional-aged-care",
       "summary": "In this opinion piece, Bevan argues that fixing home care is essential to relieving pressure on WA's whole health system."
@@ -329,16 +237,33 @@
   ],
   "media": [
     {
+      "id": "2026-07-10_hope-is-not-a-biosecurity-strategy",
+      "iso": "2026-07-10",
+      "outlet": "Australian Rural & Regional News",
+      "author": "Trevor Whittington",
+      "title": "Hope is not a biosecurity strategy.",
+      "url": "https://arr.news/2026/07/10/hope-is-not-a-biosecurity-strategy/",
+      "portfolios": ["Regional WA", "Environment"],
+      "overview": "With DPIRD's biosecurity budget forecast to fall from $833 million to $467 million within five years, is hope now the Government's entire strategy for keeping pests and disease out of WA?",
+      "quotes": [
+        "Biosecurity is simple: it keeps pests out of crops, workers in jobs and food on shelves. When it works, no-one notices. When it fails, the damage can last for decades, maybe even forever.",
+        "Government should invest before a crisis, not after it.",
+        "We remain one of the last major varroa-free jurisdictions in Australia.",
+        "Preparedness is not a plan on a shelf. It is the surveillance and technology in place before an incursion, not after.",
+        "Without healthy bees, avocado crops, pome crops and stone-fruit crops are all at risk.",
+        "With varroa, we still have a chance, and the Government should take it.",
+        "The people who feed, clothe and sustain this State deserve better. They deserve a government that invests in prevention."
+      ],
+      "thread": "biosecurity"
+    },
+    {
       "id": "2026-07-02_mla-calls-for-wine-bottles-exemption",
       "iso": "2026-07-02",
       "outlet": "Denmark Bulletin",
       "author": "",
       "title": "MLA calls for wine bottles exemption.",
       "url": "",
-      "portfolios": [
-        "Environment",
-        "Regional WA"
-      ],
+      "portfolios": ["Environment", "Regional WA"],
       "overview": "Coverage of Bevan's call to pause the Container Deposit Scheme's expansion to wine and spirits so WA producers are not forced to carry the cost of going first.",
       "quotes": [
         "WA should align with the national timetable instead of forcing local producers to carry the cost of going first."
@@ -352,10 +277,7 @@
       "author": "",
       "title": "Bevan Eatts visits Walpole.",
       "url": "",
-      "portfolios": [
-        "Aged Care",
-        "Regional WA"
-      ],
+      "portfolios": ["Aged Care", "Regional WA"],
       "thread": "aged-care-in-hospital",
       "overview": "On a visit to Walpole, the Shadow Minister for Aged Care warns that aged care shortages are now reaching into the wider health system, so when will the Government act to relieve them?"
     },
@@ -366,10 +288,7 @@
       "author": "Serian Lockwood-Jones",
       "title": "Producers in fear of wine bottle refund cost.",
       "url": "",
-      "portfolios": [
-        "Environment",
-        "Regional WA"
-      ],
+      "portfolios": ["Environment", "Regional WA"],
       "overview": "With wine and spirits bottles entering Containers for Change and WA moving first, will small family wineries be forced to carry a cost they cannot pass on to consumers?",
       "thread": "container-deposit-scheme"
     },
@@ -380,10 +299,7 @@
       "author": "",
       "title": "Regional WA faces tight aged care capacity.",
       "url": "",
-      "portfolios": [
-        "Aged Care",
-        "Regional WA"
-      ],
+      "portfolios": ["Aged Care", "Regional WA"],
       "thread": "aged-care-in-hospital",
       "overview": "With the Department's own data showing WA bed numbers falling as demand climbs, is regional aged care still a future risk or already a present-day crisis?",
       "quotes": [
@@ -397,10 +313,7 @@
       "author": "Oliver Lane",
       "title": "Ministers dismiss MP's claim that region lacks FDV refuges.",
       "url": "",
-      "portfolios": [
-        "Community Safety",
-        "Regional WA"
-      ],
+      "portfolios": ["Community Safety", "Regional WA"],
       "overview": "After a costed business plan, why does the centre of the electorate still have no family and domestic violence refuge?",
       "quotes": [
         "We've got some costings of around $1 million to $1.5 million per annum.",
@@ -415,10 +328,7 @@
       "author": "Madelin Hayes and Craig Duncan",
       "title": "Shire president shines light on Budget misses.",
       "url": "",
-      "portfolios": [
-        "Regional WA",
-        "Health"
-      ],
+      "portfolios": ["Regional WA", "Health"],
       "overview": "As Margaret River's growth outpaces its hospital and schools, did one of WA's fastest-growing regions get its fair share of the Budget?",
       "quotes": [
         "There is not a single refuge from Denmark to Margaret River for women and children escaping family and domestic violence.",
@@ -432,10 +342,7 @@
       "author": "Madelin Hayes",
       "title": "Bowser fuels gridlock fears.",
       "url": "https://www.swtimes.com.au/news/south-western-times/cowaramup-residents-tell-petrol-station-to-moove-on-in-light-of-traffic-pedestrian-concerns-c-22276479",
-      "portfolios": [
-        "Regional WA",
-        "Infrastructure"
-      ],
+      "portfolios": ["Regional WA", "Infrastructure"],
       "overview": "Is a proposed Cowaramup service station being assessed transparently, with the traffic and planning reports the public needs before submissions close?",
       "quotes": [
         "This isn't about taking sides on the proposal itself.",
@@ -449,10 +356,7 @@
       "author": "Craig Duncan",
       "title": "Timber towns 'not on radar'.",
       "url": "",
-      "portfolios": [
-        "Regional WA",
-        "Health"
-      ],
+      "portfolios": ["Regional WA", "Health"],
       "overview": "With a $3.5 billion surplus on the books, what does this Budget actually deliver for the timber towns on hospitals, housing and safer roads?",
       "quotes": [
         "Despite a $3.5 billion surplus, there is virtually nothing in this Budget for the people of Warren-Blackwood.",
@@ -467,10 +371,7 @@
       "author": "",
       "title": "Manjimup Shire Bulletin.",
       "url": "",
-      "portfolios": [
-        "Community Safety",
-        "Regional WA"
-      ],
+      "portfolios": ["Community Safety", "Regional WA"],
       "overview": "With the local shire publicly backing his push, when will the Government fund the family and domestic violence accommodation the region still lacks?",
       "thread": "womens-refuge"
     },
@@ -482,10 +383,7 @@
       "title": "Regional ambulance crews shouldn't have to fundraise for a new ambulance.",
       "url": "PASTE_YOUTUBE_LINK_HERE",
       "medium": "radio",
-      "portfolios": [
-        "Health",
-        "Regional WA"
-      ],
+      "portfolios": ["Health", "Regional WA"],
       "overview": "When city ambulance services are funded outright, why are regional St John volunteers still holding sausage sizzles to buy equipment, and even new ambulances?",
       "quotes": [
         "They're more than the backbone, they're the heart of some of the regional areas.",
@@ -499,11 +397,7 @@
       "author": "Warren Hately",
       "title": "Crisis accommodation capacity now dire as population and concerns skyrocket across Augusta-Margaret River.",
       "url": "https://thewest.com.au/news/augusta-margaret-river-times/crisis-accommodation-capacity-now-dire-as-population-and-concerns-skyrocket-across-augusta-margaret-river-c-19743812",
-      "portfolios": [
-        "Community Safety",
-        "Housing",
-        "Regional WA"
-      ],
+      "portfolios": ["Community Safety", "Housing", "Regional WA"],
       "overview": "With the nearest women's refuge 40 minutes away and Busselton and Bunbury services at capacity, will the Government fund crisis accommodation closer to Margaret River?",
       "quotes": [
         "I'm fully aware of how urgent this situation is.",
@@ -518,10 +412,7 @@
       "author": "Warren Hately",
       "title": "Labor claims on Margaret River Senior High School under fire yet again as students go begging.",
       "url": "https://thewest.com.au/news/augusta-margaret-river-times/labor-claims-on-margaret-river-senior-high-school-under-fire-yet-again-as-students-go-begging-c-19300635",
-      "portfolios": [
-        "Education",
-        "Regional WA"
-      ],
+      "portfolios": ["Education", "Regional WA"],
       "thread": "mrshs",
       "overview": "Will the Government fund and deliver the overdue stage two expansion of Margaret River Senior High School, or keep crediting old work as enrolments outgrow the school?",
       "quotes": [
@@ -536,10 +427,7 @@
       "author": "Craig Duncan",
       "title": "Logging law a 'betrayal' to regions and forestry.",
       "url": "",
-      "portfolios": [
-        "Forestry",
-        "Regional WA"
-      ],
+      "portfolios": ["Forestry", "Regional WA"],
       "thread": "forestry",
       "overview": "Is banning native timber harvesting sound conservation, or a political call that costs the regions jobs, bushfire response and a certified industry?",
       "quotes": [
@@ -554,10 +442,7 @@
       "author": "Chela Williams, Jacqueline Lynch and Stan Shaw",
       "title": "'Burnt-out' country volunteers fundraising for a new ambulance.",
       "url": "https://www.abc.net.au/news/2025-05-23/st-john-ambulance-wa-volunteers-fundraise-for-equipment/105318850",
-      "portfolios": [
-        "Health",
-        "Regional WA"
-      ],
+      "portfolios": ["Health", "Regional WA"],
       "overview": "In a State running a $3.1 billion surplus, why are country ambulance volunteers still fundraising to replace ageing ambulances and upgrade their sub-stations?",
       "quotes": [
         "They volunteer their time to drive the ambulance, but then they're also expected to raise money to buy the ambulance.",
