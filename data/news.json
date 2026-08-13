@@ -1,6 +1,14 @@
 {
   "releases": [
     {
+      "id": "2026-08-12_if-gov-wants-more-homes-built-it-must-protect",
+      "iso": "2026-08-12",
+      "title": "If Government Wants More Homes Built, It Must Protect the People Building Them.",
+      "url": "/s/2026-08-12-If-Gov-Wants-More-Homes-Built-It-Must-Protect-the-People-Building-Them.pdf",
+      "portfolios": ["Housing", "Regional WA"],
+      "summary": "Bevan argues that while government pushes for more homes to be built, homeowners taking on the financial risk lack proper protection, and calls for completion certificates to require homeowner sign-off and proper electrical and plumbing checks before a home is declared finished."
+    },
+    {
       "id": "2026-06-04_don-t-make-wa-wine-the-next-casualty-of",
       "iso": "2026-06-04",
       "title": "Don't make WA wine the next casualty of rising costs.",
