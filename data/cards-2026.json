@@ -1,5 +1,30 @@
 [
   {
+    "id": "2026-08-12_LA_049",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "12 August 2026",
+    "iso": "2026-08-12",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ROAD SAFETY",
+      "TRANSPORT",
+      "REGIONAL WA"
+    ],
+    "title": "A SAFETY LAW MOST PEOPLE ASSUME WE ALREADY HAVE",
+    "summary": "Bevan spoke in support of the Rail Safety National Law Application Amendment (Rolling Stock Lighting) Bill 2026, a private member's bill brought by the Leader of the Nationals WA. The bill requires trains operating near regional level crossings to be fitted with a forward facing flashing beacon and side lighting, and allows better visibility technology to be adopted later by regulation. Bevan said the measure is so obvious that most people would assume the law already existed, and that it has taken more than two decades of reports, research and recommendations to reach this point. He set out the evidence: after the Yarramony Road collision the coroner found the crossing was not reasonably conspicuous and the train itself was not adequately lit, and recommended flashing lights on locomotives; a 2004 federal parliamentary inquiry recommended reflective markings and rotating beacons; and research by the Australasian Centre for Rail Innovation and the Monash Institute of Railway Technology found almost double the visibility in daylight and dramatically greater visibility at night. He explained why this matters at home, where many Warren–Blackwood crossings are passive, with no boom gates, flashing lights or audible warning, and where trains run rarely enough that drivers stop expecting them. He acknowledged Ms Jensen's 25 years of advocacy after the deaths of her brother, Christian Jensen, Jess Broad and Hilary Smith, and noted the bill is backed by road safety, agriculture, local government, trucking and regional organisations.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "road-safety",
+      "transport"
+    ],
+    "quote": "If we know that making trains more visible improves safety and if we know it can be done in a practical and proportionate way, why would we not do it?",
+    "outcome": "The Minister for Transport, Rita Saffioti, said in reply that the state does not normally depart from a national law it has signed up to, but accepted that more action was needed and possibly faster than the national road map. She said the government agreed a set of amendments in its party room the day before and passed them to the Leader of the Nationals within two hours, citing concerns about driver distraction, the cost of retrofitting volunteer run heritage and tourist rail, and the risk of pushing freight off rail and onto trucks. Debate was then adjourned on the motion of Terry Healy, so the bill did not reach a vote. Both sides said they want to settle amendments and move the bill to the Legislative Council.",
+    "watch": "https://youtu.be/cHd8Y9kWUlA",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-08-12/49?sid=4eb7d20f1a0442acad&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
     "id": "2026-06-18_LA_040",
     "kind": "qwn",
     "type": "QUESTION WITHOUT NOTICE",
