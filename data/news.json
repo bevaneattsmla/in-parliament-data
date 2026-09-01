@@ -309,6 +309,25 @@
   ],
   "media": [
     {
+      "id": "2026-09-01_working-holiday-visa-pause",
+      "iso": "2026-09-01",
+      "outlet": "ABC South West",
+      "author": "Chela Williams",
+      "title": "Pausing working holiday visas leaves regional farms short at harvest.",
+      "url": "https://youtu.be/-aix3j-hmZU",
+      "medium": "radio",
+      "portfolios": [
+        "Agriculture",
+        "Regional WA"
+      ],
+      "overview": "Work and Holiday visa applications are paused for 24 of the 29 partner countries and Working Holiday processing has slowed since the program year opened on 1 July, while the National Farmers' Federation puts backpackers at about half the peak-harvest casual workforce. With horticulture and hospitality across the South West and Great Southern gearing up for the season, why was agriculture not prioritised?",
+      "quotes": [
+        "For them not to be prioritising agriculture, it leaves me a bit dumbfounded.",
+        "When we had a system that was working so well, why would we make those changes?"
+      ],
+      "thread": "working-holiday-visas"
+    },
+    {
       "id": "2026-08-21_change-targets-cheaper-homes",
       "iso": "2026-08-21",
       "outlet": "Augusta-Margaret River Times",
