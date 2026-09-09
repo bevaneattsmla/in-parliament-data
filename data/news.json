@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "id": "2026-09-01_visa-changes-target-the-wrong-workers",
+      "iso": "2026-09-01",
+      "title": "Visa changes target the wrong workers and put regional harvests at risk.",
+      "url": "/s/2026-09-02-Visa-changes-target-the-wrong-workers-and-put-regional-harvests-at-risk.pdf",
+      "portfolios": [
+        "Agriculture",
+        "Regional WA"
+      ],
+      "thread": "working-holiday-visas",
+      "summary": "Bevan warns that Ministerial Direction 119 leaves agriculture off the skilled visa priority list while Working Holiday Maker processing stays paused for much of the partner country list, right as South West growers head into spring and harvest."
+    },
+    {
       "id": "2026-06-04_don-t-make-wa-wine-the-next-casualty-of",
       "iso": "2026-06-04",
       "title": "Don't make WA wine the next casualty of rising costs.",
