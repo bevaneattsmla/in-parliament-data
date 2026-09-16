@@ -1,5 +1,205 @@
 [
   {
+    "id": "2026-09-15_LA_045_a",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "GIVING COUNCILS A POWER IS NOT MAKING IT WORK",
+    "summary": "Bevan spoke on the Cat Amendment (Local Laws) Bill 2026, which amends section 79 of the Cat Act 2011 so local governments can make local laws to contain cats. He supported the intent.\n\n## Why it matters here\nWarren–Blackwood communities live alongside national parks, reserves, forests and areas of significant biodiversity, so roaming cats are a live issue for the shires that manage them.\n\n## The point he pressed\nThe bill lets a council restrict cats to their owners' premises, prohibit cats from public areas, introduce curfews, or require cats to be under effective control off the property. Bevan said that flexibility is worth having, but a power on paper is not the same as a power that works.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "giving councils a power and making that power work are two different things, and that is where I believe we need to pay close attention to the evidence.",
+    "outcome": "Bevan supported giving local communities that flexibility and said the test is whether councils can actually use it.\n\nThe opposition supported the bill. Kirrilee Warr, the member for Geraldton, led for the opposition, and David Bolt, the member for Murray–Wellington, also spoke in support. Debate on the second reading continued after Bevan's contribution.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-09-15_LA_045_b",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "A CONTAINMENT LAW ONLY REACHES THE CATS WITH OWNERS",
+    "summary": "Bevan set out the position of RSPCA WA, which supports reducing the risks roaming cats pose to wildlife, to communities and to the welfare of cats themselves, but does not currently support mandatory 24-hour containment as a standalone measure.\n\n## What RSPCA WA says has to come with it\nReliable identification, access to desexing and microchipping, practical support for owners, and enough local government capacity to make sure the rules apply.\n\n## The distinction that matters\nThere are owned cats, semi-owned cats fed by someone who does not regard themselves as the owner, unowned cats and feral cats. A containment law speaks to the first group. It does not by itself speak to the rest.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "In plain language, a containment law tells a responsible owner what they must do with their cat. It does not by itself deal with every cat causing the problem.",
+    "outcome": "Bevan asked the house to keep those categories separate when judging what this bill will achieve, because a law written for identifiable owners is not a strategy for the cats nobody claims.\n\nThe same gap was raised from the Liberal benches. David Bolt, the member for Murray–Wellington, told the house the bill is principally about the management of owned domestic cats and is not in itself a feral cat control bill.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-09-15_LA_045_c",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "791 STRAYS, 97 PER CENT NOT DESEXED",
+    "summary": "Bevan put RSPCA WA's own intake figures to the house.\n\n## The numbers\nSince March 2023, RSPCA WA has taken in 2,433 cats and kittens. Of those, 791, or 33 per cent, were unidentified strays. Of those unidentified strays, 97 per cent were not sterilised.\n\n## What it tells us\nRSPCA WA material makes the point that unowned and semi-owned cats contribute disproportionately to roaming behaviour, unmanaged breeding and nuisance complaints. Those are also the cats a containment law is least able to reach, because there is no owner to give a direction to.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "If we make rules that principally affect identifiable, responsible cat owners but we do not have a serious strategy for unidentified and unsterilised cats, we should not assume that we have solved the problem.",
+    "outcome": "Bevan's point was that the figures show where part of the problem actually sits, and that rules aimed at responsible owners should not be mistaken for a fix for all of it.\n\nDavid Bolt, the member for Murray–Wellington, made a related point in the same debate, that there is very little state government data available on cat predation, and asked what work the government is doing to build a reliable evidence base.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-09-15_LA_045_d",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "NEW SOUTH WALES CUT NUISANCE COMPLAINTS BY MORE THAN 40 PER CENT",
+    "summary": "Bevan pointed the house to Australian evidence that containment can work when it is properly supported.\n\n## The program\nThe RSPCA NSW Keeping Cats Safe at Home project worked with 11 local councils between 2021 and 2024. It was not simply an enforcement program. It combined education with subsidised desexing and microchipping, veterinary involvement, practical advice on keeping cats at home and continuing community support.\n\n## The results\nMore than 2,700 cats were desexed across the 11 council areas and more than 1,700 cats were microchipped. Cat-related nuisance complaints were cut by more than 40 per cent in seven of the council areas, and some councils also recorded significant reductions in impoundments.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "The lesson is that legislation works best when the community has the practical means to comply with it.",
+    "outcome": "Bevan's reading of the New South Wales result is that enforcement was not the active ingredient. The program paid for the thing it was asking people to do.\n\nHe put that to the house as the approach Western Australia should learn from: protect wildlife, improve cat welfare and reduce nuisance at the same time, without pretending there is one simple answer.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-09-15_LA_045_e",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "LARGE SHIRES, FEW RANGERS, DISTANT VETS",
+    "summary": "Bevan set out why a metropolitan containment model does not transfer cleanly to Warren–Blackwood.\n\n## The capacity problem\nLocal governments here cover large areas. Ranger resources are limited. Veterinary services can be a considerable distance away.\n\n## The cost problem\nThe cost of desexing, microchipping and constructing suitable containment can be significant for some households. Bevan named older residents, renters and people on lower incomes who have owned an outdoor cat for many years as the people most exposed if a council introduces containment without notice or help.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "That does not mean abandoning containment; it means implementing it properly.",
+    "outcome": "Bevan did not ask for an exemption for regional councils. He asked that the people affected be given clear information and reasonable time to adjust.\n\nDavid Bolt, the member for Murray–Wellington, raised the same implementation question, asking what assistance the government will provide to smaller and regional councils that choose to use the new power, given the state is not proposing specific implementation support.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-09-15_LA_045_f",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "ENCOURAGEMENT IS NOT A TRANSITION PLAN",
+    "summary": "Bevan quoted the government's own description of these reforms, that local governments will be able to consider transitional arrangements for existing outdoor cat owners and are encouraged to explore strategies to support owners by implementing local laws. He told the house that part of the policy needs considerably more attention.\n\n## What RSPCA WA recommends\nGrandfathering or transitional provisions, realistic implementation periods, community education and notification, appropriate exemptions, and behavioural change support.\n\n## Why it matters\nWithout those safeguards, a new local law can push cats into pounds and leave owners in a position where compliance is out of reach.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "Those are reasonable safeguards that would help councils introduce local laws without unnecessarily pushing cats into pounds or placing people in a position where compliance is financially or practically beyond them.",
+    "outcome": "Bevan framed these as safeguards that make containment work, not a brake on it.\n\nDavid Bolt, the member for Murray–Wellington, told the house the minister had encouraged councils to consider transition arrangements and assistance such as cat runs and catios. Bevan's point is that encouragement is not a framework, and the cost and the detail still fall to the councils.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-09-15_LA_045_g",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "NO BASELINE DATA MEANS NO WAY TO KNOW",
+    "summary": "Bevan asked Parliament to decide in advance how it will know whether this legislation has worked.\n\n## What should be measured\nWhether roaming complaints go down. Whether registrations and microchipping go up. Whether impoundments go up or down. What happens to the cats that enter pounds. Where possible, whether there is an improvement in the wildlife populations the laws are intended to protect.\n\n## Why it has to be set now\nRSPCA WA recommends baseline data and ongoing monitoring of precisely these outcomes. A baseline has to be taken before the local laws start, not after.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "Without baseline information, we can count how many rules have been made, but we cannot properly tell the community whether those rules have worked.",
+    "outcome": "Bevan's position is that a count of local laws made is not evidence of a result.\n\nThe same gap was raised by David Bolt, the member for Murray–Wellington, who said there is very little state government data on cat predation and asked whether the government intends to develop measurable outcomes against which these reforms can be assessed. The minister's reply to the second reading debate had not been given when Bevan finished speaking.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-09-15_LA_045_h",
+    "kind": "qwn",
+    "type": "BILL",
+    "date": "15 September 2026",
+    "iso": "2026-09-15",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "ENVIRONMENT",
+      "REGIONAL WA",
+      "COMMUNITY"
+    ],
+    "title": "THE TEST IS FEWER CATS ROAMING, NOT MORE LOCAL LAWS",
+    "summary": "Bevan closed by naming the benchmark he wants Western Australia to work to.\n\n## What New South Wales is doing next\nThe second phase of that work is now seeking to reduce free-roaming cat populations by another 30 per cent, increase safe containment above 50 per cent and reduce pound intake by 20 per cent.\n\n## What he asked of the government\nImprove registration and microchipping. Make desexing more accessible. Deal properly with semi-owned and unowned cats. Provide reasonable transition arrangements where containment laws are introduced. Provide practical education and support for owners. Collect the information needed to establish whether the policy is actually reducing roaming and protecting wildlife.",
+    "status": "",
+    "thread": "",
+    "portfolios": [
+      "environment"
+    ],
+    "quote": "the measure of this legislation will not be how many local laws are written but whether we end up with fewer cats roaming, healthier cats, less pressure on pounds and better protection for Western Australia's native wildlife.",
+    "outcome": "Bevan supported giving local governments the power in the bill and asked the government to now make sure they also have the tools, guidance and support required to make that power work.\n\nFor Warren–Blackwood he framed the goal as an outcome that works for the councils, the residents, animal welfare and native wildlife at the same time. Debate on the second reading continued after his contribution.",
+    "clip": "",
+    "watch": "https://youtu.be/1QOz1G48-6s",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-09-15/45?sid=25c94e0f93624bc886&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
     "id": "2026-09-09_LA_025_f",
     "kind": "qwn",
     "type": "MOTION",
