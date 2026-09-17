@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "id": "2026-09-17_sandalwood-industry-sounds-alarm",
+      "iso": "2026-09-17",
+      "title": "Sandalwood industry sounds alarm over Government reforms.",
+      "url": "/s/260917-Media-Release-Sandalwood-industry-sounds-alarm-over-Government-reforms.pdf",
+      "portfolios": [
+        "Forestry",
+        "Regional WA"
+      ],
+      "thread": "forestry",
+      "summary": "Bevan used a grievance in Parliament to challenge plans to remove the Forest Products Commission from commercial wild sandalwood and replace it with a DBCA licensing system. He warns a licence does not replace a supply chain, that international buyers are already weighing other supply beyond December 2026, and asks why the Minister has not listened to industry first."
+    },
+    {
       "id": "2026-09-07_older-australians-stranded-in-hospital",
       "iso": "2026-09-07",
       "title": "WA needs its own plan as older Australians stranded in hospital reach record levels.",
