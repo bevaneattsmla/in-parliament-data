@@ -333,6 +333,24 @@
   ],
   "media": [
     {
+      "id": "2026-09-16_labour-fears-in-visa-change",
+      "iso": "2026-09-16",
+      "outlet": "Manjimup-Bridgetown Times",
+      "author": "Craig Duncan",
+      "title": "Labour fears in visa change.",
+      "url": "",
+      "portfolios": [
+        "Agriculture",
+        "Regional WA"
+      ],
+      "overview": "Ministerial Direction 119 took effect on 25 July, moving agricultural skilled visa applications, including subclass 482, into lower processing tiers while Working Holiday Maker processing has slowed and applications from 24 countries are paused. With spring calving and WA's $10 billion grain harvest approaching, will South West producers have the workers they need?",
+      "quotes": [
+        "It is baffling that agriculture isn't being prioritised when these workers are absolutely critical to getting crops harvested and keeping regional businesses operating.",
+        "They'll go to New Zealand or other countries, and once we lose those workers it is much harder to convince them to come back."
+      ],
+      "thread": "working-holiday-visas"
+    },
+    {
       "id": "2026-09-01_working-holiday-visa-pause",
       "iso": "2026-09-01",
       "outlet": "ABC South West",
