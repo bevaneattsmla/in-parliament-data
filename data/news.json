@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "id": "2026-09-22_labor-walks-away-from-sffc-success-story",
+      "iso": "2026-09-22",
+      "title": "Labor walks away from Southern Forests success story.",
+      "url": "/s/2026-09-22-Media-Release-Labor-walks-away-from-SFFC-success-story.pdf",
+      "portfolios": [
+        "Regional WA",
+        "Agriculture"
+      ],
+      "summary": "The State Government has told the Southern Forests Food Council its operational funding will end, and the Council says it may be forced to wind up. Bevan points to the Council's independent assessment of $6.1 million in economic value in 2023–24 and the Government's own $725,000 backing in 2023, and asks what has changed. He is calling for $725,000 a year for three years."
+    },
+    {
       "id": "2026-09-17_sandalwood-industry-sounds-alarm",
       "iso": "2026-09-17",
       "title": "Sandalwood industry sounds alarm over Government reforms.",
@@ -35,6 +46,27 @@
       ],
       "thread": "working-holiday-visas",
       "summary": "Ministerial Direction 119 pushes agriculture down the visa processing queue while Working Holiday Maker applications slow across much of the partner country list. Bevan, a farmer who relied on backpacker labour, says the timing lands squarely on spring and harvest."
+    },
+    {
+      "id": "2026-08-14_aged-care-wait-time-claims-dont-add-up",
+      "iso": "2026-08-14",
+      "title": "Government's Aged Care Wait Time Claims Don't Add Up.",
+      "url": "/s/260814-Government-Aged-Care-Wait-Time-Claims-Dont-Add-Up.pdf",
+      "portfolios": [
+        "Aged Care"
+      ],
+      "summary": "Bevan calls on the Federal Government to explain conflicting official figures on aged care wait times, after the Department of Health, Disability and Ageing's June data showed standard-priority applicants still facing a seven to eight month wait, unchanged from March. The Department's published figure counts both new applicants and people seeking a higher level of care after reassessment, while its statutory Wait Times Report excludes reassessments altogether, so two official figures are measuring different groups of people."
+    },
+    {
+      "id": "2026-08-12_if-gov-wants-more-homes-built-it-must-protect",
+      "iso": "2026-08-12",
+      "title": "If Government Wants More Homes Built, It Must Protect the People Building Them.",
+      "url": "/s/2026-08-12-If-Gov-Wants-More-Homes-Built-It-Must-Protect-the-People-Building-Them.pdf",
+      "portfolios": [
+        "Housing",
+        "Regional WA"
+      ],
+      "summary": "Bevan argues that while government pushes for more homes to be built, homeowners taking on the financial risk lack proper protection, and calls for completion certificates to require homeowner sign-off and proper electrical and plumbing checks before a home is declared finished."
     },
     {
       "id": "2026-06-04_don-t-make-wa-wine-the-next-casualty-of",
@@ -397,6 +429,29 @@
         "A housing target does not build a house, available land does not build a house, a transfer duty concession does not build a house.",
         "In places such as Boyup Brook and Pemberton, headwork and servicing costs can make developments unviable before a slab is poured."
       ]
+    },
+    {
+      "id": "2026-07-10_hope-is-not-a-biosecurity-strategy",
+      "iso": "2026-07-10",
+      "outlet": "Australian Rural & Regional News",
+      "author": "Trevor Whittington",
+      "title": "Hope is not a biosecurity strategy.",
+      "url": "https://arr.news/2026/07/10/hope-is-not-a-biosecurity-strategy/",
+      "portfolios": [
+        "Regional WA",
+        "Environment"
+      ],
+      "overview": "With DPIRD's biosecurity budget forecast to fall from $833 million to $467 million within five years, is hope now the Government's entire strategy for keeping pests and disease out of WA?",
+      "quotes": [
+        "Biosecurity is simple: it keeps pests out of crops, workers in jobs and food on shelves. When it works, no-one notices. When it fails, the damage can last for decades, maybe even forever.",
+        "Government should invest before a crisis, not after it.",
+        "We remain one of the last major varroa-free jurisdictions in Australia.",
+        "Preparedness is not a plan on a shelf. It is the surveillance and technology in place before an incursion, not after.",
+        "Without healthy bees, avocado crops, pome crops and stone-fruit crops are all at risk.",
+        "With varroa, we still have a chance, and the Government should take it.",
+        "The people who feed, clothe and sustain this State deserve better. They deserve a government that invests in prevention."
+      ],
+      "thread": "biosecurity"
     },
     {
       "id": "2026-07-02_mla-calls-for-wine-bottles-exemption",
