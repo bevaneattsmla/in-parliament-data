@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "id": "2026-10-13_blame-game-no-substitute-for-action-on-aged-care-crisis",
+      "iso": "2026-10-13",
+      "title": "Blame game no substitute for action on aged care crisis.",
+      "url": "/s/2026-10-13_blame-game-no-substitute-for-action-on-aged-care-crisis.pdf",
+      "portfolios": [
+        "Aged Care",
+        "Health"
+      ],
+      "thread": "aged-care-in-hospital",
+      "summary": "The Australasian College for Emergency Medicine reports that only 54 per cent of older emergency department patients were admitted to a hospital bed within eight hours in 2023–24, down from 75 per cent five years earlier. Bevan says the Commonwealth carries major responsibility for aged care, but the State Government cannot wash its hands of older patients stranded in hospital. He also points to Commonwealth data showing WA averaged 7.4 residential respite days per operational place in 2024–25, against 13.3 nationally."
+    },
+    {
       "id": "2026-09-22_labor-walks-away-from-sffc-success-story",
       "iso": "2026-09-22",
       "title": "Labor walks away from Southern Forests success story.",
