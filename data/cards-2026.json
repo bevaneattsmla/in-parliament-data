@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-10-22_LA_019_a",
+    "kind": "qwn",
+    "type": "MEMBER STATEMENT",
+    "date": "22 October 2026",
+    "iso": "2026-10-22",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "AGED CARE",
+      "REGIONAL WA"
+    ],
+    "title": "MAY WAS THE PLAN, IT IS NOW OCTOBER",
+    "summary": "In a member statement, Bevan said the government claims to be pulling every lever to support aged care, yet providers seeking a loan under its $100 million Aged Care Low Interest Loan Scheme are still waiting for certainty.\n\n## The timetable\nApplications closed on 13 February. The indicative timetable anticipated the loan agreements in May. It is now October. In July, eight providers progressed to negotiations, but he said negotiations are not confirmed finance.\n\n## Why certainty matters\nBevan said these providers, including not-for-profits, are businesses. They need certainty to finalise budgets, obtain approvals, engage builders and plan their workforce, and the scheme itself requires them to demonstrate financial viability and project readiness.",
+    "status": "",
+    "thread": "regional-aged-care",
+    "portfolios": [
+      "aged-care"
+    ],
+    "quote": "In July, eight providers progressed to negotiations, but negotiations are not confirmed finance.",
+    "outcome": "Bevan said providers still awaiting final outcomes deserve better than an open-ended wait.",
+    "clip": "",
+    "watch": "https://youtu.be/PmyPlhCnNrA",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-10-22/19?sid=57314a401418404584&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-10-22_LA_019_b",
+    "kind": "qwn",
+    "type": "MEMBER STATEMENT",
+    "date": "22 October 2026",
+    "iso": "2026-10-22",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "AGED CARE",
+      "REGIONAL WA"
+    ],
+    "title": "A CHEAP LOAN CANNOT COVER RUNNING COSTS",
+    "summary": "Bevan raised a further concern: Juniper warned in September that the Commonwealth government's latest residential aged-care funding decision had undermined the business case for its planned northern development.\n\n## The questions\nHe asked whether those funding settings have also affected projects seeking state loans, and whether the minister has confirmed that the proposals being negotiated still stack up.\n\n## The risk\nA low-interest loan reduces financing costs, but it cannot by itself make a facility sustainable if ongoing revenue cannot cover operating costs. Bevan said the risk is not simply that projects start later, but that some are scaled back or abandoned, leaving the scheme delivering fewer aged-care places than intended.",
+    "status": "",
+    "thread": "regional-aged-care",
+    "portfolios": [
+      "aged-care"
+    ],
+    "quote": "A low-interest loan reduces financing costs; it cannot by itself make a facility sustainable if ongoing revenue cannot cover operating costs.",
+    "outcome": "Bevan asked the minister to confirm whether the proposals being negotiated still stack up after the Commonwealth funding changes.",
+    "clip": "",
+    "watch": "https://youtu.be/PmyPlhCnNrA",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-10-22/19?sid=57314a401418404584&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
+    "id": "2026-10-22_LA_019_c",
+    "kind": "qwn",
+    "type": "MEMBER STATEMENT",
+    "date": "22 October 2026",
+    "iso": "2026-10-22",
+    "loc": "WARREN–BLACKWOOD",
+    "topics": [
+      "AGED CARE",
+      "REGIONAL WA"
+    ],
+    "title": "A FORTNIGHT, A TIMETABLE, AN EXPLANATION",
+    "summary": "Bevan said the state cannot control Commonwealth indexation, but it can control its own decision-making and explain how changed circumstances affect its scheme.\n\n## Three asks of the minister\nHe called on the minister to update the outstanding applicants within a fortnight, publish a firm timetable for final decisions, and explain whether Commonwealth funding changes threaten the projects the scheme was intended to support.\n\n## The standard\nPulling every lever, he said, must mean timely decisions, not leaving providers and the communities depending on them in limbo.",
+    "status": "",
+    "thread": "regional-aged-care",
+    "portfolios": [
+      "aged-care"
+    ],
+    "quote": "Pulling every lever must mean timely decisions, not leaving providers and the communities depending on them in limbo.",
+    "outcome": "Bevan called on the minister to update outstanding applicants within a fortnight, publish a firm timetable for final decisions, and explain whether Commonwealth funding changes threaten the projects the scheme was meant to support.",
+    "clip": "",
+    "watch": "https://youtu.be/PmyPlhCnNrA",
+    "hansard": "https://www.parliament.wa.gov.au/hansard/daily/lh/2026-10-22/19?sid=57314a401418404584&talkerIndex=0#366f6218140b487da11a469a90892944"
+  },
+  {
     "id": "2026-10-13_LA_050_a",
     "kind": "qwn",
     "type": "BILL",
